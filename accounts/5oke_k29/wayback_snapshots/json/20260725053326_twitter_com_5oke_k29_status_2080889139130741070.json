@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2078196160498708559",
+    "created_at": "2026-07-25T05:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080889139130741070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804226767672250368",
+          "start": 0,
+          "username": "linyue07060"
+        },
+        {
+          "end": 25,
+          "id": "2055194471537754112",
+          "start": 13,
+          "username": "zng_zp79891"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080889139130741070",
+    "in_reply_to_user_id": "1804226767672250368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080766319453208598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyue07060 @zng_zp79891 🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2078196160498708559",
+        "created_at": "2026-07-25T05:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080889139130741070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804226767672250368",
+              "start": 0,
+              "username": "linyue07060"
+            },
+            {
+              "end": 25,
+              "id": "2055194471537754112",
+              "start": 13,
+              "username": "zng_zp79891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080889139130741070",
+        "in_reply_to_user_id": "1804226767672250368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080766319453208598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyue07060 @zng_zp79891 🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804226767672250368",
+        "conversation_id": "2078196160498708559",
+        "created_at": "2026-07-24T21:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T22:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080766319453208598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055194471537754112",
+              "start": 0,
+              "username": "zng_zp79891"
+            },
+            {
+              "end": 22,
+              "id": "1317689258052710400",
+              "start": 13,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080766319453208598",
+        "in_reply_to_user_id": "2055194471537754112",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080544501358313773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zng_zp79891 @5oke_k29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5332,
+          "following_count": 164,
+          "like_count": 967,
+          "listed_count": 8,
+          "media_count": 336,
+          "tweet_count": 2860
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T18:56:07.000Z",
+        "description": "(ˊo̴̶̷̤ ̫ o̴̶̷̤ˋ)",
+        "id": "1804226767672250368",
+        "name": "琳悦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041638957490765824/phKY4UHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 35,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "linyue07060",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T07:52:20.000Z",
+        "description": "",
+        "id": "2055194471537754112",
+        "name": "zp zhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055194555868491776/ECVy13Gc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "zng_zp79891",
+        "verified": false
+      }
+    ]
+  }
+}

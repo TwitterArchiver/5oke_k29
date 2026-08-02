@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067573558218457088"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2067539296261927160",
+    "created_at": "2026-06-18T11:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067573584114163748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PqDvZ1HuKs",
+          "end": 132,
+          "expanded_url": "https://x.com/5oke_k29/status/2067573584114163748/photo/1",
+          "media_key": "3_2067573558218457088",
+          "start": 109,
+          "url": "https://t.co/PqDvZ1HuKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067573584114163748",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067572746029277470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 我也很喜欢🥹刚做没多久一直怕撞到 大概做了四五个月的时候我磕了药还喝酒了 脸朝地摔了直接 鼻头红了但是居然没有歪😭而且恢复好后也是好好的 后面也刮到过山根 有个伤口现在也恢复好了 运气也是不要太好 https://t.co/PqDvZ1HuKs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067573558218457088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF_MlyaAAAFfm4.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067573558218457088"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2067539296261927160",
+        "created_at": "2026-06-18T11:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067573584114163748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqDvZ1HuKs",
+              "end": 132,
+              "expanded_url": "https://x.com/5oke_k29/status/2067573584114163748/photo/1",
+              "media_key": "3_2067573558218457088",
+              "start": 109,
+              "url": "https://t.co/PqDvZ1HuKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067573584114163748",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067572746029277470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 我也很喜欢🥹刚做没多久一直怕撞到 大概做了四五个月的时候我磕了药还喝酒了 脸朝地摔了直接 鼻头红了但是居然没有歪😭而且恢复好后也是好好的 后面也刮到过山根 有个伤口现在也恢复好了 运气也是不要太好 https://t.co/PqDvZ1HuKs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809233055196073984",
+        "conversation_id": "2067539296261927160",
+        "created_at": "2026-06-18T11:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067572746029277470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067572746029277470",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067571237497507866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 真的好漂亮精致啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 100,
+          "like_count": 844,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 1976
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2066059151097160134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 198,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 413
+        },
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

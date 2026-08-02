@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073055099509944687",
+    "created_at": "2026-07-04T06:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073287959361814628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1359562467420999681",
+          "start": 0,
+          "username": "wanjia6688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073287959361814628",
+    "in_reply_to_user_id": "1359562467420999681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073114623541453074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanjia6688 我也想戒呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073055099509944687",
+        "created_at": "2026-07-04T06:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073287959361814628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359562467420999681",
+              "start": 0,
+              "username": "wanjia6688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073287959361814628",
+        "in_reply_to_user_id": "1359562467420999681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073114623541453074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanjia6688 我也想戒呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359562467420999681",
+        "conversation_id": "2073055099509944687",
+        "created_at": "2026-07-03T18:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073114623541453074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073114623541453074",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073055099509944687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 我就想不通了 你是得重病没几天了还是到底怎么了 除非我知道自己没几天的情况下才有可能效仿你 正常来说年纪轻轻的你干嘛要玩这么大  未来几十年科技会很发达可以亲眼目睹赛博朋克世界 生活都很便利 找一个爱自己的人过一生不好吗？这么早就想不开了 你真浪费上天赐予你的一些其他东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 129,
+          "like_count": 930,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 2288
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-10T17:58:54.000Z",
+        "description": "VVS颅内高潮",
+        "id": "1359562467420999681",
+        "location": "武汉汉阳",
+        "name": "奶叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732723480968544256/xJcAfWbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 1526,
+          "like_count": 470,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "wanjia6688",
+        "verified": false
+      }
+    ]
+  }
+}

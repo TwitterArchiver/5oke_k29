@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2074407864349921362",
+    "created_at": "2026-07-07T08:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074412108218052675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2072275045871992832",
+          "start": 0,
+          "username": "yyccxx19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074412108218052675",
+    "in_reply_to_user_id": "2072275045871992832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074411254312288312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyccxx19 谢谢谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2074407864349921362",
+        "created_at": "2026-07-07T08:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074412108218052675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2072275045871992832",
+              "start": 0,
+              "username": "yyccxx19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074412108218052675",
+        "in_reply_to_user_id": "2072275045871992832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074411254312288312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyccxx19 谢谢谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072275045871992832",
+        "conversation_id": "2074407864349921362",
+        "created_at": "2026-07-07T08:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074411254312288312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074411254312288312",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074410368173277392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 姐，不用和沙壁互喷，纯纯内耗自己！你是很棒的女孩子！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4239,
+          "following_count": 142,
+          "like_count": 950,
+          "listed_count": 7,
+          "media_count": 295,
+          "tweet_count": 2421
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T11:04:35.000Z",
+        "description": "",
+        "id": "2072275045871992832",
+        "name": "xcy",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "yyccxx19",
+        "verified": false
+      }
+    ]
+  }
+}

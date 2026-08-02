@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081034084219047936",
+        "3_2081034084223188992"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2081034096982241551",
+    "created_at": "2026-07-25T15:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081034096982241551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8FRPBQM6Nm",
+          "end": 77,
+          "expanded_url": "https://x.com/5oke_k29/status/2081034096982241551/photo/1",
+          "media_key": "3_2081034084219047936",
+          "start": 54,
+          "url": "https://t.co/8FRPBQM6Nm"
+        },
+        {
+          "display_url": "pic.x.com/8FRPBQM6Nm",
+          "end": 77,
+          "expanded_url": "https://x.com/5oke_k29/status/2081034096982241551/photo/1",
+          "media_key": "3_2081034084223188992",
+          "start": 54,
+          "url": "https://t.co/8FRPBQM6Nm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081034096982241551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死贱畜看到男的发个白袜恨不得给狗鼻子把脚趾戳那鼻孔里 原味都买不起还要抽😂别逗你爷爷笑 又是个什么篮子玩意 https://t.co/8FRPBQM6Nm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081034084219047936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFReUtbUAAeh1U.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081034084223188992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFReUuagAALeQ-.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081034084219047936",
+            "3_2081034084223188992"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2081034096982241551",
+        "created_at": "2026-07-25T15:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081034096982241551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FRPBQM6Nm",
+              "end": 77,
+              "expanded_url": "https://x.com/5oke_k29/status/2081034096982241551/photo/1",
+              "media_key": "3_2081034084219047936",
+              "start": 54,
+              "url": "https://t.co/8FRPBQM6Nm"
+            },
+            {
+              "display_url": "pic.x.com/8FRPBQM6Nm",
+              "end": 77,
+              "expanded_url": "https://x.com/5oke_k29/status/2081034096982241551/photo/1",
+              "media_key": "3_2081034084223188992",
+              "start": 54,
+              "url": "https://t.co/8FRPBQM6Nm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081034096982241551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死贱畜看到男的发个白袜恨不得给狗鼻子把脚趾戳那鼻孔里 原味都买不起还要抽😂别逗你爷爷笑 又是个什么篮子玩意 https://t.co/8FRPBQM6Nm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5452,
+          "following_count": 164,
+          "like_count": 972,
+          "listed_count": 9,
+          "media_count": 340,
+          "tweet_count": 2892
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

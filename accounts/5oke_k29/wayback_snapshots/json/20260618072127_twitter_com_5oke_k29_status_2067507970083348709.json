@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2067409852985643378",
+    "created_at": "2026-06-18T07:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067507970083348709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018742198356131840",
+          "start": 0,
+          "username": "lilidihv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067507970083348709",
+    "in_reply_to_user_id": "2018742198356131840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067409852985643378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilidihv 笑得想死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067409844349632512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDqTMGbAAAZP5y.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2067409852985643378",
+        "created_at": "2026-06-18T07:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067507970083348709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018742198356131840",
+              "start": 0,
+              "username": "lilidihv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067507970083348709",
+        "in_reply_to_user_id": "2018742198356131840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067409852985643378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilidihv 笑得想死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067409844349632512"
+          ]
+        },
+        "author_id": "2018742198356131840",
+        "conversation_id": "2067409852985643378",
+        "created_at": "2026-06-18T00:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067409852985643378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpWqXMOek9",
+              "end": 36,
+              "expanded_url": "https://x.com/lilidihv/status/2067409852985643378/photo/1",
+              "media_key": "3_2067409844349632512",
+              "start": 13,
+              "url": "https://t.co/GpWqXMOek9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067409852985643378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7309,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我什么时候能吃到我的流量 https://t.co/GpWqXMOek9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 100,
+          "like_count": 839,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 1956
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T17:45:43.000Z",
+        "description": "tearsvow｜09 宁性恋 \n\n日记本",
+        "id": "2018742198356131840",
+        "name": "京都羡澄女",
+        "pinned_tweet_id": "2045187335147622701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062424314507649025/UO3td5Yc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 60,
+          "like_count": 3235,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 5689
+        },
+        "url": "",
+        "username": "lilidihv",
+        "verified": false
+      }
+    ]
+  }
+}

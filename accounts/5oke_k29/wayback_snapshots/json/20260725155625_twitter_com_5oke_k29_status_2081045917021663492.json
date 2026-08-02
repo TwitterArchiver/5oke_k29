@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081045832728743936",
+        "3_2081045832762302464",
+        "3_2081045832758153216"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2081045917021663492",
+    "created_at": "2026-07-25T15:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081045917021663492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jun5UQcNUD",
+          "end": 92,
+          "expanded_url": "https://x.com/5oke_k29/status/2081045917021663492/photo/1",
+          "media_key": "3_2081045832728743936",
+          "start": 69,
+          "url": "https://t.co/jun5UQcNUD"
+        },
+        {
+          "display_url": "pic.x.com/jun5UQcNUD",
+          "end": 92,
+          "expanded_url": "https://x.com/5oke_k29/status/2081045917021663492/photo/1",
+          "media_key": "3_2081045832762302464",
+          "start": 69,
+          "url": "https://t.co/jun5UQcNUD"
+        },
+        {
+          "display_url": "pic.x.com/jun5UQcNUD",
+          "end": 92,
+          "expanded_url": "https://x.com/5oke_k29/status/2081045917021663492/photo/1",
+          "media_key": "3_2081045832758153216",
+          "start": 69,
+          "url": "https://t.co/jun5UQcNUD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081045917021663492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我玩七八年的初中朋友多了是😂我对朋友也是很好 我身边人都知道 还排挤呢傻逼 排挤我会给我买几百块的娃娃送我口红礼物？给你亲妈经历写出来了 https://t.co/jun5UQcNUD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081045832728743936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFcKLUakAAyvAH.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081045832762302464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFcKLcaoAA5Xfv.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081045832758153216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFcKLbbUAAaB-q.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081045832728743936",
+            "3_2081045832762302464",
+            "3_2081045832758153216"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2081045917021663492",
+        "created_at": "2026-07-25T15:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081045917021663492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jun5UQcNUD",
+              "end": 92,
+              "expanded_url": "https://x.com/5oke_k29/status/2081045917021663492/photo/1",
+              "media_key": "3_2081045832728743936",
+              "start": 69,
+              "url": "https://t.co/jun5UQcNUD"
+            },
+            {
+              "display_url": "pic.x.com/jun5UQcNUD",
+              "end": 92,
+              "expanded_url": "https://x.com/5oke_k29/status/2081045917021663492/photo/1",
+              "media_key": "3_2081045832762302464",
+              "start": 69,
+              "url": "https://t.co/jun5UQcNUD"
+            },
+            {
+              "display_url": "pic.x.com/jun5UQcNUD",
+              "end": 92,
+              "expanded_url": "https://x.com/5oke_k29/status/2081045917021663492/photo/1",
+              "media_key": "3_2081045832758153216",
+              "start": 69,
+              "url": "https://t.co/jun5UQcNUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081045917021663492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我玩七八年的初中朋友多了是😂我对朋友也是很好 我身边人都知道 还排挤呢傻逼 排挤我会给我买几百块的娃娃送我口红礼物？给你亲妈经历写出来了 https://t.co/jun5UQcNUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5460,
+          "following_count": 165,
+          "like_count": 974,
+          "listed_count": 9,
+          "media_count": 340,
+          "tweet_count": 2907
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

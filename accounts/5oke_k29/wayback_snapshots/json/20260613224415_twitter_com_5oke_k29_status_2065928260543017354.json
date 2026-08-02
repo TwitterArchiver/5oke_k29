@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065928254570332160"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065926490689323311",
+    "created_at": "2026-06-13T22:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T23:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065928260543017354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q0NAZ3MfvJ",
+          "end": 120,
+          "expanded_url": "https://x.com/5oke_k29/status/2065928260543017354/photo/1",
+          "media_key": "3_2065928254570332160",
+          "start": 97,
+          "url": "https://t.co/q0NAZ3MfvJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065928260543017354",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065926490689323311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且喷漆才是最大的问题吧。。老抓着一个都没实锤的东西说干啥呢 感觉很多都是听风就是雨 骂也要逮着有证据的玩意骂吧 为什么不等实锤后再说种族歧视这种事？真不怕吃回旋镖 反正也提交了等等看不就行了 https://t.co/q0NAZ3MfvJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065928254570332160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKumzUEbgAA2d_P.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065928254570332160"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065926490689323311",
+        "created_at": "2026-06-13T22:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T23:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065928260543017354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0NAZ3MfvJ",
+              "end": 120,
+              "expanded_url": "https://x.com/5oke_k29/status/2065928260543017354/photo/1",
+              "media_key": "3_2065928254570332160",
+              "start": 97,
+              "url": "https://t.co/q0NAZ3MfvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065928260543017354",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065926490689323311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且喷漆才是最大的问题吧。。老抓着一个都没实锤的东西说干啥呢 感觉很多都是听风就是雨 骂也要逮着有证据的玩意骂吧 为什么不等实锤后再说种族歧视这种事？真不怕吃回旋镖 反正也提交了等等看不就行了 https://t.co/q0NAZ3MfvJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2065926490689323311",
+        "created_at": "2026-06-13T22:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T23:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065926490689323311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065926490689323311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骂sopp鞭尸还有喷漆一点毛病不犯种族歧视这种没有实锤的东西真不觉得太过了吗。。有证据随便追着骂 如果真是误会那不纯丢人 这帽子扣这么大 前面骂这么狠后面实锤出来是误会又要怎么说？中国素质这一块？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 100,
+          "like_count": 802,
+          "listed_count": 3,
+          "media_count": 246,
+          "tweet_count": 1918
+        },
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

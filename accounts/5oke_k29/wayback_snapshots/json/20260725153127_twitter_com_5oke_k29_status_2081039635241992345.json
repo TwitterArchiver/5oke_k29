@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2080932956588450103",
+    "created_at": "2026-07-25T15:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081039635241992345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804226767672250368",
+          "start": 0,
+          "username": "linyue07060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081039635241992345",
+    "in_reply_to_user_id": "1804226767672250368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080932956588450103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyue07060 我也骂他了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2080932936300539904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD1evWasAAzpYp.jpg",
+        "width": 472
+      },
+      {
+        "height": 731,
+        "media_key": "3_2080932936300584960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD1evWbYAAHMH4.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2080932936304746497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD1evXa4AEWPll.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2080932956588450103",
+        "created_at": "2026-07-25T15:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081039635241992345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804226767672250368",
+              "start": 0,
+              "username": "linyue07060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081039635241992345",
+        "in_reply_to_user_id": "1804226767672250368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080932956588450103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyue07060 我也骂他了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080932936300539904",
+            "3_2080932936300584960",
+            "3_2080932936304746497"
+          ]
+        },
+        "author_id": "1804226767672250368",
+        "conversation_id": "2080932956588450103",
+        "created_at": "2026-07-25T08:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080932956588450103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXi6NOj1rL",
+              "end": 70,
+              "expanded_url": "https://x.com/linyue07060/status/2080932956588450103/photo/1",
+              "media_key": "3_2080932936300539904",
+              "start": 47,
+              "url": "https://t.co/IXi6NOj1rL"
+            },
+            {
+              "display_url": "pic.x.com/IXi6NOj1rL",
+              "end": 70,
+              "expanded_url": "https://x.com/linyue07060/status/2080932956588450103/photo/1",
+              "media_key": "3_2080932936300584960",
+              "start": 47,
+              "url": "https://t.co/IXi6NOj1rL"
+            },
+            {
+              "display_url": "pic.x.com/IXi6NOj1rL",
+              "end": 70,
+              "expanded_url": "https://x.com/linyue07060/status/2080932956588450103/photo/1",
+              "media_key": "3_2080932936304746497",
+              "start": 47,
+              "url": "https://t.co/IXi6NOj1rL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080932956588450103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼年年有今年特别多 装还装上瘾了 还是条理解能力有问题的狗 妈的没算到我命中有此一劫 贱逼 https://t.co/IXi6NOj1rL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5453,
+          "following_count": 164,
+          "like_count": 973,
+          "listed_count": 9,
+          "media_count": 338,
+          "tweet_count": 2900
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T18:56:07.000Z",
+        "description": "(ˊo̴̶̷̤ ̫ o̴̶̷̤ˋ)",
+        "id": "1804226767672250368",
+        "name": "琳悦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041638957490765824/phKY4UHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 36,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "linyue07060",
+        "verified": false
+      }
+    ]
+  }
+}

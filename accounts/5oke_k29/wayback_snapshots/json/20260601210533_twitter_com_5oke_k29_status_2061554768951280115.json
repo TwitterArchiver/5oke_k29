@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2061554768951280115",
+    "created_at": "2026-06-01T21:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T22:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061554768951280115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2028432059002150912",
+          "start": 3,
+          "username": "NinJaCatRising"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061554768951280115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061072822928048417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NinJaCatRising: 特别容易焦虑的人都有一个共性，就是做事情总是追求确定性，害怕不稳定和失去，害怕出问题，非常恐惧悬而未决的状态。一件事只要没尘埃落定，等待的过程就会让她们无比煎熬。这背后，往往源于年少时长期的不安感与紧绷感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2061554768951280115",
+        "created_at": "2026-06-01T21:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T22:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061554768951280115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2028432059002150912",
+              "start": 3,
+              "username": "NinJaCatRising"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061554768951280115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061072822928048417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NinJaCatRising: 特别容易焦虑的人都有一个共性，就是做事情总是追求确定性，害怕不稳定和失去，害怕出问题，非常恐惧悬而未决的状态。一件事只要没尘埃落定，等待的过程就会让她们无比煎熬。这背后，往往源于年少时长期的不安感与紧绷感。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028432059002150912",
+        "conversation_id": "2061072822928048417",
+        "created_at": "2026-05-31T13:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061072822928048417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061072822928048417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 38361,
+          "like_count": 962,
+          "quote_count": 13,
+          "reply_count": 65,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "特别容易焦虑的人都有一个共性，就是做事情总是追求确定性，害怕不稳定和失去，害怕出问题，非常恐惧悬而未决的状态。一件事只要没尘埃落定，等待的过程就会让她们无比煎熬。这背后，往往源于年少时长期的不安感与紧绷感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 98,
+          "like_count": 739,
+          "listed_count": 3,
+          "media_count": 244,
+          "tweet_count": 1907
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:29:34.000Z",
+        "description": "保持佛系；\n不加任何联系方式",
+        "id": "2028432059002150912",
+        "name": "funckfasss",
+        "pinned_tweet_id": "2053443454030459336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060964690365198337/i9CWspVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 14,
+          "like_count": 2599,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 531
+        },
+        "username": "NinJaCatRising",
+        "verified": false
+      }
+    ]
+  }
+}

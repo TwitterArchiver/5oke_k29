@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2074407864349921362",
+    "created_at": "2026-07-07T09:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074424986677506106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1986536328784408576",
+          "start": 0,
+          "username": "xana4200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074424986677506106",
+    "in_reply_to_user_id": "1986536328784408576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074424851629219908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xana4200 谢谢😭😭你真的开导了我好多呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2074407864349921362",
+        "created_at": "2026-07-07T09:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074424986677506106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1986536328784408576",
+              "start": 0,
+              "username": "xana4200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074424986677506106",
+        "in_reply_to_user_id": "1986536328784408576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074424851629219908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xana4200 谢谢😭😭你真的开导了我好多呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986536328784408576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "2074407864349921362",
+        "created_at": "2026-07-07T09:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074424851629219908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074424851629219908",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074420658046705784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 Aw I still think you’re so pretty! Tattoos and being short don’t change that at all 🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4238,
+          "following_count": 142,
+          "like_count": 953,
+          "listed_count": 7,
+          "media_count": 297,
+          "tweet_count": 2434
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T20:49:58.000Z",
+        "description": "SHEDTWT/(NOT posting ED )/fulltime stoner 🍃/🇨🇦 VAN/TRNTO/YEG/🎀 2G septum 🎀 DNI W MY PROFILE TO AVOID TRIGGERS!🎀 camera roll dump ♓️ 🐾 🦭🍄",
+        "id": "1986536328784408576",
+        "location": "Pls DNI if NSFW or -14",
+        "name": "Gigi 🎀🦇🦎🍃🚬🦄🪶🐾",
+        "pinned_tweet_id": "2037297382312833035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073487495271239680/v0BEZ6ZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 293,
+          "like_count": 4709,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1125
+        },
+        "url": "",
+        "username": "xana4200",
+        "verified": false
+      }
+    ]
+  }
+}

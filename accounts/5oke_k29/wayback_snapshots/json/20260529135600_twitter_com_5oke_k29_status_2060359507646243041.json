@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060359499698061312"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2059779935938719922",
+    "created_at": "2026-05-29T13:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060359507646243041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1387779928507273226",
+          "start": 0,
+          "username": "sevdaloji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbi44kKFcd",
+          "end": 34,
+          "expanded_url": "https://x.com/5oke_k29/status/2060359507646243041/photo/1",
+          "media_key": "3_2060359499698061312",
+          "start": 11,
+          "url": "https://t.co/jbi44kKFcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060359507646243041",
+    "in_reply_to_user_id": "1387779928507273226",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059779935938719922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevdaloji https://t.co/jbi44kKFcd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2060359499698061312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfeDHkawAA5jls.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1122,
+        "media_key": "3_2059746529066295296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWwjiBXIAAt2ZW.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060359499698061312"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2059779935938719922",
+        "created_at": "2026-05-29T13:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060359507646243041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1387779928507273226",
+              "start": 0,
+              "username": "sevdaloji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbi44kKFcd",
+              "end": 34,
+              "expanded_url": "https://x.com/5oke_k29/status/2060359507646243041/photo/1",
+              "media_key": "3_2060359499698061312",
+              "start": 11,
+              "url": "https://t.co/jbi44kKFcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060359507646243041",
+        "in_reply_to_user_id": "1387779928507273226",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059779935938719922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevdaloji https://t.co/jbi44kKFcd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059746529066295296"
+          ]
+        },
+        "author_id": "1387779928507273226",
+        "conversation_id": "2059779935938719922",
+        "created_at": "2026-05-27T23:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059779935938719922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOVrA01JzW",
+              "end": 86,
+              "expanded_url": "https://x.com/sevdaloji/status/2059779935938719922/photo/1",
+              "media_key": "3_2059746529066295296",
+              "start": 63,
+              "url": "https://t.co/XOVrA01JzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059779935938719922",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 172910,
+          "like_count": 11906,
+          "quote_count": 60,
+          "reply_count": 2000,
+          "retweet_count": 475
+        },
+        "reply_settings": "everyone",
+        "text": "Kedim Buffy'e merhaba demeyenler için HAZİRAN AYINDA KÖTÜ ŞANS https://t.co/XOVrA01JzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 99,
+          "like_count": 677,
+          "listed_count": 3,
+          "media_count": 244,
+          "tweet_count": 1899
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-29T14:45:08.000Z",
+        "description": "ücretli rt reklam ve iş birliği için DM📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sevdalojim",
+                "end": 23,
+                "expanded_url": "http://instagram.com/sevdalojim",
+                "start": 0,
+                "url": "https://t.co/PNqIQthSQ5"
+              }
+            ]
+          }
+        },
+        "id": "1387779928507273226",
+        "location": "İstanbul, Türkiye",
+        "name": "Sevda",
+        "pinned_tweet_id": "1954629293373640910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756750369332346880/TmOzTWg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170107,
+          "following_count": 64529,
+          "like_count": 716620,
+          "listed_count": 68,
+          "media_count": 550,
+          "tweet_count": 3880
+        },
+        "url": "https://t.co/PNqIQthSQ5",
+        "username": "sevdaloji",
+        "verified": true
+      }
+    ]
+  }
+}

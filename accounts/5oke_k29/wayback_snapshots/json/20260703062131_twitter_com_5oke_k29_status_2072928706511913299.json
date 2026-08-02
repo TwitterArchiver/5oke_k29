@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2072644453773512898",
+    "created_at": "2026-07-03T06:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072928706511913299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831193203854147584",
+          "start": 0,
+          "username": "bin_li41041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072928706511913299",
+    "in_reply_to_user_id": "1831193203854147584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072710475096396132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bin_li41041 这是面吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2072710464812040192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO_L6FbQAAaVm0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2072644453773512898",
+        "created_at": "2026-07-03T06:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072928706511913299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831193203854147584",
+              "start": 0,
+              "username": "bin_li41041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072928706511913299",
+        "in_reply_to_user_id": "1831193203854147584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072710475096396132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bin_li41041 这是面吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072710464812040192"
+          ]
+        },
+        "author_id": "1831193203854147584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072644453773512898",
+        "created_at": "2026-07-02T15:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072710475096396132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUXAc9pU4C",
+              "end": 33,
+              "expanded_url": "https://x.com/bin_li41041/status/2072710475096396132/photo/1",
+              "media_key": "3_2072710464812040192",
+              "start": 10,
+              "url": "https://t.co/rUXAc9pU4C"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2072710475096396132",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072644453773512898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 https://t.co/rUXAc9pU4C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 130,
+          "like_count": 920,
+          "listed_count": 5,
+          "media_count": 274,
+          "tweet_count": 2256
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T04:51:15.000Z",
+        "description": "哈市32岁阳痿无精，征婚",
+        "id": "1831193203854147584",
+        "name": "哈市绿帽征婚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042971723579166723/JnIz4Rbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 490,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "bin_li41041",
+        "verified": false
+      }
+    ]
+  }
+}

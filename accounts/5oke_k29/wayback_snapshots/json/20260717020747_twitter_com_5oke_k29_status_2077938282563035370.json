@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2077754736015733096",
+    "created_at": "2026-07-17T02:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077938282563035370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2076507759839940609",
+          "start": 0,
+          "username": "Relylh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077938282563035370",
+    "in_reply_to_user_id": "2076507759839940609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077754736015733096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Relylh 你要逼脸不要 长那猪逼脸谁看得上你这婊子玩意 傻逼母人 舔一辈子几把一辈子跪公狗胯下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077754719712448512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWq6L7aEAAujsI.jpg",
+        "width": 569
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2077754736015733096",
+        "created_at": "2026-07-17T02:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077938282563035370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2076507759839940609",
+              "start": 0,
+              "username": "Relylh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077938282563035370",
+        "in_reply_to_user_id": "2076507759839940609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077754736015733096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Relylh 你要逼脸不要 长那猪逼脸谁看得上你这婊子玩意 傻逼母人 舔一辈子几把一辈子跪公狗胯下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077754719712448512"
+          ]
+        },
+        "author_id": "2076507759839940609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077754736015733096",
+        "created_at": "2026-07-16T13:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077754736015733096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZgWwEzrMc",
+              "end": 45,
+              "expanded_url": "https://x.com/Relylh/status/2077754736015733096/photo/1",
+              "media_key": "3_2077754719712448512",
+              "start": 22,
+              "url": "https://t.co/IZgWwEzrMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077754736015733096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多事情我不懂啊，你不要丢下我一个人好不好 https://t.co/IZgWwEzrMc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5163,
+          "following_count": 147,
+          "like_count": 963,
+          "listed_count": 9,
+          "media_count": 298,
+          "tweet_count": 2637
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T03:24:39.000Z",
+        "description": "",
+        "id": "2076507759839940609",
+        "name": "Rely",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076614008300535808/0JyjcVqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Relylh",
+        "verified": false
+      }
+    ]
+  }
+}

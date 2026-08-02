@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2080474288298315840",
+    "created_at": "2026-07-25T07:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080922314921898488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812852553648148480",
+          "start": 0,
+          "username": "3v3wzBE4gy5470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080922314921898488",
+    "in_reply_to_user_id": "1812852553648148480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080474288298315840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3v3wzBE4gy5470 看到玉米就反胃 感觉嘴里都是那个味道 好久没吃了还是这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080474280492679168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9UVdUaQAAxs1V.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2080474288298315840",
+        "created_at": "2026-07-25T07:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080922314921898488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812852553648148480",
+              "start": 0,
+              "username": "3v3wzBE4gy5470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080922314921898488",
+        "in_reply_to_user_id": "1812852553648148480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080474288298315840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3v3wzBE4gy5470 看到玉米就反胃 感觉嘴里都是那个味道 好久没吃了还是这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080474280492679168"
+          ]
+        },
+        "author_id": "1812852553648148480",
+        "conversation_id": "2080474288298315840",
+        "created_at": "2026-07-24T02:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080474288298315840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/njBD4kfzJN",
+              "end": 29,
+              "expanded_url": "https://x.com/3v3wzBE4gy5470/status/2080474288298315840/photo/1",
+              "media_key": "3_2080474280492679168",
+              "start": 6,
+              "url": "https://t.co/njBD4kfzJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080474288298315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玉米跟pr https://t.co/njBD4kfzJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5335,
+          "following_count": 164,
+          "like_count": 971,
+          "listed_count": 8,
+          "media_count": 337,
+          "tweet_count": 2880
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T14:11:54.000Z",
+        "description": "𓏲ָ♡ 18歳です/鬱病の治療中/日本語English中国語 𓈒⊹⋆",
+        "id": "1812852553648148480",
+        "name": "ʚ ♡ ɞ",
+        "pinned_tweet_id": "2079812183995937222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993163541101297665/PQdOiAIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 72,
+          "like_count": 1220,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "3v3wzBE4gy5470",
+        "verified": false
+      }
+    ]
+  }
+}

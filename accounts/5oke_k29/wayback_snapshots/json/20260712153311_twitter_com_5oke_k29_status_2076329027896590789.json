@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2076128163101655378",
+    "created_at": "2026-07-12T15:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076329027896590789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900552683486134272",
+          "start": 0,
+          "username": "kurumi610tt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076329027896590789",
+    "in_reply_to_user_id": "1900552683486134272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076322768417968152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurumi610tt 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2076128163101655378",
+        "created_at": "2026-07-12T15:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076329027896590789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900552683486134272",
+              "start": 0,
+              "username": "kurumi610tt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076329027896590789",
+        "in_reply_to_user_id": "1900552683486134272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076322768417968152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurumi610tt 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900552683486134272",
+        "conversation_id": "2076128163101655378",
+        "created_at": "2026-07-12T15:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076322768417968152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076322768417968152",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076128163101655378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 好想回到我们刚认识的时候 想你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5097,
+          "following_count": 148,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 318,
+          "tweet_count": 2621
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T14:20:51.000Z",
+        "description": "",
+        "id": "1900552683486134272",
+        "name": "kanae",
+        "pinned_tweet_id": "1920327077859037246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901975443571662848/c9Ur7-t1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 14,
+          "like_count": 240,
+          "listed_count": 4,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "kurumi610tt",
+        "verified": false
+      }
+    ]
+  }
+}

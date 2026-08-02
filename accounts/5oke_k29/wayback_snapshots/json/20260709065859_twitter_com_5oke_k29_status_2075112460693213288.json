@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073736452744282354",
+    "created_at": "2026-07-09T06:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075112460693213288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1949157358086848512",
+          "start": 0,
+          "username": "mCsenRXUgD48439"
+        },
+        {
+          "end": 26,
+          "id": "1986536328784408576",
+          "start": 17,
+          "username": "xana4200"
+        },
+        {
+          "end": 39,
+          "id": "1989564653559558144",
+          "start": 27,
+          "username": "Bbbhgccghhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075112460693213288",
+    "in_reply_to_user_id": "1949157358086848512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074927227196846484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mCsenRXUgD48439 @xana4200 @Bbbhgccghhb 傻逼玩意这女生是我朋友 你看不见她跟谁对话呢？你脑子给你妈逼夹坏了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-09T06:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075112460693213288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1949157358086848512",
+              "start": 0,
+              "username": "mCsenRXUgD48439"
+            },
+            {
+              "end": 26,
+              "id": "1986536328784408576",
+              "start": 17,
+              "username": "xana4200"
+            },
+            {
+              "end": 39,
+              "id": "1989564653559558144",
+              "start": 27,
+              "username": "Bbbhgccghhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075112460693213288",
+        "in_reply_to_user_id": "1949157358086848512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074927227196846484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mCsenRXUgD48439 @xana4200 @Bbbhgccghhb 傻逼玩意这女生是我朋友 你看不见她跟谁对话呢？你脑子给你妈逼夹坏了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949157358086848512",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-08T18:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074927227196846484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            },
+            {
+              "end": 19,
+              "id": "1986536328784408576",
+              "start": 10,
+              "username": "xana4200"
+            },
+            {
+              "end": 32,
+              "id": "1989564653559558144",
+              "start": 20,
+              "username": "Bbbhgccghhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074927227196846484",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074395233266335903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 @xana4200 @Bbbhgccghhb 大姐你谢你大爸呢你要不翻译一下呢？洗个嘟给你他吗脑子洗没了是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4624,
+          "following_count": 144,
+          "like_count": 959,
+          "listed_count": 9,
+          "media_count": 309,
+          "tweet_count": 2525
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T17:18:38.000Z",
+        "description": "",
+        "id": "1949157358086848512",
+        "name": "nooomatterwhen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949157510763642880/kjYa5a0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 83,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "mCsenRXUgD48439",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T20:49:58.000Z",
+        "description": "SHEDTWT/(NOT posting ED )/fulltime stoner 🍃/🇨🇦 VAN/TRNTO/YEG/🎀 2G septum 🎀 DNI W MY PROFILE TO AVOID TRIGGERS!🎀 camera roll dump ♓️ 🐾 🦭🍄",
+        "id": "1986536328784408576",
+        "location": "Pls DNI if NSFW or -14",
+        "name": "Gigi 🎀🦇🦎🍃🚬🦄🪶🐾",
+        "pinned_tweet_id": "2037297382312833035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073487495271239680/v0BEZ6ZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 295,
+          "like_count": 4779,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 1157
+        },
+        "url": "",
+        "username": "xana4200",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T05:22:54.000Z",
+        "description": "jjsjsjdj",
+        "id": "1989564653559558144",
+        "name": "Bbbh",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "Bbbhgccghhb",
+        "verified": false
+      }
+    ]
+  }
+}

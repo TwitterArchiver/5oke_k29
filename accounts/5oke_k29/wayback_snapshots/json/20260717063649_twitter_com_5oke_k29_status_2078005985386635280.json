@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2077999233735794755",
+    "created_at": "2026-07-17T06:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078005985386635280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840013744489017345",
+          "start": 0,
+          "username": "xnttkxTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078005985386635280",
+    "in_reply_to_user_id": "1840013744489017345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078005051805847830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnttkxTvT 自己卖逼看谁都卖逼 自己逼都不知道烂成啥样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2077999233735794755",
+        "created_at": "2026-07-17T06:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078005985386635280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840013744489017345",
+              "start": 0,
+              "username": "xnttkxTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078005985386635280",
+        "in_reply_to_user_id": "1840013744489017345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078005051805847830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnttkxTvT 自己卖逼看谁都卖逼 自己逼都不知道烂成啥样了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840013744489017345",
+        "conversation_id": "2077999233735794755",
+        "created_at": "2026-07-17T06:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078005051805847830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078005051805847830",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077999233735794755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 这女的本来就是个傻逼 自己在墙内发od然后被人骂了就过来攻击别人吸毒 感觉像是那种为了那100块钱的yyy 出街卖逼一晚上的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 155,
+          "like_count": 965,
+          "listed_count": 9,
+          "media_count": 312,
+          "tweet_count": 2711
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T13:00:50.000Z",
+        "description": "",
+        "id": "1840013744489017345",
+        "name": "12",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075624546955374592/LnoR41M3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 50,
+          "like_count": 2867,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "xnttkxTvT",
+        "verified": false
+      }
+    ]
+  }
+}

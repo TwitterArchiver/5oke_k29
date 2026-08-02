@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2059594427178639773",
+    "created_at": "2026-05-28T08:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059910395239014873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918822040666329089",
+          "start": 0,
+          "username": "Jiajia220391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059910395239014873",
+    "in_reply_to_user_id": "1918822040666329089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059768350519996791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiajia220391 活该你这傻逼抑郁狂躁 脑子里都是射你妈逼里的精液能有常识才怪了 死了社会上都多个有害垃圾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2059594427178639773",
+        "created_at": "2026-05-28T08:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059910395239014873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918822040666329089",
+              "start": 0,
+              "username": "Jiajia220391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059910395239014873",
+        "in_reply_to_user_id": "1918822040666329089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059768350519996791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiajia220391 活该你这傻逼抑郁狂躁 脑子里都是射你妈逼里的精液能有常识才怪了 死了社会上都多个有害垃圾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918822040666329089",
+        "conversation_id": "2059594427178639773",
+        "created_at": "2026-05-27T22:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059768350519996791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059768350519996791",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059594427178639773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 你很可笑，想要男人又抗拒男人，你都和大把男人做爱了。你还想遇到好的嘛？像孕妇般的松度\n这么长时间不发动态，怎么？还不是意识到自己言论过于愚蠢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 96,
+          "like_count": 642,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 1888
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:16:56.000Z",
+        "description": "",
+        "id": "1918822040666329089",
+        "name": "er",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114137605230592/y4tkQj8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 184,
+          "like_count": 1350,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 228
+        },
+        "username": "Jiajia220391",
+        "verified": false
+      }
+    ]
+  }
+}

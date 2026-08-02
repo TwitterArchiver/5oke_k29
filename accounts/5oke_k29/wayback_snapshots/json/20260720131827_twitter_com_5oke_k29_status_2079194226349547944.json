@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2078313342150803965",
+    "created_at": "2026-07-20T13:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079194226349547944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660953133873496064",
+          "start": 0,
+          "username": "1rZvHGGc5265928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079194226349547944",
+    "in_reply_to_user_id": "1660953133873496064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078858367540641946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1rZvHGGc5265928 已经在克制了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2078313342150803965",
+        "created_at": "2026-07-20T13:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079194226349547944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660953133873496064",
+              "start": 0,
+              "username": "1rZvHGGc5265928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079194226349547944",
+        "in_reply_to_user_id": "1660953133873496064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078858367540641946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1rZvHGGc5265928 已经在克制了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660953133873496064",
+        "conversation_id": "2078313342150803965",
+        "created_at": "2026-07-19T15:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078858367540641946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078858367540641946",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078313342150803965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 傻逼！！还吸啊，再吸下去要定棺材了，你能控制个屁，你已经一只脚踏进棺材了，不想死尽早去戒毒所。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5178,
+          "following_count": 161,
+          "like_count": 964,
+          "listed_count": 9,
+          "media_count": 322,
+          "tweet_count": 2796
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T10:17:58.000Z",
+        "description": "",
+        "id": "1660953133873496064",
+        "name": "kkk哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078856479046791168/QbH8WRoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 56,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "1rZvHGGc5265928",
+        "verified": false
+      }
+    ]
+  }
+}

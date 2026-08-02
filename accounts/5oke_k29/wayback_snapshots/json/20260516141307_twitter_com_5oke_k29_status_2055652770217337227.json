@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055652753339469825"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2055652770217337227",
+    "created_at": "2026-05-16T14:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055652770217337227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1K66rrhGba",
+          "end": 27,
+          "expanded_url": "https://x.com/5oke_k29/status/2055652770217337227/photo/1",
+          "media_key": "3_2055652753339469825",
+          "start": 4,
+          "url": "https://t.co/1K66rrhGba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055652770217337227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "萌萌萌 https://t.co/1K66rrhGba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055652753339469825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIclSbBaUAEF8EG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055652753339469825"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2055652770217337227",
+        "created_at": "2026-05-16T14:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055652770217337227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1K66rrhGba",
+              "end": 27,
+              "expanded_url": "https://x.com/5oke_k29/status/2055652770217337227/photo/1",
+              "media_key": "3_2055652753339469825",
+              "start": 4,
+              "url": "https://t.co/1K66rrhGba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055652770217337227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌萌萌 https://t.co/1K66rrhGba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 96,
+          "like_count": 638,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 1862
+        },
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

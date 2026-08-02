@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2074517037779714424",
+    "created_at": "2026-07-09T08:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075133707749601499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004165443792310272",
+          "start": 0,
+          "username": "babydollhuhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075133707749601499",
+    "in_reply_to_user_id": "2004165443792310272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074517037779714424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babydollhuhu 好惨啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2074517037779714424",
+        "created_at": "2026-07-09T08:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075133707749601499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004165443792310272",
+              "start": 0,
+              "username": "babydollhuhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075133707749601499",
+        "in_reply_to_user_id": "2004165443792310272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074517037779714424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babydollhuhu 好惨啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004165443792310272",
+        "conversation_id": "2074517037779714424",
+        "created_at": "2026-07-07T15:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074517037779714424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074517037779714424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1606,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "司马骗子 说抖音解封 框框骗我 骗子死全家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4624,
+          "following_count": 144,
+          "like_count": 958,
+          "listed_count": 9,
+          "media_count": 305,
+          "tweet_count": 2531
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T12:21:10.000Z",
+        "description": "dy 小晗崽 馒头白虎一线天 🚪300 包含1/30秒 68个视频  \n不接线下 不接线下 不接线下 重要的事情说三遍",
+        "id": "2004165443792310272",
+        "location": "香港",
+        "name": "玩偶妹妹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004166654486548481/PuHetYP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3139,
+          "following_count": 1,
+          "like_count": 14,
+          "listed_count": 10,
+          "media_count": 29,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "babydollhuhu",
+        "verified": false
+      }
+    ]
+  }
+}

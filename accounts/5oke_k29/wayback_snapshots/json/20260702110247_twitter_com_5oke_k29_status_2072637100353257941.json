@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2072375022451392571",
+    "created_at": "2026-07-02T11:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072637100353257941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1668693781791784961",
+          "start": 0,
+          "username": "yifu0753"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072637100353257941",
+    "in_reply_to_user_id": "1668693781791784961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072375022451392571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifu0753 我想直接打进动脉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2072375022451392571",
+        "created_at": "2026-07-02T11:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072637100353257941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072637100353257941",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072375022451392571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 我想直接打进动脉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2072375022451392571",
+        "created_at": "2026-07-01T17:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072375022451392571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072375022451392571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2866,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家不要喝亚硝酸钠，真的好咸好苦。会被打亚甲蓝。做血透析，高压氧仓（某三甲医院居然还没有）。而且对脑部的损伤不可逆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 128,
+          "like_count": 910,
+          "listed_count": 5,
+          "media_count": 267,
+          "tweet_count": 2223
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "neow 友顺跨女 原简介被封了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 1290,
+          "like_count": 8189,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2125
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true
+      }
+    ]
+  }
+}

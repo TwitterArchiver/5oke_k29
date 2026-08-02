@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2059815294047322343",
+    "created_at": "2026-05-28T09:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059935312894370152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939704603882504193",
+          "start": 0,
+          "username": "bushi11f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059935312894370152",
+    "in_reply_to_user_id": "1939704603882504193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059815294047322343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushi11f 我认为只不过是瞒对方瞒的很好罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2059815294047322343",
+        "created_at": "2026-05-28T09:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059935312894370152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939704603882504193",
+              "start": 0,
+              "username": "bushi11f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059935312894370152",
+        "in_reply_to_user_id": "1939704603882504193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059815294047322343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushi11f 我认为只不过是瞒对方瞒的很好罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939704603882504193",
+        "conversation_id": "2059815294047322343",
+        "created_at": "2026-05-28T01:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059815294047322343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059815294047322343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 172854,
+          "like_count": 300,
+          "quote_count": 2,
+          "reply_count": 208,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得谈好多年的情侣很牛逼 你们真的不会出轨吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 96,
+          "like_count": 642,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 1894
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T15:17:06.000Z",
+        "description": "该用户是个angel       https://t.co/3CL6uxUqMB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11f50097",
+                "end": 40,
+                "expanded_url": "https://ngl.link/11f50097",
+                "start": 17,
+                "url": "https://t.co/3CL6uxUqMB"
+              }
+            ]
+          }
+        },
+        "id": "1939704603882504193",
+        "name": "11f",
+        "pinned_tweet_id": "2059324164394438770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939704841112293376/UWwdrnVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 22,
+          "like_count": 59,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 379
+        },
+        "username": "bushi11f",
+        "verified": false
+      }
+    ]
+  }
+}

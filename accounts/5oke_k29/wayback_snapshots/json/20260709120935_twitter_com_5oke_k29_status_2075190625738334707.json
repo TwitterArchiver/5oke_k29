@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1219800632996982784",
+          "name": "League of Legends Champions Korea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667416061861888",
+          "name": "Esports leagues"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports league like Overwatch League",
+          "id": "149",
+          "name": "Esports League"
+        },
+        "entity": {
+          "id": "1219800632996982784",
+          "name": "League of Legends Champions Korea"
+        }
+      }
+    ],
+    "conversation_id": "2075183391658680357",
+    "created_at": "2026-07-09T12:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075190625738334707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1947475649209503747",
+          "start": 0,
+          "username": "wngjil424954"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075190625738334707",
+    "in_reply_to_user_id": "1947475649209503747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075187641281069177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngjil424954 lol比赛的队伍啊 lck 你去搜能搜到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2075183391658680357",
+        "created_at": "2026-07-09T12:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075190625738334707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1947475649209503747",
+              "start": 0,
+              "username": "wngjil424954"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075190625738334707",
+        "in_reply_to_user_id": "1947475649209503747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075187641281069177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngjil424954 lol比赛的队伍啊 lck 你去搜能搜到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947475649209503747",
+        "conversation_id": "2075183391658680357",
+        "created_at": "2026-07-09T11:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075187641281069177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075187641281069177",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075183391658680357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 hle是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4634,
+          "following_count": 145,
+          "like_count": 958,
+          "listed_count": 9,
+          "media_count": 307,
+          "tweet_count": 2545
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T01:56:13.000Z",
+        "description": "",
+        "id": "1947475649209503747",
+        "name": "Tiamo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064348210684887040/HTMZFbEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "wngjil424954",
+        "verified": false
+      }
+    ]
+  }
+}

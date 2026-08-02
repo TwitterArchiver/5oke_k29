@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2075520353351463266",
+    "created_at": "2026-07-17T01:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077933782423015789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2076507759839940609",
+          "start": 0,
+          "username": "Relylh"
+        },
+        {
+          "end": 20,
+          "id": "1799317110348558336",
+          "start": 8,
+          "username": "yinhan_rain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077933782423015789",
+    "in_reply_to_user_id": "2076507759839940609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076596821758259495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Relylh @yinhan_rain 死了亲妈的婊子你玩你妈臭逼的推特 赶紧去跳 臭婊子玩意给你逼脸给多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2075520353351463266",
+        "created_at": "2026-07-17T01:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077933782423015789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2076507759839940609",
+              "start": 0,
+              "username": "Relylh"
+            },
+            {
+              "end": 20,
+              "id": "1799317110348558336",
+              "start": 8,
+              "username": "yinhan_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077933782423015789",
+        "in_reply_to_user_id": "2076507759839940609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076596821758259495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Relylh @yinhan_rain 死了亲妈的婊子你玩你妈臭逼的推特 赶紧去跳 臭婊子玩意给你逼脸给多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076507759839940609",
+        "conversation_id": "2075520353351463266",
+        "created_at": "2026-07-13T09:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076596821758259495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799317110348558336",
+              "start": 0,
+              "username": "yinhan_rain"
+            },
+            {
+              "end": 22,
+              "id": "1317689258052710400",
+              "start": 13,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076596821758259495",
+        "in_reply_to_user_id": "1799317110348558336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075812379015983389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinhan_rain @5oke_k29 你妈跟野狗配的你😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5163,
+          "following_count": 147,
+          "like_count": 963,
+          "listed_count": 9,
+          "media_count": 297,
+          "tweet_count": 2630
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T03:24:39.000Z",
+        "description": "",
+        "id": "2076507759839940609",
+        "name": "Rely",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076614008300535808/0JyjcVqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Relylh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:46:52.000Z",
+        "description": "中文/EnglishOK 日本語❌\nechoes of fading girl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "masterspark.com",
+                "end": 23,
+                "expanded_url": "http://masterspark.com",
+                "start": 0,
+                "url": "https://t.co/zjjsutSPdw"
+              }
+            ]
+          }
+        },
+        "id": "1799317110348558336",
+        "location": "Heaven † hakurei shrine",
+        "name": "yj19Voyage69",
+        "pinned_tweet_id": "1924485854015434938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075894773345665024/lIRrRu9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 93,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/zjjsutSPdw",
+        "username": "yinhan_rain",
+        "verified": false
+      }
+    ]
+  }
+}

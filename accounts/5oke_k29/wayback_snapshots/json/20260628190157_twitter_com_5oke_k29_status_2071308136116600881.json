@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "1636710279810793472",
+    "created_at": "2026-06-28T19:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071308136116600881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "830275590",
+          "start": 0,
+          "username": "AndyDavis6969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071308136116600881",
+    "in_reply_to_user_id": "830275590",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071307879639032079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndyDavis6969 小猫像我的小孩呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "1636710279810793472",
+        "created_at": "2026-06-28T19:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071308136116600881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "830275590",
+              "start": 0,
+              "username": "AndyDavis6969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071308136116600881",
+        "in_reply_to_user_id": "830275590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071307879639032079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndyDavis6969 小猫像我的小孩呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830275590",
+        "conversation_id": "1636710279810793472",
+        "created_at": "2026-06-28T19:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071307879639032079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071307879639032079",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1636710279810793472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 为什么对小猫很好，对自己这么苛刻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 110,
+          "like_count": 897,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 2122
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-18T03:19:14.000Z",
+        "description": "nothing",
+        "id": "830275590",
+        "name": "kong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001604466970365955/i82vMiLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 45,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "AndyDavis6969",
+        "verified": false
+      }
+    ]
+  }
+}

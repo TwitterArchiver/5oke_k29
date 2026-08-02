@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2080532104346243392",
+    "created_at": "2026-07-25T05:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080890740205588939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1311048095334101003",
+          "start": 0,
+          "username": "cE6dWDa36zrqR4U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080890740205588939",
+    "in_reply_to_user_id": "1311048095334101003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080532104346243392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cE6dWDa36zrqR4U 笑死我了拿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2080532104346243392",
+        "created_at": "2026-07-25T05:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080890740205588939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1311048095334101003",
+              "start": 0,
+              "username": "cE6dWDa36zrqR4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080890740205588939",
+        "in_reply_to_user_id": "1311048095334101003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080532104346243392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cE6dWDa36zrqR4U 笑死我了拿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311048095334101003",
+        "conversation_id": "2080532104346243392",
+        "created_at": "2026-07-24T05:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080532104346243392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080532104346243392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是通过什么喜欢上我的？\n1 喜欢说低俗脏话\n2 势利眼\n3 背刺\n4 喜欢装逼\n5 没钱瞎溜达\n6 长得丑\n7 自以为是的穿搭\n8 农村户口\n9 爱在社交平台上发疯 \n10 到处偷段子复制（这条也是）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5332,
+          "following_count": 164,
+          "like_count": 967,
+          "listed_count": 8,
+          "media_count": 337,
+          "tweet_count": 2864
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-29T21:00:13.000Z",
+        "description": "奈何身为雀 于此借寒山",
+        "id": "1311048095334101003",
+        "location": "成都",
+        "name": "臣",
+        "pinned_tweet_id": "1785726513855238599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050276035540008960/Mgaq7eNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 135,
+          "like_count": 6507,
+          "listed_count": 7,
+          "media_count": 187,
+          "tweet_count": 1640
+        },
+        "url": "",
+        "username": "cE6dWDa36zrqR4U",
+        "verified": true
+      }
+    ]
+  }
+}

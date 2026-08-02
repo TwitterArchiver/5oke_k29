@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2080890142848606612",
+    "created_at": "2026-07-25T15:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081045165494681787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1630965566310871040",
+          "start": 0,
+          "username": "xxkdkdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081045165494681787",
+    "in_reply_to_user_id": "1630965566310871040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081044216462160209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxkdkdn 傻逼我初中多了是女生喜欢我 朋友全是初中认识的 别给你婊子妈经历发出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2080890142848606612",
+        "created_at": "2026-07-25T15:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081045165494681787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1630965566310871040",
+              "start": 0,
+              "username": "xxkdkdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081045165494681787",
+        "in_reply_to_user_id": "1630965566310871040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081044216462160209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxkdkdn 傻逼我初中多了是女生喜欢我 朋友全是初中认识的 别给你婊子妈经历发出来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630965566310871040",
+        "conversation_id": "2080890142848606612",
+        "created_at": "2026-07-25T15:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081044216462160209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081044216462160209",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080890142848606612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 你这傻逼，都瘦成骷髅兵了还拿出来炫耀，不知道你这逼样的还能活几年，不仅吸毒还要吸你母亲的血，你自己去卖逼我都觉得比你吸你亲人的血强。\n感觉你就像是那种初中被女生排挤，然后辍学给混混当野鸡的那一类。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5457,
+          "following_count": 165,
+          "like_count": 974,
+          "listed_count": 9,
+          "media_count": 339,
+          "tweet_count": 2906
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-01T16:17:53.000Z",
+        "description": "极致口臭，纯粹享受",
+        "id": "1630965566310871040",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077082329932009472/_TmFll2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 108,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "xxkdkdn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2078008756399722538",
+    "created_at": "2026-07-17T07:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078013332041453995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356844559121088514",
+          "start": 0,
+          "username": "CAVOK30250135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078013332041453995",
+    "in_reply_to_user_id": "1356844559121088514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078009615766466958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CAVOK30250135 或许八月初你会遇到我 哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10040,
+        "height": 1280,
+        "media_key": "13_2078009563996209152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078009563996209152/img/acokX9dAMsuoE_3t.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078009563996209152/vid/avc1/320x568/qxUySAhPKvhMViYk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078009563996209152/vid/avc1/480x852/W6lIATwh12YRvOVX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078009563996209152/vid/avc1/720x1280/fisvBT7o6VV_viLM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078009563996209152/pl/5RfubhJpmISB-PyT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2078008756399722538",
+        "created_at": "2026-07-17T07:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078013332041453995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356844559121088514",
+              "start": 0,
+              "username": "CAVOK30250135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078013332041453995",
+        "in_reply_to_user_id": "1356844559121088514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078009615766466958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAVOK30250135 或许八月初你会遇到我 哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078009563996209152"
+          ]
+        },
+        "author_id": "1356844559121088514",
+        "conversation_id": "2078008756399722538",
+        "created_at": "2026-07-17T06:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078009615766466958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGVykZ9iTf",
+              "end": 37,
+              "expanded_url": "https://x.com/CAVOK30250135/status/2078009615766466958/video/1",
+              "media_key": "13_2078009563996209152",
+              "start": 14,
+              "url": "https://t.co/mGVykZ9iTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078009615766466958",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078008756399722538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 我家。 https://t.co/mGVykZ9iTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 155,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 318,
+          "tweet_count": 2733
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T05:59:01.000Z",
+        "description": "空蕩的外衣披在這幸福里",
+        "id": "1356844559121088514",
+        "location": "xi’an",
+        "name": "Island",
+        "pinned_tweet_id": "1889158682128314475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645682826355048451/giUZtkuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 359,
+          "like_count": 8027,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "CAVOK30250135",
+        "verified": false
+      }
+    ]
+  }
+}

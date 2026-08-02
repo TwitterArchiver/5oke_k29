@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073641062976065697",
+    "created_at": "2026-07-05T17:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073824919746691120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736764672999878656",
+          "start": 0,
+          "username": "BAKA__0902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073824919746691120",
+    "in_reply_to_user_id": "1736764672999878656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073641062976065697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BAKA__0902 我操"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15182,
+        "height": 1280,
+        "media_key": "13_2073641001680613376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073641001680613376/img/57oZAAzFhSeHP9Bj.jpg",
+        "public_metrics": {
+          "view_count": 679
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073641001680613376/vid/avc1/320x426/3QE11TXyE9GFhVBv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073641001680613376/vid/avc1/480x640/KBProkXI_tyW-dIH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073641001680613376/vid/avc1/720x960/Oec93M7864IZcnrX.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073641001680613376/pl/AS4aBo8sIiRmfy1w.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073641062976065697",
+        "created_at": "2026-07-05T17:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073824919746691120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736764672999878656",
+              "start": 0,
+              "username": "BAKA__0902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073824919746691120",
+        "in_reply_to_user_id": "1736764672999878656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073641062976065697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAKA__0902 我操"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073641001680613376"
+          ]
+        },
+        "author_id": "1736764672999878656",
+        "conversation_id": "2073641062976065697",
+        "created_at": "2026-07-05T05:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073641062976065697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WztQtOd7JI",
+              "end": 51,
+              "expanded_url": "https://x.com/BAKA__0902/status/2073641062976065697/video/1",
+              "media_key": "13_2073641001680613376",
+              "start": 28,
+              "url": "https://t.co/WztQtOd7JI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073641062976065697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1466,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想要参了一丝普瑞巴林的一坨非牛顿流体\n可以拿去摊煎饼 https://t.co/WztQtOd7JI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3271,
+          "following_count": 135,
+          "like_count": 940,
+          "listed_count": 5,
+          "media_count": 284,
+          "tweet_count": 2349
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T15:05:45.000Z",
+        "description": "好想吃麦当劳",
+        "id": "1736764672999878656",
+        "name": "不爱我我就去死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032564534226116608/2YCnGNJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 1070,
+          "like_count": 7926,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1591
+        },
+        "url": "",
+        "username": "BAKA__0902",
+        "verified": false
+      }
+    ]
+  }
+}

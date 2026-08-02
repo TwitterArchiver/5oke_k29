@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2072928070026317887",
+    "created_at": "2026-07-03T06:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072928142285803607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754774517594181632",
+          "start": 0,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072928142285803607",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072928070026317887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValenceLab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072928057288241152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSFFdObMAA_cCU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2072928070026317887",
+        "created_at": "2026-07-03T06:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072928142285803607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072928142285803607",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072928070026317887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValenceLab"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072928057288241152"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2072928070026317887",
+        "created_at": "2026-07-03T06:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072928070026317887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbf39AYRdS",
+              "end": 29,
+              "expanded_url": "https://x.com/5oke_k29/status/2072928070026317887/photo/1",
+              "media_key": "3_2072928057288241152",
+              "start": 6,
+              "url": "https://t.co/sbf39AYRdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072928070026317887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幸福来自于 https://t.co/sbf39AYRdS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 130,
+          "like_count": 920,
+          "listed_count": 5,
+          "media_count": 274,
+          "tweet_count": 2253
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Gro…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Groups",
+                "start": 0,
+                "url": "https://t.co/TG4Kxegueg"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 209,
+          "like_count": 429,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/TG4Kxegueg",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

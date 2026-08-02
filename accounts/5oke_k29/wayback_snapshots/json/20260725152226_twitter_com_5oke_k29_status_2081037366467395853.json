@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081037342668972032"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2081037366467395853",
+    "created_at": "2026-07-25T15:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081037366467395853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PbG50iYrxp",
+          "end": 108,
+          "expanded_url": "https://x.com/5oke_k29/status/2081037366467395853/photo/1",
+          "media_key": "3_2081037342668972032",
+          "start": 85,
+          "url": "https://t.co/PbG50iYrxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081037366467395853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这死母人跟你爷爷叫你妈臭逼啊 傻逼媚蝻雌竞母狗 逼痒了塞几条水蛭进去给你逼捅一捅 烂逼母人也好意思蹬鼻子上脸了 人狗杂交生出来的你这畜生婊子玩意 脑子里全是精液的臭婊子 https://t.co/PbG50iYrxp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081037342668972032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFUb_YbYAABber.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081037342668972032"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2081037366467395853",
+        "created_at": "2026-07-25T15:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081037366467395853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PbG50iYrxp",
+              "end": 108,
+              "expanded_url": "https://x.com/5oke_k29/status/2081037366467395853/photo/1",
+              "media_key": "3_2081037342668972032",
+              "start": 85,
+              "url": "https://t.co/PbG50iYrxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081037366467395853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这死母人跟你爷爷叫你妈臭逼啊 傻逼媚蝻雌竞母狗 逼痒了塞几条水蛭进去给你逼捅一捅 烂逼母人也好意思蹬鼻子上脸了 人狗杂交生出来的你这畜生婊子玩意 脑子里全是精液的臭婊子 https://t.co/PbG50iYrxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5452,
+          "following_count": 164,
+          "like_count": 973,
+          "listed_count": 9,
+          "media_count": 341,
+          "tweet_count": 2900
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

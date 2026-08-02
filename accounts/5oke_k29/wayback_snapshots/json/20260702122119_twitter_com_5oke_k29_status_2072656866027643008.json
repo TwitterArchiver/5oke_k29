@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2072352498401395197",
+    "created_at": "2026-07-02T12:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072656866027643008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2840291262",
+          "start": 0,
+          "username": "kimodeng0314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072656866027643008",
+    "in_reply_to_user_id": "2840291262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072352498401395197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimodeng0314 好搞笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_2072352495524061184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ5nWkbIAAYTD7.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1894,
+        "media_key": "3_2072352496069271552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ5nYmaYAAa_bH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2072352498401395197",
+        "created_at": "2026-07-02T12:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072656866027643008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2840291262",
+              "start": 0,
+              "username": "kimodeng0314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072656866027643008",
+        "in_reply_to_user_id": "2840291262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072352498401395197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimodeng0314 好搞笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072352495524061184",
+            "3_2072352496069271552"
+          ]
+        },
+        "author_id": "2840291262",
+        "conversation_id": "2072352498401395197",
+        "created_at": "2026-07-01T16:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072352498401395197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jdtt28ENV0",
+              "end": 43,
+              "expanded_url": "https://x.com/kimodeng0314/status/2072352498401395197/photo/1",
+              "media_key": "3_2072352495524061184",
+              "start": 20,
+              "url": "https://t.co/Jdtt28ENV0"
+            },
+            {
+              "display_url": "pic.x.com/Jdtt28ENV0",
+              "end": 43,
+              "expanded_url": "https://x.com/kimodeng0314/status/2072352498401395197/photo/1",
+              "media_key": "3_2072352496069271552",
+              "start": 20,
+              "url": "https://t.co/Jdtt28ENV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072352498401395197",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 159722,
+          "like_count": 5461,
+          "quote_count": 80,
+          "reply_count": 6,
+          "retweet_count": 1124
+        },
+        "reply_settings": "everyone",
+        "text": "분명히 귀여워서 뽑았는데 이거뭐 지 https://t.co/Jdtt28ENV0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 128,
+          "like_count": 914,
+          "listed_count": 5,
+          "media_count": 269,
+          "tweet_count": 2235
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T15:18:29.000Z",
+        "description": "",
+        "id": "2840291262",
+        "name": "김오뎅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069980468003721216/KX3lAs2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 10,
+          "like_count": 34,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "kimodeng0314",
+        "verified": false
+      }
+    ]
+  }
+}

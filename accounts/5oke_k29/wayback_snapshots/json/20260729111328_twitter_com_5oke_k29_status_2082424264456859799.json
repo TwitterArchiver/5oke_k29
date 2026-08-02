@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2082379500952912058",
+    "created_at": "2026-07-29T11:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082424264456859799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1583693716849844226",
+          "start": 0,
+          "username": "hxh_xxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082424264456859799",
+    "in_reply_to_user_id": "1583693716849844226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082423323166998797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxh_xxy 我一个月鼻涕没断过.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2082379500952912058",
+        "created_at": "2026-07-29T11:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082424264456859799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1583693716849844226",
+              "start": 0,
+              "username": "hxh_xxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082424264456859799",
+        "in_reply_to_user_id": "1583693716849844226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082423323166998797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxh_xxy 我一个月鼻涕没断过.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583693716849844226",
+        "conversation_id": "2082379500952912058",
+        "created_at": "2026-07-29T11:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082423323166998797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082423323166998797",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082421507482087775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 肛塞我倒没什么不适感 鼻吸感觉给我鼻黏膜都烧坏了好多鼻屎😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5483,
+          "following_count": 163,
+          "like_count": 992,
+          "listed_count": 11,
+          "media_count": 359,
+          "tweet_count": 2998
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T05:36:29.000Z",
+        "description": "脑瘫 找到另一个我了哦🚪188口令\n请礼貌私信",
+        "id": "1583693716849844226",
+        "location": " 图包视频200➕ 朋友圈定时更新",
+        "name": "她比我更会当狗吗",
+        "pinned_tweet_id": "2033364315307384890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614315948743458817/IQSJBI20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3490,
+          "following_count": 9,
+          "like_count": 675,
+          "listed_count": 13,
+          "media_count": 164,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "hxh_xxy",
+        "verified": false
+      }
+    ]
+  }
+}

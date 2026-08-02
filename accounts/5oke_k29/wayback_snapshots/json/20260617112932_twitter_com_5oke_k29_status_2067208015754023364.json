@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2067039204509696317",
+    "created_at": "2026-06-17T11:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067208015754023364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996918310349557762",
+          "start": 0,
+          "username": "Guli1817513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067208015754023364",
+    "in_reply_to_user_id": "1996918310349557762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067039204509696317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guli1817513 ..那是基础太差了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2067039204509696317",
+        "created_at": "2026-06-17T11:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067208015754023364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996918310349557762",
+              "start": 0,
+              "username": "Guli1817513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067208015754023364",
+        "in_reply_to_user_id": "1996918310349557762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067039204509696317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guli1817513 ..那是基础太差了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996918310349557762",
+        "conversation_id": "2067039204509696317",
+        "created_at": "2026-06-17T00:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067039204509696317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067039204509696317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6973,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来整容脸后期修复后现生中这么难看啊……我靠我靠我靠🌚…我爱我的原生脸……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 99,
+          "like_count": 837,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 1948
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:23:39.000Z",
+        "description": "幸福就好了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guli33050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guli33050",
+                "start": 0,
+                "url": "https://t.co/vFNHmjljcQ"
+              }
+            ]
+          }
+        },
+        "id": "1996918310349557762",
+        "location": "合肥",
+        "name": "Guli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057270374472028160/Z3qJUpTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 122,
+          "like_count": 3622,
+          "listed_count": 0,
+          "media_count": 773,
+          "tweet_count": 5206
+        },
+        "url": "https://t.co/vFNHmjljcQ",
+        "username": "Guli1817513",
+        "verified": false
+      }
+    ]
+  }
+}

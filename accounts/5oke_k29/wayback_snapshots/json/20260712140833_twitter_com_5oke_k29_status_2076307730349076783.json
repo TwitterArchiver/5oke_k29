@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2075520353351463266",
+    "created_at": "2026-07-12T14:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076307730349076783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985370037214216192",
+          "start": 0,
+          "username": "luanking222"
+        },
+        {
+          "end": 24,
+          "id": "1732322026138824705",
+          "start": 13,
+          "username": "znlm147369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076307730349076783",
+    "in_reply_to_user_id": "1985370037214216192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076215561512681495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luanking222 @znlm147369 ..我不缺这点钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2075520353351463266",
+        "created_at": "2026-07-12T14:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076307730349076783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985370037214216192",
+              "start": 0,
+              "username": "luanking222"
+            },
+            {
+              "end": 24,
+              "id": "1732322026138824705",
+              "start": 13,
+              "username": "znlm147369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076307730349076783",
+        "in_reply_to_user_id": "1985370037214216192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076215561512681495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luanking222 @znlm147369 ..我不缺这点钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985370037214216192",
+        "conversation_id": "2075520353351463266",
+        "created_at": "2026-07-12T08:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076215561512681495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            },
+            {
+              "end": 21,
+              "id": "1732322026138824705",
+              "start": 10,
+              "username": "znlm147369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076215561512681495",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075896147336708361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 @znlm147369 哈哈哈哈哈哈17pm变成身份证了🤣🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5099,
+          "following_count": 147,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 318,
+          "tweet_count": 2620
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T15:34:44.000Z",
+        "description": "慢慢升空带走了挫败的我",
+        "id": "1985370037214216192",
+        "name": "luanking222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985372890016198657/_xBFDsd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "luanking222",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T08:52:24.000Z",
+        "description": "傻逼太多了",
+        "id": "1732322026138824705",
+        "name": "ZNLM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075703767346102272/mFDvDyDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 65,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "znlm147369",
+        "verified": false
+      }
+    ]
+  }
+}

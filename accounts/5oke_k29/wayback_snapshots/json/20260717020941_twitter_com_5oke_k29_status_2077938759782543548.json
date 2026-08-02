@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077938752119570432"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2077938759782543548",
+    "created_at": "2026-07-17T02:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077938759782543548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ItQBon5lW",
+          "end": 118,
+          "expanded_url": "https://x.com/5oke_k29/status/2077938759782543548/photo/1",
+          "media_key": "3_2077938752119570432",
+          "start": 95,
+          "url": "https://t.co/0ItQBon5lW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077938759782543548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "快滚你妈逼的 还日本禁没了 你九年义务教育上完没啊妹妹？给你那狗脑袋捐了行不行 脑子里全是精液？上网上明白没？说话过过你那猪脑行不行 啥几把不懂还在那叫 看你就是看乐子知道吗 完全蠢逼来的 https://t.co/0ItQBon5lW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077938752119570432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZSSSEbAAA-Qrb.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077938752119570432"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2077938759782543548",
+        "created_at": "2026-07-17T02:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077938759782543548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ItQBon5lW",
+              "end": 118,
+              "expanded_url": "https://x.com/5oke_k29/status/2077938759782543548/photo/1",
+              "media_key": "3_2077938752119570432",
+              "start": 95,
+              "url": "https://t.co/0ItQBon5lW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077938759782543548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快滚你妈逼的 还日本禁没了 你九年义务教育上完没啊妹妹？给你那狗脑袋捐了行不行 脑子里全是精液？上网上明白没？说话过过你那猪脑行不行 啥几把不懂还在那叫 看你就是看乐子知道吗 完全蠢逼来的 https://t.co/0ItQBon5lW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5164,
+          "following_count": 147,
+          "like_count": 963,
+          "listed_count": 9,
+          "media_count": 299,
+          "tweet_count": 2637
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

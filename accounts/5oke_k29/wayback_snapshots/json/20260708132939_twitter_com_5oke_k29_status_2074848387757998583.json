@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073736452744282354",
+    "created_at": "2026-07-08T13:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074848387757998583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1761703793144610816",
+          "start": 0,
+          "username": "Coo8808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074848387757998583",
+    "in_reply_to_user_id": "1761703793144610816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074821268147499122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coo8808 😂你爱咋说咋说 公狗玩意 你就安慰你自己吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_2074821262065778688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMs-8enbwAAbf93.jpg",
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-08T13:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074848387757998583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1761703793144610816",
+              "start": 0,
+              "username": "Coo8808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074848387757998583",
+        "in_reply_to_user_id": "1761703793144610816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074821268147499122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coo8808 😂你爱咋说咋说 公狗玩意 你就安慰你自己吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074821262065778688"
+          ]
+        },
+        "author_id": "1761703793144610816",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-08T11:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074821268147499122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BWKVXoFIOy",
+              "end": 67,
+              "expanded_url": "https://x.com/Coo8808/status/2074821268147499122/photo/1",
+              "media_key": "3_2074821262065778688",
+              "start": 44,
+              "url": "https://t.co/BWKVXoFIOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074821268147499122",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073736452744282354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 跟你妈个青蛙一样说自己从小到大没人说你丑我滴妈身边有没有朋友说真话 https://t.co/BWKVXoFIOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4541,
+          "following_count": 144,
+          "like_count": 958,
+          "listed_count": 9,
+          "media_count": 308,
+          "tweet_count": 2510
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T10:45:01.000Z",
+        "description": "",
+        "id": "1761703793144610816",
+        "name": "Vv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970982499351162880/JRX2AFzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 23,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "Coo8808",
+        "verified": false
+      }
+    ]
+  }
+}

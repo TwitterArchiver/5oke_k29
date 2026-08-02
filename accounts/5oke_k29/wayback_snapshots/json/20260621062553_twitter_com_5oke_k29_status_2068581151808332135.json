@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2068380575761916172",
+    "created_at": "2026-06-21T06:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068581151808332135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1998947335213350912",
+          "start": 0,
+          "username": "mmtzjsj_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068581151808332135",
+    "in_reply_to_user_id": "1998947335213350912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068380575761916172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmtzjsj_ 他是没妈还是他爹生的他？狗娘养的东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_2068380570233765888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRdK30agAA7OVk.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2068380575761916172",
+        "created_at": "2026-06-21T06:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068581151808332135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1998947335213350912",
+              "start": 0,
+              "username": "mmtzjsj_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068581151808332135",
+        "in_reply_to_user_id": "1998947335213350912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068380575761916172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmtzjsj_ 他是没妈还是他爹生的他？狗娘养的东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068380570233765888"
+          ]
+        },
+        "author_id": "1998947335213350912",
+        "conversation_id": "2068380575761916172",
+        "created_at": "2026-06-20T17:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068380575761916172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChBfS8ApW4",
+              "end": 41,
+              "expanded_url": "https://x.com/mmtzjsj_/status/2068380575761916172/photo/1",
+              "media_key": "3_2068380570233765888",
+              "start": 18,
+              "url": "https://t.co/ChBfS8ApW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068380575761916172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5756,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音评论区刷到的神发言….好想骂他 https://t.co/ChBfS8ApW4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 102,
+          "like_count": 857,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 2001
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T02:46:10.000Z",
+        "description": "你听我在说什么，你不要猜我是谁｜匿名提问https://t.co/y17RhCfwGo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mmtzjsj",
+                "end": 43,
+                "expanded_url": "https://ngl.link/mmtzjsj",
+                "start": 20,
+                "url": "https://t.co/y17RhCfwGo"
+              }
+            ]
+          }
+        },
+        "id": "1998947335213350912",
+        "name": "猫猫头拯救世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009860936933502976/XAoS4tZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 170,
+          "like_count": 1082,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 1965
+        },
+        "url": "",
+        "username": "mmtzjsj_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2077939258132922465",
+    "created_at": "2026-07-17T04:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077968605887836393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1786507901751930880",
+          "start": 0,
+          "username": "Im9635001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077968605887836393",
+    "in_reply_to_user_id": "1786507901751930880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077967616749223984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im9635001 没事看到这傻子直接钩索她就完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2077939258132922465",
+        "created_at": "2026-07-17T04:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077968605887836393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1786507901751930880",
+              "start": 0,
+              "username": "Im9635001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077968605887836393",
+        "in_reply_to_user_id": "1786507901751930880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077967616749223984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im9635001 没事看到这傻子直接钩索她就完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786507901751930880",
+        "conversation_id": "2077939258132922465",
+        "created_at": "2026-07-17T04:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077967616749223984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077967616749223984",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077939258132922465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 他妈个逼逼这婊子能不能别玩永劫无间啊好恶心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 153,
+          "like_count": 963,
+          "listed_count": 9,
+          "media_count": 303,
+          "tweet_count": 2670
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T21:27:40.000Z",
+        "description": "只是磕药蛆充满抱怨的碎碎念",
+        "id": "1786507901751930880",
+        "name": "人",
+        "pinned_tweet_id": "2035803610727186912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068247868318830593/jfRs5M7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 63,
+          "like_count": 1850,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1109
+        },
+        "url": "",
+        "username": "Im9635001",
+        "verified": false
+      }
+    ]
+  }
+}

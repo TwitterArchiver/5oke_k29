@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2074055568646696964",
+    "created_at": "2026-07-06T11:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074093378325918146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472603947579756545",
+          "start": 0,
+          "username": "wus32187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074093378325918146",
+    "in_reply_to_user_id": "1472603947579756545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074093171475365996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wus32187 我上头了但是我不开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2074055568646696964",
+        "created_at": "2026-07-06T11:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074093378325918146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472603947579756545",
+              "start": 0,
+              "username": "wus32187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074093378325918146",
+        "in_reply_to_user_id": "1472603947579756545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074093171475365996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wus32187 我上头了但是我不开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472603947579756545",
+        "conversation_id": "2074055568646696964",
+        "created_at": "2026-07-06T11:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074093171475365996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074093171475365996",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074092714095001663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 来吧 晚饭吃过了 休闲K  打起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3945,
+          "following_count": 136,
+          "like_count": 943,
+          "listed_count": 7,
+          "media_count": 287,
+          "tweet_count": 2368
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T16:25:41.000Z",
+        "description": "一天一桶五升农夫山泉",
+        "id": "1472603947579756545",
+        "name": "aka五升水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486736109367283722/4Ffjuxcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 324,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "wus32187",
+        "verified": false
+      }
+    ]
+  }
+}

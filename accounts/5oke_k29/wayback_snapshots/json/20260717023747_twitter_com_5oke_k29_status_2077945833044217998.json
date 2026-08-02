@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2076511443277762869",
+    "created_at": "2026-07-17T02:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077945833044217998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2076518784328990720",
+          "start": 0,
+          "username": "Dayskp3"
+        },
+        {
+          "end": 16,
+          "id": "2076507759839940609",
+          "start": 9,
+          "username": "Relylh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077945833044217998",
+    "in_reply_to_user_id": "2076518784328990720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076521545384833196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dayskp3 @Relylh 骂了啊？怎样？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2076511443277762869",
+        "created_at": "2026-07-17T02:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077945833044217998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2076518784328990720",
+              "start": 0,
+              "username": "Dayskp3"
+            },
+            {
+              "end": 16,
+              "id": "2076507759839940609",
+              "start": 9,
+              "username": "Relylh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077945833044217998",
+        "in_reply_to_user_id": "2076518784328990720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076521545384833196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dayskp3 @Relylh 骂了啊？怎样？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076518784328990720",
+        "conversation_id": "2076511443277762869",
+        "created_at": "2026-07-13T04:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076521545384833196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2076507759839940609",
+              "start": 0,
+              "username": "Relylh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076521545384833196",
+        "in_reply_to_user_id": "2076507759839940609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076511443277762869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Relylh 笑死 这种人活着干啥 只会挂着骂 不敢搁正面骂 纯傻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5164,
+          "following_count": 148,
+          "like_count": 963,
+          "listed_count": 9,
+          "media_count": 302,
+          "tweet_count": 2660
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T04:07:54.000Z",
+        "description": "1",
+        "id": "2076518784328990720",
+        "name": "Day",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076519965587644416/FljNE6u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Dayskp3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T03:24:39.000Z",
+        "description": "",
+        "id": "2076507759839940609",
+        "name": "Rely",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076614008300535808/0JyjcVqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Relylh",
+        "verified": false
+      }
+    ]
+  }
+}

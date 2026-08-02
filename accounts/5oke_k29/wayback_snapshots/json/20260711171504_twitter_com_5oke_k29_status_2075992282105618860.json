@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2075520353351463266",
+    "created_at": "2026-07-11T17:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075992282105618860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1850562669561982976",
+          "start": 0,
+          "username": "33upper_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075992282105618860",
+    "in_reply_to_user_id": "1850562669561982976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075948523326214465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@33upper_ 傻逼看片公狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2075520353351463266",
+        "created_at": "2026-07-11T17:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075992282105618860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1850562669561982976",
+              "start": 0,
+              "username": "33upper_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075992282105618860",
+        "in_reply_to_user_id": "1850562669561982976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075948523326214465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@33upper_ 傻逼看片公狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850562669561982976",
+        "conversation_id": "2075520353351463266",
+        "created_at": "2026-07-11T14:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075948523326214465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075948523326214465",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075520353351463266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 你跟这人也半斤八两，挂个梯子以为自己老牛逼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5049,
+          "following_count": 148,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 318,
+          "tweet_count": 2615
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:38:29.000Z",
+        "description": "",
+        "id": "1850562669561982976",
+        "location": "山东",
+        "name": "模糊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903651525203001344/pMKXTDv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 244,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "33upper_",
+        "verified": false
+      }
+    ]
+  }
+}

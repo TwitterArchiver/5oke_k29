@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2036196077079351516",
+    "created_at": "2026-03-23T21:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T22:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036196077079351516"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rpdukr4m9845ch…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/rpdukr4m9845che/status/2035926170454348028",
+          "start": 28,
+          "url": "https://t.co/XKGGguSvQI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036196077079351516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035926170454348028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操我他妈太赞同了丑不丑我又不眼瞎要我的情绪价值就打钱 https://t.co/XKGGguSvQI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2036196077079351516",
+        "created_at": "2026-03-23T21:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036196077079351516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rpdukr4m9845ch…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/rpdukr4m9845che/status/2035926170454348028",
+              "start": 28,
+              "url": "https://t.co/XKGGguSvQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036196077079351516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035926170454348028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操我他妈太赞同了丑不丑我又不眼瞎要我的情绪价值就打钱 https://t.co/XKGGguSvQI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890821171341647872",
+        "conversation_id": "2035926170454348028",
+        "created_at": "2026-03-23T03:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035926170454348028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035926170454348028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 44018,
+          "like_count": 554,
+          "quote_count": 13,
+          "reply_count": 37,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "夸你一句漂亮就想要你的微信 然后说一堆自己的事情 分享自己的日常 白嫖你的时间和情绪简直就是神经"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 93,
+          "like_count": 603,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 1805
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T17:51:46.000Z",
+        "description": "doki后花园@doki0112che‖大家快来夸奖这个小女孩好吗‖ 不加墙内/私信回粉丝‖ 主页随机掉落照片‖碎碎念每一天‖高壮男，年上男好耶！‖爱上小doki是人之常情~‖↓↓↓匿名提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "doki0112che"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dokidoki62057",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dokidoki62057",
+                "start": 0,
+                "url": "https://t.co/EcFAImuIrd"
+              }
+            ]
+          }
+        },
+        "id": "1890821171341647872",
+        "name": "doki doki〃∀〃",
+        "pinned_tweet_id": "1994187433575919850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915432937434341381/TBjoayF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2644,
+          "following_count": 89,
+          "like_count": 1857,
+          "listed_count": 5,
+          "media_count": 183,
+          "tweet_count": 1725
+        },
+        "url": "https://t.co/EcFAImuIrd",
+        "username": "RPdUkr4M9845che",
+        "verified": false
+      }
+    ]
+  }
+}

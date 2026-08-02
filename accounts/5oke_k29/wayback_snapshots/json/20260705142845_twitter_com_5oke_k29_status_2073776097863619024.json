@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073736452744282354",
+    "created_at": "2026-07-05T14:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073776097863619024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1755676592024813568",
+          "start": 0,
+          "username": "shhsgswr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073776097863619024",
+    "in_reply_to_user_id": "1755676592024813568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073771150753288351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shhsgswr 都说了我只发我想发的。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-05T14:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073776097863619024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1755676592024813568",
+              "start": 0,
+              "username": "shhsgswr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073776097863619024",
+        "in_reply_to_user_id": "1755676592024813568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073771150753288351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shhsgswr 都说了我只发我想发的。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755676592024813568",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-05T14:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073771150753288351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073771150753288351",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073736452744282354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 拿xd当流量？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 132,
+          "like_count": 940,
+          "listed_count": 5,
+          "media_count": 284,
+          "tweet_count": 2342
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T19:35:01.000Z",
+        "description": "",
+        "id": "1755676592024813568",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910390951857827840/YwCxgEam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 24,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "shhsgswr",
+        "verified": false
+      }
+    ]
+  }
+}

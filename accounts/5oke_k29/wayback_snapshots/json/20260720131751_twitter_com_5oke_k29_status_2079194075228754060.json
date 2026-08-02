@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2078313342150803965",
+    "created_at": "2026-07-20T13:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079194075228754060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685560485700358144",
+          "start": 0,
+          "username": "Lzp970605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079194075228754060",
+    "in_reply_to_user_id": "1685560485700358144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078868593513791616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lzp970605 🌚我不知道 我现在知道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2078313342150803965",
+        "created_at": "2026-07-20T13:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079194075228754060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685560485700358144",
+              "start": 0,
+              "username": "Lzp970605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079194075228754060",
+        "in_reply_to_user_id": "1685560485700358144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078868593513791616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lzp970605 🌚我不知道 我现在知道了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685560485700358144",
+        "conversation_id": "2078313342150803965",
+        "created_at": "2026-07-19T15:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078868593513791616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078868593513791616",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078313342150803965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 撒出来就劝你别吸了，你晚上拿个强光手电筒照你吸的那个地方然后手拍一下，灰尘很多啊朋友！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5178,
+          "following_count": 161,
+          "like_count": 964,
+          "listed_count": 9,
+          "media_count": 322,
+          "tweet_count": 2795
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T07:58:46.000Z",
+        "description": "你不会知道我是谁",
+        "id": "1685560485700358144",
+        "location": "43°49'42.4\"N 87°34'02.3\"E",
+        "name": "歪比巴卜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047892077330276352/aR3c8aZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 67,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "Lzp970605",
+        "verified": false
+      }
+    ]
+  }
+}

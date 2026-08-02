@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2067541555863527497",
+    "created_at": "2026-06-18T09:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067541555863527497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tianzhen96554/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/tianzhen96554/status/2067278094390689991",
+          "start": 6,
+          "url": "https://t.co/raEm1yPyCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067541555863527497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067278094390689991",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑得我想死 https://t.co/raEm1yPyCk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2067541555863527497",
+        "created_at": "2026-06-18T09:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067541555863527497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tianzhen96554/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/tianzhen96554/status/2067278094390689991",
+              "start": 6,
+              "url": "https://t.co/raEm1yPyCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067541555863527497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067278094390689991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑得我想死 https://t.co/raEm1yPyCk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913465454406066176",
+        "conversation_id": "2067278094390689991",
+        "created_at": "2026-06-17T16:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067278094390689991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067278094390689991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14571,
+          "like_count": 170,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些电子厂口音 屌丝音 普通话不标准的别说自己是青年青受了行吗。。。别残害我的耳朵啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 100,
+          "like_count": 842,
+          "listed_count": 3,
+          "media_count": 244,
+          "tweet_count": 1964
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T05:31:36.000Z",
+        "description": "我讨厌纯s和纯m。。。\n不调",
+        "id": "1913465454406066176",
+        "name": "少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048425840204300288/pL99aBI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 33,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "username": "TianZhen96554",
+        "verified": false
+      }
+    ]
+  }
+}

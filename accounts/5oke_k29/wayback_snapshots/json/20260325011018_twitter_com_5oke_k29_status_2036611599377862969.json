@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2036611599377862969",
+    "created_at": "2026-03-25T01:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T02:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036611599377862969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1926689407802687488",
+          "start": 3,
+          "username": "liulanggouwait"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036611599377862969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036116363534868600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liulanggouwait: 把狗抱在怀里 用手背轻轻的拍拍脸 当狗懵懵的看向主人的时候再一巴掌扇下去 扇完揉揉小脸蛋 亲一口 摸摸头 你是全世界最棒的小狗哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2036611599377862969",
+        "created_at": "2026-03-25T01:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036611599377862969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1926689407802687488",
+              "start": 3,
+              "username": "liulanggouwait"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036611599377862969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036116363534868600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liulanggouwait: 把狗抱在怀里 用手背轻轻的拍拍脸 当狗懵懵的看向主人的时候再一巴掌扇下去 扇完揉揉小脸蛋 亲一口 摸摸头 你是全世界最棒的小狗哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926689407802687488",
+        "conversation_id": "2036116363534868600",
+        "created_at": "2026-03-23T16:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036116363534868600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036116363534868600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 60217,
+          "like_count": 583,
+          "quote_count": 16,
+          "reply_count": 15,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "把狗抱在怀里 用手背轻轻的拍拍脸 当狗懵懵的看向主人的时候再一巴掌扇下去 扇完揉揉小脸蛋 亲一口 摸摸头 你是全世界最棒的小狗哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 96,
+          "like_count": 613,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 1828
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T17:18:56.000Z",
+        "description": "19.1    2.0    1/4    2/3    狗                                                   由3/4m+1/4brat组成   爱是臣服",
+        "id": "1926689407802687488",
+        "location": "我的幻想意淫碎碎念",
+        "name": "X",
+        "pinned_tweet_id": "2033204603177861610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988283548529577985/xxTmshNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 11,
+          "like_count": 120,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 193
+        },
+        "username": "liulanggouwait",
+        "verified": false
+      }
+    ]
+  }
+}

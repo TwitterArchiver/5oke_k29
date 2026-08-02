@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2074126302806974781",
+    "created_at": "2026-07-07T07:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074398866192183436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074398866192183436",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074126302806974781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 不用点开都知道又是两条精虫上脑的死公狗 现实不花点臭钱去找鸡几个人能眼瞎看得上他们？兜里的钱也只够找老大妈 不对 也就只能翻墙看看片打打飞机了 搞笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2074126294015709184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjG4A4akAA3IYz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2074126302806974781",
+        "created_at": "2026-07-07T07:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074398866192183436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074398866192183436",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074126302806974781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 不用点开都知道又是两条精虫上脑的死公狗 现实不花点臭钱去找鸡几个人能眼瞎看得上他们？兜里的钱也只够找老大妈 不对 也就只能翻墙看看片打打飞机了 搞笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074126294015709184"
+          ]
+        },
+        "author_id": "1809233055196073984",
+        "conversation_id": "2074126302806974781",
+        "created_at": "2026-07-06T13:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074126302806974781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yiod5tnkBa",
+              "end": 60,
+              "expanded_url": "https://x.com/Jy666992/status/2074126302806974781/photo/1",
+              "media_key": "3_2074126294015709184",
+              "start": 37,
+              "url": "https://t.co/Yiod5tnkBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074126302806974781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1526,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得挺好笑的\n我的推特自从发了一两条催情大麻而已\n就开始入驻蝻蛆了 https://t.co/Yiod5tnkBa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4235,
+          "following_count": 139,
+          "like_count": 948,
+          "listed_count": 7,
+          "media_count": 288,
+          "tweet_count": 2395
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n谵妄剂美学爱好者/自毁倾向\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2069854465931497694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 298,
+          "like_count": 1312,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 957
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

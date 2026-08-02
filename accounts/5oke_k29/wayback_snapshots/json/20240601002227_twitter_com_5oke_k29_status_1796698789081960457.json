@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "1796427421656535489",
+    "created_at": "2024-06-01T00:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T01:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796698789081960457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746884530198523904",
+          "start": 0,
+          "username": "yuzihaonanchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796698789081960457",
+    "in_reply_to_user_id": "1746884530198523904",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796427421656535489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzihaonanchi 恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "1796427421656535489",
+        "created_at": "2024-06-01T00:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T01:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796698789081960457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746884530198523904",
+              "start": 0,
+              "username": "yuzihaonanchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796698789081960457",
+        "in_reply_to_user_id": "1746884530198523904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796427421656535489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzihaonanchi 恶心"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796427413985132545"
+          ]
+        },
+        "author_id": "1746884530198523904",
+        "conversation_id": "1796427421656535489",
+        "created_at": "2024-05-31T06:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T07:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796427421656535489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yGDKz5EMqr",
+              "end": 43,
+              "expanded_url": "https://twitter.com/yuzihaonanchi/status/1796427421656535489/photo/1",
+              "media_key": "3_1796427413985132545",
+              "start": 20,
+              "url": "https://t.co/yGDKz5EMqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796427421656535489",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 136982,
+          "like_count": 1033,
+          "quote_count": 17,
+          "reply_count": 97,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "死露阴癖，药物被禁就是因为你们这帮傻逼 https://t.co/yGDKz5EMqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "不是黄推 这只是我发疯的地方 傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 101,
+          "like_count": 652,
+          "listed_count": 4,
+          "tweet_count": 2189
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T13:18:36.000Z",
+        "description": "龟龟： @nekokwiii 🩷 非黄推!🙅🏻‍♀️泛性恋/od/自残/吐黑泥/高p/日常/oc/🏳️‍🌈LGBT友好但自称女生又辱女的滚💢 ＾＾小女孩互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "nekokwiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/baiyu620?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/baiyu620?igsh=NmtuY2N3NWp5cXZ4&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/HJlmrBhAQR"
+              }
+            ]
+          }
+        },
+        "id": "1746884530198523904",
+        "location": "28/52/88🚪陪聊陪玩",
+        "name": "+｡.ʚ魚子醬ɞ.｡+",
+        "pinned_tweet_id": "1765023400425341086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791943504442404864/lAVe_W6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 265,
+          "like_count": 2807,
+          "listed_count": 0,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/HJlmrBhAQR",
+        "username": "yuzihaonanchi",
+        "verified": false
+      }
+    ]
+  }
+}

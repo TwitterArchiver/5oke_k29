@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2078313342150803965",
+    "created_at": "2026-07-18T09:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078404913353384341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1490104252064481280",
+          "start": 0,
+          "username": "L7030L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078404913353384341",
+    "in_reply_to_user_id": "1490104252064481280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078366293884043341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L7030L 咋可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2078313342150803965",
+        "created_at": "2026-07-18T09:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078404913353384341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1490104252064481280",
+              "start": 0,
+              "username": "L7030L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078404913353384341",
+        "in_reply_to_user_id": "1490104252064481280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078366293884043341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L7030L 咋可能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490104252064481280",
+        "conversation_id": "2078313342150803965",
+        "created_at": "2026-07-18T06:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078366293884043341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078366293884043341",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078313342150803965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 主播会不会有一天停更啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5191,
+          "following_count": 160,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 321,
+          "tweet_count": 2784
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T23:25:26.000Z",
+        "description": "。",
+        "id": "1490104252064481280",
+        "name": "邢台最低调",
+        "pinned_tweet_id": "1776045757700976863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041891366066937856/DDwbxKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 649,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "L7030L",
+        "verified": false
+      }
+    ]
+  }
+}

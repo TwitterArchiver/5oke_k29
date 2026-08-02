@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2036543857266139640",
+    "created_at": "2026-03-24T20:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T21:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036543857266139640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1926689407802687488",
+          "start": 3,
+          "username": "liulanggouwait"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036543857266139640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036487760287265183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liulanggouwait: 我们当狗的这辈子不就是为了听到主人说出那句她是我的吗 重点就是我的啊\n我的 你是我的 我独一无二的 小狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2036543857266139640",
+        "created_at": "2026-03-24T20:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T21:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036543857266139640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1926689407802687488",
+              "start": 3,
+              "username": "liulanggouwait"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036543857266139640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036487760287265183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liulanggouwait: 我们当狗的这辈子不就是为了听到主人说出那句她是我的吗 重点就是我的啊\n我的 你是我的 我独一无二的 小狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926689407802687488",
+        "conversation_id": "2036487760287265183",
+        "created_at": "2026-03-24T16:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036487760287265183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036487760287265183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1922,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我们当狗的这辈子不就是为了听到主人说出那句她是我的吗 重点就是我的啊\n我的 你是我的 我独一无二的 小狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 96,
+          "like_count": 613,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 1827
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T17:18:56.000Z",
+        "description": "19.1    2.0    1/4    2/3    狗                                                   由3/4m+1/4brat组成   爱是臣服",
+        "id": "1926689407802687488",
+        "location": "我的幻想意淫碎碎念",
+        "name": "X",
+        "pinned_tweet_id": "2033204603177861610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988283548529577985/xxTmshNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 11,
+          "like_count": 120,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 191
+        },
+        "username": "liulanggouwait",
+        "verified": false
+      }
+    ]
+  }
+}

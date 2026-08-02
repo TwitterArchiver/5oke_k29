@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2072571874912178461",
+    "created_at": "2026-07-03T06:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072930176523198526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596794857179459584",
+          "start": 0,
+          "username": "1227uwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072930176523198526",
+    "in_reply_to_user_id": "1596794857179459584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072571874912178461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1227uwu 我之前断断续续o了300t给我干的拉了两天肚子。。而且全是水 晚一秒去厕所都不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2072571874912178461",
+        "created_at": "2026-07-03T06:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072930176523198526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596794857179459584",
+              "start": 0,
+              "username": "1227uwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072930176523198526",
+        "in_reply_to_user_id": "1596794857179459584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072571874912178461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1227uwu 我之前断断续续o了300t给我干的拉了两天肚子。。而且全是水 晚一秒去厕所都不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596794857179459584",
+        "conversation_id": "2072571874912178461",
+        "created_at": "2026-07-02T06:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072571874912178461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072571874912178461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1069,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊，，其实o加巴喷丁不能一次性o太多会导致生物利用度过低然后窜稀。。一次900mg然后隔45min再来900mg，这样反复o多次就可以有药效了😇，可以搭配一些比较油腻的食物服用……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 130,
+          "like_count": 924,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 2264
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:15:49.000Z",
+        "description": "bpd｜asd｜友跨｜自伤行为｜精神状态不是很良好｜可以私信互fo但是会查成分选择性回｜仅记录生活｜有需要可以陪你聊天不用钱｜只是按医嘱处方正常服药",
+        "id": "1596794857179459584",
+        "name": "今天过得还好吗",
+        "pinned_tweet_id": "2060295656242299093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597873722852970498/Zq1iYwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 75,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "1227uwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2072922838806491510",
+    "created_at": "2026-07-09T09:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075145202436870644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2066055903154171904",
+          "start": 0,
+          "username": "ZouDequanpu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075145202436870644",
+    "in_reply_to_user_id": "2066055903154171904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075133612958375950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZouDequanpu 没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2072922838806491510",
+        "created_at": "2026-07-09T09:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075145202436870644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2066055903154171904",
+              "start": 0,
+              "username": "ZouDequanpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075145202436870644",
+        "in_reply_to_user_id": "2066055903154171904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075133612958375950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZouDequanpu 没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066055903154171904",
+        "conversation_id": "2072922838806491510",
+        "created_at": "2026-07-09T08:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075133612958375950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075133612958375950",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075111501665632732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 感谢感谢，之前做爱的时候就玩玩rush助兴，但那个持续时间太短，所以看了你的帖子就问一下，哈哈👾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4626,
+          "following_count": 144,
+          "like_count": 958,
+          "listed_count": 9,
+          "media_count": 305,
+          "tweet_count": 2532
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T07:13:34.000Z",
+        "description": "",
+        "id": "2066055903154171904",
+        "name": "Zojzxsw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066056644757491712/yBxiJk3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 101,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "ZouDequanpu",
+        "verified": false
+      }
+    ]
+  }
+}

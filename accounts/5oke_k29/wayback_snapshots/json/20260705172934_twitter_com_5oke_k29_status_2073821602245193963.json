@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073793609707708416"
+      ],
+      "media_source_tweet_id": [
+        "2073793630041669987"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073821602245193963",
+    "created_at": "2026-07-05T17:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073821602245193963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1900552683486134272",
+          "start": 3,
+          "username": "kurumi610tt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TcqR9yrIbi",
+          "end": 40,
+          "expanded_url": "https://x.com/kurumi610tt/status/2073793630041669987/photo/1",
+          "media_key": "3_2073793609707708416",
+          "start": 17,
+          "url": "https://t.co/TcqR9yrIbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073821602245193963",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073793630041669987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurumi610tt: https://t.co/TcqR9yrIbi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073793609707708416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeYTPQaYAAjLjw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073793609707708416"
+          ],
+          "media_source_tweet_id": [
+            "2073793630041669987"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073821602245193963",
+        "created_at": "2026-07-05T17:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073821602245193963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1900552683486134272",
+              "start": 3,
+              "username": "kurumi610tt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TcqR9yrIbi",
+              "end": 40,
+              "expanded_url": "https://x.com/kurumi610tt/status/2073793630041669987/photo/1",
+              "media_key": "3_2073793609707708416",
+              "start": 17,
+              "url": "https://t.co/TcqR9yrIbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073821602245193963",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073793630041669987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurumi610tt: https://t.co/TcqR9yrIbi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073793609707708416"
+          ]
+        },
+        "author_id": "1900552683486134272",
+        "conversation_id": "2073793630041669987",
+        "created_at": "2026-07-05T15:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073793630041669987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TcqR9yrIbi",
+              "end": 23,
+              "expanded_url": "https://x.com/kurumi610tt/status/2073793630041669987/photo/1",
+              "media_key": "3_2073793609707708416",
+              "start": 0,
+              "url": "https://t.co/TcqR9yrIbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073793630041669987",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TcqR9yrIbi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3251,
+          "following_count": 134,
+          "like_count": 940,
+          "listed_count": 5,
+          "media_count": 284,
+          "tweet_count": 2343
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T14:20:51.000Z",
+        "description": "无福利不线下 扩列52",
+        "id": "1900552683486134272",
+        "name": "kanae",
+        "pinned_tweet_id": "1920327077859037246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901975443571662848/c9Ur7-t1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 12,
+          "like_count": 237,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "kurumi610tt",
+        "verified": false
+      }
+    ]
+  }
+}

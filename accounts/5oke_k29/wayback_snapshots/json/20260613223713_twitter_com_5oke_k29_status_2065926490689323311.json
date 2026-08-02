@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2065926490689323311",
+    "created_at": "2026-06-13T22:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T23:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065926490689323311"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065926490689323311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "骂sopp鞭尸还有喷漆一点毛病不犯种族歧视这种没有实锤的东西真不觉得太过了吗。。有证据随便追着骂 如果真是误会那不纯丢人 这帽子扣这么大 前面骂这么狠后面实锤出来是误会又要怎么说？中国素质这一块？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2065926490689323311",
+        "created_at": "2026-06-13T22:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T23:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065926490689323311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065926490689323311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骂sopp鞭尸还有喷漆一点毛病不犯种族歧视这种没有实锤的东西真不觉得太过了吗。。有证据随便追着骂 如果真是误会那不纯丢人 这帽子扣这么大 前面骂这么狠后面实锤出来是误会又要怎么说？中国素质这一块？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 99,
+          "like_count": 801,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 1917
+        },
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2070120183910547682",
+    "created_at": "2026-06-25T12:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070120183910547682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/believe_cultur…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/believe_culture/status/2069832901865214109",
+          "start": 23,
+          "url": "https://t.co/O9qN6sjoNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070120183910547682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069832901865214109",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我碰了这些一点食欲都没有 人软趴趴的只想瘫着 https://t.co/O9qN6sjoNO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2070120183910547682",
+        "created_at": "2026-06-25T12:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070120183910547682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/believe_cultur…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/believe_culture/status/2069832901865214109",
+              "start": 23,
+              "url": "https://t.co/O9qN6sjoNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070120183910547682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069832901865214109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我碰了这些一点食欲都没有 人软趴趴的只想瘫着 https://t.co/O9qN6sjoNO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024393308039237633",
+        "conversation_id": "2069832901865214109",
+        "created_at": "2026-06-24T17:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069832901865214109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069832901865214109",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6318,
+          "like_count": 166,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "If weed gives you the munchies, why are so many stoners so lean?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 107,
+          "like_count": 893,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 2078
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T08:00:28.000Z",
+        "description": "Get high with me🌿😈",
+        "id": "2024393308039237633",
+        "name": "𝓬𝓾𝓵𝓽𝓾𝓻𝓮_𝓼𝓷𝔃",
+        "pinned_tweet_id": "2070104139229544794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065198791016194048/uYlYUAFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 607,
+          "like_count": 19783,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 3933
+        },
+        "url": "",
+        "username": "Believe_culture",
+        "verified": true
+      }
+    ]
+  }
+}

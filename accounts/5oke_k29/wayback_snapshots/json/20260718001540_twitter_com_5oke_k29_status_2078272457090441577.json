@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2078008756399722538",
+    "created_at": "2026-07-18T00:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T01:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078272457090441577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720971957217402880",
+          "start": 0,
+          "username": "osgdhxub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078272457090441577",
+    "in_reply_to_user_id": "1720971957217402880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078183333046223098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osgdhxub 我操？我都不知道这事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2078008756399722538",
+        "created_at": "2026-07-18T00:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078272457090441577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720971957217402880",
+              "start": 0,
+              "username": "osgdhxub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078272457090441577",
+        "in_reply_to_user_id": "1720971957217402880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078183333046223098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osgdhxub 我操？我都不知道这事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720971957217402880",
+        "conversation_id": "2078008756399722538",
+        "created_at": "2026-07-17T18:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078183333046223098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078183333046223098",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078127117309816836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 高考放假了小厅天天开要圈钱，笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5182,
+          "following_count": 158,
+          "like_count": 967,
+          "listed_count": 9,
+          "media_count": 319,
+          "tweet_count": 2760
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T01:11:11.000Z",
+        "description": "荒谬",
+        "id": "1720971957217402880",
+        "location": "海鲜市场",
+        "name": "飛鳥",
+        "pinned_tweet_id": "1821581691254947845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879592053430198275/gswvGfdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 55,
+          "like_count": 624,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "osgdhxub",
+        "verified": false
+      }
+    ]
+  }
+}

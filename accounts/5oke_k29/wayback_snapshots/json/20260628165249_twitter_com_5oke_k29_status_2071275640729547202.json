@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2071168643422191858",
+    "created_at": "2026-06-28T16:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071275640729547202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2055907554870583296",
+          "start": 0,
+          "username": "6_s_v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071275640729547202",
+    "in_reply_to_user_id": "2055907554870583296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071272353292816708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6_s_v 这不是吸的吗 解离感很强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2071168643422191858",
+        "created_at": "2026-06-28T16:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071275640729547202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2055907554870583296",
+              "start": 0,
+              "username": "6_s_v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071275640729547202",
+        "in_reply_to_user_id": "2055907554870583296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071272353292816708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6_s_v 这不是吸的吗 解离感很强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055907554870583296",
+        "conversation_id": "2071168643422191858",
+        "created_at": "2026-06-28T16:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071272353292816708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071272353292816708",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071168643422191858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 这个能吃吗，吃起来除了辣还有什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 108,
+          "like_count": 897,
+          "listed_count": 4,
+          "media_count": 265,
+          "tweet_count": 2108
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T07:06:00.000Z",
+        "description": "正在学习说话",
+        "id": "2055907554870583296",
+        "name": "6sv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064582727194812416/efMkYIID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 99,
+          "like_count": 2532,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "6_s_v",
+        "verified": false
+      }
+    ]
+  }
+}

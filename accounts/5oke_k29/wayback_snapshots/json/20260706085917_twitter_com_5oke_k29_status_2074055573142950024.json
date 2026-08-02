@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073821808999178718",
+    "created_at": "2026-07-06T08:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074055573142950024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1358666907893649410",
+          "start": 0,
+          "username": "Leemy920520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074055573142950024",
+    "in_reply_to_user_id": "1358666907893649410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074055083210530984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leemy920520 解离"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073821808999178718",
+        "created_at": "2026-07-06T08:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074055573142950024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1358666907893649410",
+              "start": 0,
+              "username": "Leemy920520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074055573142950024",
+        "in_reply_to_user_id": "1358666907893649410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074055083210530984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leemy920520 解离"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358666907893649410",
+        "conversation_id": "2073821808999178718",
+        "created_at": "2026-07-06T08:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074055083210530984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074055083210530984",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073821808999178718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 棉花糖是兴奋剂，解离剂还是制幻？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3884,
+          "following_count": 135,
+          "like_count": 940,
+          "listed_count": 7,
+          "media_count": 285,
+          "tweet_count": 2355
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T06:40:18.000Z",
+        "description": "",
+        "id": "1358666907893649410",
+        "name": "Lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733000404164890624/CLjWX61G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 128,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "Leemy920520",
+        "verified": false
+      }
+    ]
+  }
+}

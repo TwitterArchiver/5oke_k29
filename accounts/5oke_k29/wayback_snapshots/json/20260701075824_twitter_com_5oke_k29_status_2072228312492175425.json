@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2072227509098393827",
+    "created_at": "2026-07-01T07:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072228312492175425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875024920318713856",
+          "start": 0,
+          "username": "100fulloflove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072228312492175425",
+    "in_reply_to_user_id": "1875024920318713856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072228110234431761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@100fulloflove 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2072227509098393827",
+        "created_at": "2026-07-01T07:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072228312492175425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875024920318713856",
+              "start": 0,
+              "username": "100fulloflove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072228312492175425",
+        "in_reply_to_user_id": "1875024920318713856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072228110234431761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@100fulloflove 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875024920318713856",
+        "conversation_id": "2072227509098393827",
+        "created_at": "2026-07-01T07:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072228110234431761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072228110234431761",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072227509098393827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 有风的季节才最爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 128,
+          "like_count": 903,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 2189
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T03:42:37.000Z",
+        "description": "真高兴给你爱护过",
+        "id": "1875024920318713856",
+        "name": "性单恋",
+        "pinned_tweet_id": "1918503448506691674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072172420883263488/aiUevfP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 196,
+          "like_count": 25909,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 4655
+        },
+        "url": "",
+        "username": "100fulloflove",
+        "verified": false
+      }
+    ]
+  }
+}

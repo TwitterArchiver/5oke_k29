@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2081414073560989753",
+    "created_at": "2026-07-27T06:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081633011217600744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882823505336750080",
+          "start": 0,
+          "username": "huiseliuye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081633011217600744",
+    "in_reply_to_user_id": "1882823505336750080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081414073560989753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huiseliuye 丑的要死做饭不发菜发那个猪逼脸还一堆肥猪女舔 没见过男的😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081414062576132096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKrD-ZaYAAsSOn.jpg",
+        "width": 1128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2081414073560989753",
+        "created_at": "2026-07-27T06:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081633011217600744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882823505336750080",
+              "start": 0,
+              "username": "huiseliuye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081633011217600744",
+        "in_reply_to_user_id": "1882823505336750080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081414073560989753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huiseliuye 丑的要死做饭不发菜发那个猪逼脸还一堆肥猪女舔 没见过男的😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081414062576132096"
+          ]
+        },
+        "author_id": "1882823505336750080",
+        "conversation_id": "2081414073560989753",
+        "created_at": "2026-07-26T16:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081414073560989753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLK3dMNATV",
+              "end": 92,
+              "expanded_url": "https://x.com/huiseliuye/status/2081414073560989753/photo/1",
+              "media_key": "3_2081414062576132096",
+              "start": 69,
+              "url": "https://t.co/vLK3dMNATV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081414073560989753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 147098,
+          "like_count": 1402,
+          "quote_count": 12,
+          "reply_count": 236,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "就这种男的评论区还全是“有没有隐形消费”。上门做饭价格贵的要死。长得也丑。你们这群婊子就是太贱了。贱男就是被你们这些爱倒贴的婊子捧出来的 https://t.co/vLK3dMNATV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5446,
+          "following_count": 165,
+          "like_count": 977,
+          "listed_count": 11,
+          "media_count": 338,
+          "tweet_count": 2916
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T16:11:30.000Z",
+        "description": "求天降一个不爱睡觉的老公",
+        "id": "1882823505336750080",
+        "name": "客服萌萌猪。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038166012840001536/sI7fZzsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 98,
+          "like_count": 25713,
+          "listed_count": 5,
+          "media_count": 326,
+          "tweet_count": 3135
+        },
+        "url": "",
+        "username": "huiseliuye",
+        "verified": false
+      }
+    ]
+  }
+}

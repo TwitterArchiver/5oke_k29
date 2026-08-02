@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2075533131600498915",
+    "created_at": "2026-07-18T03:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078320811484831953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905299964332544000",
+          "start": 0,
+          "username": "LixuL83526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078320811484831953",
+    "in_reply_to_user_id": "1905299964332544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078318945879359769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LixuL83526 健康饮食"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2075533131600498915",
+        "created_at": "2026-07-18T03:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078320811484831953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905299964332544000",
+              "start": 0,
+              "username": "LixuL83526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078320811484831953",
+        "in_reply_to_user_id": "1905299964332544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078318945879359769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LixuL83526 健康饮食"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905299964332544000",
+        "conversation_id": "2075533131600498915",
+        "created_at": "2026-07-18T03:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078318945879359769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078318945879359769",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078310152760181012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 是的我思想觉醒的太晚了，谁不想有个帅哥美女的梦想，不过我得先把我该死的体重减掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5183,
+          "following_count": 161,
+          "like_count": 967,
+          "listed_count": 9,
+          "media_count": 321,
+          "tweet_count": 2778
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T16:45:08.000Z",
+        "description": "",
+        "id": "1905299964332544000",
+        "name": "皮特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058901431319736320/lux5TMnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 52,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "LixuL83526",
+        "verified": false
+      }
+    ]
+  }
+}

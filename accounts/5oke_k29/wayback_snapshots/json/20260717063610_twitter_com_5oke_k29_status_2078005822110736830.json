@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2078001307886260232",
+    "created_at": "2026-07-17T06:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078005822110736830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913516702312357888",
+          "start": 0,
+          "username": "rxxy111209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078005822110736830",
+    "in_reply_to_user_id": "1913516702312357888",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078004190274789800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rxxy111209 w535486n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2078001307886260232",
+        "created_at": "2026-07-17T06:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078005822110736830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913516702312357888",
+              "start": 0,
+              "username": "rxxy111209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078005822110736830",
+        "in_reply_to_user_id": "1913516702312357888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078004190274789800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rxxy111209 w535486n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913516702312357888",
+        "conversation_id": "2078001307886260232",
+        "created_at": "2026-07-17T06:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078004190274789800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078004190274789800",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078001307886260232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 这人抖音号多少啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 155,
+          "like_count": 965,
+          "listed_count": 9,
+          "media_count": 312,
+          "tweet_count": 2710
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T08:55:16.000Z",
+        "description": "tearsofblood",
+        "id": "1913516702312357888",
+        "location": "🚪520/5200过了当送钱",
+        "name": "日下夏羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023661585341050881/CSymbN58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 47,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "rxxy111209",
+        "verified": false
+      }
+    ]
+  }
+}

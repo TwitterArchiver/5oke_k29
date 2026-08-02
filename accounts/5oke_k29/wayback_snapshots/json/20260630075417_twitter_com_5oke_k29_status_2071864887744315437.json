@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2071552257158767012",
+    "created_at": "2026-06-30T07:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071864887744315437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046538614209994752",
+          "start": 0,
+          "username": "overdose7days"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071864887744315437",
+    "in_reply_to_user_id": "2046538614209994752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071552257158767012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose7days odo的看到玉米嘴巴里都苦了.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071552246899474433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-hywIbAAE7wq6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2071552257158767012",
+        "created_at": "2026-06-30T07:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071864887744315437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046538614209994752",
+              "start": 0,
+              "username": "overdose7days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071864887744315437",
+        "in_reply_to_user_id": "2046538614209994752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071552257158767012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose7days odo的看到玉米嘴巴里都苦了.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071552246899474433"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2071552257158767012",
+        "created_at": "2026-06-29T11:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071552257158767012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rYWycOvoU",
+              "end": 23,
+              "expanded_url": "https://x.com/overdose7days/status/2071552257158767012/photo/1",
+              "media_key": "3_2071552246899474433",
+              "start": 0,
+              "url": "https://t.co/8rYWycOvoU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071552257158767012",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1898,
+          "like_count": 157,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8rYWycOvoU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 121,
+          "like_count": 898,
+          "listed_count": 4,
+          "media_count": 250,
+          "tweet_count": 2145
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 85,
+          "like_count": 5073,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

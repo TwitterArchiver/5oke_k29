@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063196553691697152"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2063196564122984729",
+    "created_at": "2026-06-06T09:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063196564122984729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tETA4puZ1m",
+          "end": 52,
+          "expanded_url": "https://x.com/5oke_k29/status/2063196564122984729/photo/1",
+          "media_key": "3_2063196553691697152",
+          "start": 29,
+          "url": "https://t.co/tETA4puZ1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063196564122984729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你老妈飞升了是不 墙内全是老傻子吃点小药片光宗耀祖了说是 https://t.co/tETA4puZ1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063196553691697152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHyVZSakAA4TMT.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063196553691697152"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2063196564122984729",
+        "created_at": "2026-06-06T09:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063196564122984729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tETA4puZ1m",
+              "end": 52,
+              "expanded_url": "https://x.com/5oke_k29/status/2063196564122984729/photo/1",
+              "media_key": "3_2063196553691697152",
+              "start": 29,
+              "url": "https://t.co/tETA4puZ1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063196564122984729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你老妈飞升了是不 墙内全是老傻子吃点小药片光宗耀祖了说是 https://t.co/tETA4puZ1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 99,
+          "like_count": 759,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 1910
+        },
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

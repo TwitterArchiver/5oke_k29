@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2080890142848606612",
+    "created_at": "2026-07-25T15:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081032853446615436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2070479454309167104",
+          "start": 0,
+          "username": "btevw"
+        },
+        {
+          "end": 21,
+          "id": "2062379399878737920",
+          "start": 7,
+          "username": "lvdouzhou7kei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081032853446615436",
+    "in_reply_to_user_id": "2070479454309167104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080986220008812551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btevw @lvdouzhou7kei 说几把谁呢 我发我的不看滚说的有毛病吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2080890142848606612",
+        "created_at": "2026-07-25T15:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081032853446615436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2070479454309167104",
+              "start": 0,
+              "username": "btevw"
+            },
+            {
+              "end": 21,
+              "id": "2062379399878737920",
+              "start": 7,
+              "username": "lvdouzhou7kei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081032853446615436",
+        "in_reply_to_user_id": "2070479454309167104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080986220008812551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btevw @lvdouzhou7kei 说几把谁呢 我发我的不看滚说的有毛病吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070479454309167104",
+        "conversation_id": "2080890142848606612",
+        "created_at": "2026-07-25T11:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080986220008812551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            },
+            {
+              "end": 24,
+              "id": "2062379399878737920",
+              "start": 10,
+              "username": "lvdouzhou7kei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080986220008812551",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080896114925146180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 @lvdouzhou7kei 又当又立😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5451,
+          "following_count": 164,
+          "like_count": 972,
+          "listed_count": 9,
+          "media_count": 339,
+          "tweet_count": 2890
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T12:10:28.000Z",
+        "description": "",
+        "id": "2070479454309167104",
+        "name": "c7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081022987415769088/ZB_-wIci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "btevw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T03:43:53.000Z",
+        "description": "ssn",
+        "id": "2062379399878737920",
+        "name": "lvdouzhou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062748635344056320/xDbI4pUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 43,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "lvdouzhou7kei",
+        "verified": false
+      }
+    ]
+  }
+}

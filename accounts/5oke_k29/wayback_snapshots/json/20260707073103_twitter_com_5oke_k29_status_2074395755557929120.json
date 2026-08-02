@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073736452744282354",
+    "created_at": "2026-07-07T07:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074395755557929120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1989564653559558144",
+          "start": 0,
+          "username": "Bbbhgccghhb"
+        },
+        {
+          "end": 23,
+          "id": "1882110522155524097",
+          "start": 13,
+          "username": "ISaia9304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074395755557929120",
+    "in_reply_to_user_id": "1989564653559558144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074354533430657498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bbbhgccghhb @ISaia9304 除了会个操你妈操你妈操你妈你还会你妈了个臭逼呢啊 你是小学毕业脑子给几把插烂了还是舔逼舔的脑子里全是白带啊？你亲妈马上就暴毙知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-07T07:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074395755557929120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989564653559558144",
+              "start": 0,
+              "username": "Bbbhgccghhb"
+            },
+            {
+              "end": 23,
+              "id": "1882110522155524097",
+              "start": 13,
+              "username": "ISaia9304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074395755557929120",
+        "in_reply_to_user_id": "1989564653559558144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074354533430657498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bbbhgccghhb @ISaia9304 除了会个操你妈操你妈操你妈你还会你妈了个臭逼呢啊 你是小学毕业脑子给几把插烂了还是舔逼舔的脑子里全是白带啊？你亲妈马上就暴毙知道吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989564653559558144",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-07T04:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074354533430657498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            },
+            {
+              "end": 20,
+              "id": "1882110522155524097",
+              "start": 10,
+              "username": "ISaia9304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074354533430657498",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074265978196959455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 @ISaia9304 我操你妈的傻逼玩意儿，滚你妈了个死逼玩意儿，你妈了个骚逼，你他妈被全世界的狗都操我的狗逼东西，你他妈叫什么叫的死毒王，你他妈的得梅毒得艾滋这个局傻逼玩意儿，操你妈了个逼，滚你妈了个逼，让你妈了个逼，把你妈了个巴子都他妈臭死，你他妈全家都他妈都得屌死上吊死，你妈不恶心人吗死啊操你妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4235,
+          "following_count": 138,
+          "like_count": 946,
+          "listed_count": 7,
+          "media_count": 288,
+          "tweet_count": 2389
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T05:22:54.000Z",
+        "description": "jjsjsjdj",
+        "id": "1989564653559558144",
+        "name": "Bbbh",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "Bbbhgccghhb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T16:58:24.000Z",
+        "description": "",
+        "id": "1882110522155524097",
+        "name": "I saia h",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 62,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "ISaia9304",
+        "verified": false
+      }
+    ]
+  }
+}

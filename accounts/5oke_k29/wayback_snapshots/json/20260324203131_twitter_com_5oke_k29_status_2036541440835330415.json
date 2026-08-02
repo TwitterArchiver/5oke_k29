@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2036541440835330415",
+    "created_at": "2026-03-24T20:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T21:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036541440835330415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2884726859",
+          "start": 3,
+          "username": "xcc112233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036541440835330415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036431429157134414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xcc112233: 很多m都极度缺爱，会对主人产生病态的依赖，不顾一切讨好，只为了证明自己有价值，不被抛弃\n当真正被爱的时，又总是欲求不满，觉得这份爱不够深，永远差一点\n所以最好的方式，是让m维持单向的爱，疯狂地爱你，而你只给予适当的爱，克制的回应\n用枷锁，洗脑驯化等…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2036541440835330415",
+        "created_at": "2026-03-24T20:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T21:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036541440835330415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2884726859",
+              "start": 3,
+              "username": "xcc112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036541440835330415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036431429157134414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xcc112233: 很多m都极度缺爱，会对主人产生病态的依赖，不顾一切讨好，只为了证明自己有价值，不被抛弃\n当真正被爱的时，又总是欲求不满，觉得这份爱不够深，永远差一点\n所以最好的方式，是让m维持单向的爱，疯狂地爱你，而你只给予适当的爱，克制的回应\n用枷锁，洗脑驯化等…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2884726859",
+        "conversation_id": "2036431429157134414",
+        "created_at": "2026-03-24T13:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036431429157134414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036431429157134414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 48745,
+          "like_count": 429,
+          "quote_count": 10,
+          "reply_count": 22,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "很多m都极度缺爱，会对主人产生病态的依赖，不顾一切讨好，只为了证明自己有价值，不被抛弃\n当真正被爱的时，又总是欲求不满，觉得这份爱不够深，永远差一点\n所以最好的方式，是让m维持单向的爱，疯狂地爱你，而你只给予适当的爱，克制的回应\n用枷锁，洗脑驯化等方式\n然后平静地告诉她：你是我的私有物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 96,
+          "like_count": 613,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 1826
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-19T20:39:26.000Z",
+        "description": "bdsm｜6年dom｜坐标:徐州｜深度挖掘奴性肉体与灵魂羁绊｜严厉又温柔，手狠但尊重｜知识科普🐧：1687738454",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xcc112233",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xcc112233",
+                "start": 0,
+                "url": "https://t.co/2OWhEX85k5"
+              }
+            ]
+          }
+        },
+        "id": "2884726859",
+        "location": "江苏徐州  ",
+        "name": "白先生",
+        "pinned_tweet_id": "1929197334149074992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681005961287180290/EIIxfQWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3316,
+          "following_count": 26,
+          "like_count": 548,
+          "listed_count": 5,
+          "media_count": 87,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/2OWhEX85k5",
+        "username": "xcc112233",
+        "verified": false
+      }
+    ]
+  }
+}

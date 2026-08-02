@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073736452744282354",
+    "created_at": "2026-07-06T08:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074055672149467447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1516440467952521307",
+          "start": 0,
+          "username": "Tule626"
+        },
+        {
+          "end": 17,
+          "id": "1664634193995870210",
+          "start": 9,
+          "username": "loap991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074055672149467447",
+    "in_reply_to_user_id": "1516440467952521307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074027258013233624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tule626 @loap991 谢谢你.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-06T08:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074055672149467447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1516440467952521307",
+              "start": 0,
+              "username": "Tule626"
+            },
+            {
+              "end": 17,
+              "id": "1664634193995870210",
+              "start": 9,
+              "username": "loap991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074055672149467447",
+        "in_reply_to_user_id": "1516440467952521307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074027258013233624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tule626 @loap991 谢谢你.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516440467952521307",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-06T07:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074027258013233624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1664634193995870210",
+              "start": 0,
+              "username": "loap991"
+            },
+            {
+              "end": 18,
+              "id": "1317689258052710400",
+              "start": 9,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074027258013233624",
+        "in_reply_to_user_id": "1664634193995870210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074012152445481286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loap991 @5oke_k29 你都压抑得翻墙看伪娘片了怎么不积点口德😧你是否时刻幻想你妈妈内裤里也藏着一根好让你吃，真的主页破案了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3884,
+          "following_count": 135,
+          "like_count": 941,
+          "listed_count": 7,
+          "media_count": 285,
+          "tweet_count": 2356
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T15:36:17.000Z",
+        "description": "",
+        "id": "1516440467952521307",
+        "name": "1個壞男人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556556655587758080/v7WeNhpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 30,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Tule626",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T14:05:09.000Z",
+        "description": "",
+        "id": "1664634193995870210",
+        "name": "loap999🇸🇬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664634443808604160/SwZlTo0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 302,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "loap991",
+        "verified": false
+      }
+    ]
+  }
+}

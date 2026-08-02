@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072204227385167872"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071866906324422849",
+    "created_at": "2026-07-01T06:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072204235354325014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1714103164008357888",
+          "start": 0,
+          "username": "Babywz11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4h2Qf96CWi",
+          "end": 39,
+          "expanded_url": "https://x.com/5oke_k29/status/2072204235354325014/photo/1",
+          "media_key": "3_2072204227385167872",
+          "start": 16,
+          "url": "https://t.co/4h2Qf96CWi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072204235354325014",
+    "in_reply_to_user_id": "1714103164008357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072052970754302109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Babywz11 还有小蜜蜂 https://t.co/4h2Qf96CWi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072204227385167872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHyxAtbEAA-f_G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072204227385167872"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071866906324422849",
+        "created_at": "2026-07-01T06:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072204235354325014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1714103164008357888",
+              "start": 0,
+              "username": "Babywz11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4h2Qf96CWi",
+              "end": 39,
+              "expanded_url": "https://x.com/5oke_k29/status/2072204235354325014/photo/1",
+              "media_key": "3_2072204227385167872",
+              "start": 16,
+              "url": "https://t.co/4h2Qf96CWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072204235354325014",
+        "in_reply_to_user_id": "1714103164008357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072052970754302109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Babywz11 还有小蜜蜂 https://t.co/4h2Qf96CWi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714103164008357888",
+        "conversation_id": "2071866906324422849",
+        "created_at": "2026-06-30T20:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072052970754302109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072052970754302109",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071866906324422849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 还用的ev63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 127,
+          "like_count": 903,
+          "listed_count": 5,
+          "media_count": 255,
+          "tweet_count": 2173
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T02:17:12.000Z",
+        "description": "",
+        "id": "1714103164008357888",
+        "name": "x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714103903237853184/UsUuS51f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 25,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "Babywz11",
+        "verified": false
+      }
+    ]
+  }
+}

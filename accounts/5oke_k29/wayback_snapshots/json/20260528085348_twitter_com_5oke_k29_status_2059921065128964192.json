@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2059594427178639773",
+    "created_at": "2026-05-28T08:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059921065128964192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918822040666329089",
+          "start": 0,
+          "username": "Jiajia220391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059921065128964192",
+    "in_reply_to_user_id": "1918822040666329089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059920337999974685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiajia220391 那你确实没见识 还有2026了你别裹小脑了跟个老傻子一样 我啥性取向跟你有几把关系呢傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2059594427178639773",
+        "created_at": "2026-05-28T08:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059921065128964192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918822040666329089",
+              "start": 0,
+              "username": "Jiajia220391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059921065128964192",
+        "in_reply_to_user_id": "1918822040666329089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059920337999974685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiajia220391 那你确实没见识 还有2026了你别裹小脑了跟个老傻子一样 我啥性取向跟你有几把关系呢傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918822040666329089",
+        "conversation_id": "2059594427178639773",
+        "created_at": "2026-05-28T08:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059920337999974685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059920337999974685",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059908682071310683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 做过几次的女人很正常。你看着你像就做过几次的吗？你至少2位数，跟地方差异有关吧，你那边的平均身高一般，粗大的比例应该挺少的，那确实松不了\n厌恶几年男性了？那你能有什么办法呢？可惜你不是女同，你离不开\n你提到家庭乱伦是嘛，你长期玩黄galgame和你最爱的缘之空，你和家人发生过关系嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 96,
+          "like_count": 642,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 1891
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:16:56.000Z",
+        "description": "",
+        "id": "1918822040666329089",
+        "name": "er",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114137605230592/y4tkQj8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 184,
+          "like_count": 1351,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 230
+        },
+        "username": "Jiajia220391",
+        "verified": false
+      }
+    ]
+  }
+}

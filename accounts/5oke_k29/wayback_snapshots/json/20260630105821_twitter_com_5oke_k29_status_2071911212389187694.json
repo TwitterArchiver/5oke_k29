@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2071911212389187694",
+    "created_at": "2026-06-30T10:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071911212389187694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "35482996",
+          "start": 3,
+          "username": "qyhxtop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071911212389187694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070986105806319866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qyhxtop: 科研新手不知道如何购买实验试剂？某宝商家代购验资繁琐？ 商家以次充好试剂纯度不达标？轻研化学帮你忙！仅需10u起（货值30%抽水），各类试剂代购保证靠谱，小众试剂帮你询价找厂，纯度不达标凭谱图帮你和商家对线，公司学校资质验资开票等帮你一站式解决，快递直…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2071911212389187694",
+        "created_at": "2026-06-30T10:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071911212389187694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "35482996",
+              "start": 3,
+              "username": "qyhxtop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071911212389187694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070986105806319866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qyhxtop: 科研新手不知道如何购买实验试剂？某宝商家代购验资繁琐？ 商家以次充好试剂纯度不达标？轻研化学帮你忙！仅需10u起（货值30%抽水），各类试剂代购保证靠谱，小众试剂帮你询价找厂，纯度不达标凭谱图帮你和商家对线，公司学校资质验资开票等帮你一站式解决，快递直…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "35482996",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2070986105806319866",
+        "created_at": "2026-06-27T21:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T22:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070986105806319866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070986105806319866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "科研新手不知道如何购买实验试剂？某宝商家代购验资繁琐？ 商家以次充好试剂纯度不达标？轻研化学帮你忙！仅需10u起（货值30%抽水），各类试剂代购保证靠谱，小众试剂帮你询价找厂，纯度不达标凭谱图帮你和商家对线，公司学校资质验资开票等帮你一站式解决，快递直接包邮到家！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 127,
+          "like_count": 900,
+          "listed_count": 4,
+          "media_count": 253,
+          "tweet_count": 2158
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-26T15:08:47.000Z",
+        "description": "https://t.co/sfmueiVZE4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qingyanhuaxue",
+                "end": 23,
+                "expanded_url": "https://t.me/qingyanhuaxue",
+                "start": 0,
+                "url": "https://t.co/sfmueiVZE4"
+              }
+            ]
+          }
+        },
+        "id": "35482996",
+        "name": "轻研化学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070983311712018433/4iDpwrJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 23,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "qyhxtop",
+        "verified": false
+      }
+    ]
+  }
+}

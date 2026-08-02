@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2079806830491127915",
+    "created_at": "2026-07-22T05:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079806830491127915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/even777ko/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/even777ko/status/2079806561208414527",
+          "start": 3,
+          "url": "https://t.co/HYtbEP8pyR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079806830491127915",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079806561208414527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "联系 https://t.co/HYtbEP8pyR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2079806830491127915",
+        "created_at": "2026-07-22T05:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079806830491127915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/even777ko/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/even777ko/status/2079806561208414527",
+              "start": 3,
+              "url": "https://t.co/HYtbEP8pyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079806830491127915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079806561208414527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "联系 https://t.co/HYtbEP8pyR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079539484841136129",
+        "conversation_id": "2079806561208414527",
+        "created_at": "2026-07-22T05:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079806561208414527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079806561208414527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解离+兴奋咪咪1800/g30mg单次 可口服鼻吸兴奋剂猫猫2200/g口服鼻吸烫吸30mg兴奋剂甜甜 2500/g口服鼻吸烫吸30mg致幻剂4ho均有售卖感兴趣私我 只收u和口令都可以玩很久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5173,
+          "following_count": 164,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 327,
+          "tweet_count": 2819
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T12:11:47.000Z",
+        "description": "联系我",
+        "id": "2079539484841136129",
+        "name": "lingYuXi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079540293427437568/yhrI2OTk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "even777ko",
+        "verified": false
+      }
+    ]
+  }
+}

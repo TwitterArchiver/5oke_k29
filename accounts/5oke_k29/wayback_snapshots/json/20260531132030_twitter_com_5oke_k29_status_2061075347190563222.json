@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2061075347190563222",
+    "created_at": "2026-05-31T13:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061075347190563222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046395388974845952",
+          "start": 3,
+          "username": "eduantao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061075347190563222",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2452
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060855385775321569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eduantao: Eu realmente desperdicei minha adolescência sendo deprimido e infeliz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2061075347190563222",
+        "created_at": "2026-05-31T13:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061075347190563222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046395388974845952",
+              "start": 3,
+              "username": "eduantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061075347190563222",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2452
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060855385775321569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eduantao: Eu realmente desperdicei minha adolescência sendo deprimido e infeliz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046395388974845952",
+        "conversation_id": "2060855385775321569",
+        "created_at": "2026-05-30T22:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060855385775321569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060855385775321569",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 137034,
+          "like_count": 10245,
+          "quote_count": 166,
+          "reply_count": 92,
+          "retweet_count": 2452
+        },
+        "reply_settings": "everyone",
+        "text": "Eu realmente desperdicei minha adolescência sendo deprimido e infeliz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 99,
+          "like_count": 712,
+          "listed_count": 3,
+          "media_count": 244,
+          "tweet_count": 1904
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 463,
+          "like_count": 125,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 233
+        },
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

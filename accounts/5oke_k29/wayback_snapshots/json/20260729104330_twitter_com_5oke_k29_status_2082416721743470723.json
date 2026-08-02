@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2082416721743470723",
+    "created_at": "2026-07-29T10:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082416721743470723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1959752974483525632",
+          "start": 0,
+          "username": "lito66618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082416721743470723",
+    "in_reply_to_user_id": "1959752974483525632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@lito66618 贱逼除了会欺负小妹妹你还会干你妈了臭逼 死了亲妈的婊子一副贱样去卖逼都没人要跟你婊子亲妈一块倒贴 给你妈血烂逼割下来给日本人上贡拿去喂狗 你隔那说三道四逼逼赖赖你妈臭逼呢 你还起上劲了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2082416721743470723",
+        "created_at": "2026-07-29T10:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082416721743470723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959752974483525632",
+              "start": 0,
+              "username": "lito66618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082416721743470723",
+        "in_reply_to_user_id": "1959752974483525632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@lito66618 贱逼除了会欺负小妹妹你还会干你妈了臭逼 死了亲妈的婊子一副贱样去卖逼都没人要跟你婊子亲妈一块倒贴 给你妈血烂逼割下来给日本人上贡拿去喂狗 你隔那说三道四逼逼赖赖你妈臭逼呢 你还起上劲了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5483,
+          "following_count": 163,
+          "like_count": 992,
+          "listed_count": 11,
+          "media_count": 354,
+          "tweet_count": 2989
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T23:01:46.000Z",
+        "description": "大家好我是刘婉瑜小婊子啊我的qq号是3625637857",
+        "id": "1959752974483525632",
+        "location": "马来西亚",
+        "name": "李韬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082412377941880832/HF7eY63W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "lito66618",
+        "verified": false
+      }
+    ]
+  }
+}

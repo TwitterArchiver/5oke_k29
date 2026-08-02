@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2074407864349921362",
+    "created_at": "2026-07-07T13:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074480843905798172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1937124697352876032",
+          "start": 0,
+          "username": "XwJiu2573"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074480843905798172",
+    "in_reply_to_user_id": "1937124697352876032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074479859859173753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XwJiu2573 那你就当我高p 我就是高p 行了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2074407864349921362",
+        "created_at": "2026-07-07T13:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074480843905798172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1937124697352876032",
+              "start": 0,
+              "username": "XwJiu2573"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074480843905798172",
+        "in_reply_to_user_id": "1937124697352876032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074479859859173753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XwJiu2573 那你就当我高p 我就是高p 行了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937124697352876032",
+        "conversation_id": "2074407864349921362",
+        "created_at": "2026-07-07T13:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074479859859173753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074479859859173753",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074410368173277392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 挺好看的 但是素颜发张磨皮美颜的干啥 （别说我挑刺是你自己说的素颜）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 142,
+          "like_count": 953,
+          "listed_count": 7,
+          "media_count": 298,
+          "tweet_count": 2444
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T12:25:01.000Z",
+        "description": "",
+        "id": "1937124697352876032",
+        "name": "xw jiu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074480195592142848/k44xQrQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "XwJiu2573",
+        "verified": false
+      }
+    ]
+  }
+}

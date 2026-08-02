@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2082026957433348440",
+    "created_at": "2026-07-28T10:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082053097053139107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2036654598950379520",
+          "start": 0,
+          "username": "Lsyhmqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082053097053139107",
+    "in_reply_to_user_id": "2036654598950379520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082026957433348440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lsyhmqq ？又买了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14968,
+        "height": 1280,
+        "media_key": "13_2082026894342717440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082026894342717440/img/XdH4Ct6W1d07HufB.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082026894342717440/vid/avc1/320x568/1K4j7FDaF-pKNj3i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082026894342717440/vid/avc1/480x852/zwx-DqIHXWV6yOPm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082026894342717440/vid/avc1/720x1280/8zbx17tjKhQU7XxX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082026894342717440/pl/P8eur9hQsRlW11bh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2082026957433348440",
+        "created_at": "2026-07-28T10:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082053097053139107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2036654598950379520",
+              "start": 0,
+              "username": "Lsyhmqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082053097053139107",
+        "in_reply_to_user_id": "2036654598950379520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082026957433348440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lsyhmqq ？又买了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082026894342717440"
+          ]
+        },
+        "author_id": "2036654598950379520",
+        "conversation_id": "2082026957433348440",
+        "created_at": "2026-07-28T08:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082026957433348440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIO6s8bRXd",
+              "end": 27,
+              "expanded_url": "https://x.com/Lsyhmqq/status/2082026957433348440/video/1",
+              "media_key": "13_2082026894342717440",
+              "start": 4,
+              "url": "https://t.co/hIO6s8bRXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082026957433348440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开心呀 https://t.co/hIO6s8bRXd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5453,
+          "following_count": 162,
+          "like_count": 985,
+          "listed_count": 11,
+          "media_count": 347,
+          "tweet_count": 2955
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T04:01:56.000Z",
+        "description": "…",
+        "id": "2036654598950379520",
+        "name": "Lsy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047298733281366017/nwosBic0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Lsyhmqq",
+        "verified": false
+      }
+    ]
+  }
+}

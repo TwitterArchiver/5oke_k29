@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2078006587093098865",
+    "created_at": "2026-07-18T09:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078404830968902042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1386886068725641219",
+          "start": 0,
+          "username": "showmakersddkox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078404830968902042",
+    "in_reply_to_user_id": "1386886068725641219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078365476439421087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@showmakersddkox 发口令"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2078006587093098865",
+        "created_at": "2026-07-18T09:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078404830968902042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1386886068725641219",
+              "start": 0,
+              "username": "showmakersddkox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078404830968902042",
+        "in_reply_to_user_id": "1386886068725641219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078365476439421087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@showmakersddkox 发口令"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386886068725641219",
+        "conversation_id": "2078006587093098865",
+        "created_at": "2026-07-18T06:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078365476439421087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078365476439421087",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078296411628798282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 好的女王大人 突突突"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5191,
+          "following_count": 160,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 321,
+          "tweet_count": 2783
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-27T03:33:10.000Z",
+        "description": "专业打桩机q478625097 备注来意",
+        "id": "1386886068725641219",
+        "location": "深圳龙华",
+        "name": "超级打桩机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078020280472207360/G6eZxlj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 390,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "showmakersddkox",
+        "verified": false
+      }
+    ]
+  }
+}

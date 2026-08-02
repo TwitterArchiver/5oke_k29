@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073375788897067441",
+    "created_at": "2026-07-05T05:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073641639411859656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1799475168001277952",
+          "start": 0,
+          "username": "z1073459024963"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073641639411859656",
+    "in_reply_to_user_id": "1799475168001277952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073456889954795693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z1073459024963 我怕碾飞了🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073375788897067441",
+        "created_at": "2026-07-05T05:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073641639411859656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1799475168001277952",
+              "start": 0,
+              "username": "z1073459024963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073641639411859656",
+        "in_reply_to_user_id": "1799475168001277952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073456889954795693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z1073459024963 我怕碾飞了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799475168001277952",
+        "conversation_id": "2073375788897067441",
+        "created_at": "2026-07-04T17:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073456889954795693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073456889954795693",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073375788897067441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 颗粒太大了点，下次再碾碎一点比较好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 130,
+          "like_count": 938,
+          "listed_count": 5,
+          "media_count": 282,
+          "tweet_count": 2316
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T16:14:59.000Z",
+        "description": "Montana  Nashville  New York  Washington",
+        "id": "1799475168001277952",
+        "location": "Los Angeles, CA",
+        "name": "D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921968014401912832/lic0OX82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 38,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "z1073459024963",
+        "verified": false
+      }
+    ]
+  }
+}

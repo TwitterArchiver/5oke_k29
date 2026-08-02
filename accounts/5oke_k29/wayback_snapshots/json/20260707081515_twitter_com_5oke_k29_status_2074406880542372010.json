@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074406665068449792"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2074406880542372010",
+    "created_at": "2026-07-07T08:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074406880542372010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8KmwQ2n6we",
+          "end": 39,
+          "expanded_url": "https://x.com/5oke_k29/status/2074406880542372010/video/1",
+          "media_key": "13_2074406665068449792",
+          "start": 16,
+          "url": "https://t.co/8KmwQ2n6we"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074406880542372010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的五杀啊😭😭虽然是前天打的了 https://t.co/8KmwQ2n6we"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33095,
+        "height": 720,
+        "media_key": "13_2074406665068449792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074406665068449792/img/7RgL6uZorIZac6uF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074406665068449792/vid/avc1/480x270/mwnaNdTSPK5moozN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074406665068449792/vid/avc1/640x360/Q-B01hxVM4bm5lf_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074406665068449792/vid/avc1/1280x720/jFOlcDzcC2SI_y88.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074406665068449792/pl/jR6Ga1N6NMEWvpGa.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074406665068449792"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2074406880542372010",
+        "created_at": "2026-07-07T08:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074406880542372010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8KmwQ2n6we",
+              "end": 39,
+              "expanded_url": "https://x.com/5oke_k29/status/2074406880542372010/video/1",
+              "media_key": "13_2074406665068449792",
+              "start": 16,
+              "url": "https://t.co/8KmwQ2n6we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074406880542372010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的五杀啊😭😭虽然是前天打的了 https://t.co/8KmwQ2n6we"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4237,
+          "following_count": 142,
+          "like_count": 949,
+          "listed_count": 7,
+          "media_count": 291,
+          "tweet_count": 2408
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2072021546697417105",
+    "created_at": "2026-06-30T18:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T19:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072023059595423787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932826801279275008",
+          "start": 0,
+          "username": "Tanjieyang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072023059595423787",
+    "in_reply_to_user_id": "1932826801279275008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072022654954201469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tanjieyang_ 不想活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2072021546697417105",
+        "created_at": "2026-06-30T18:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072023059595423787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932826801279275008",
+              "start": 0,
+              "username": "Tanjieyang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072023059595423787",
+        "in_reply_to_user_id": "1932826801279275008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072022654954201469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tanjieyang_ 不想活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932826801279275008",
+        "conversation_id": "2072021546697417105",
+        "created_at": "2026-06-30T18:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072022654954201469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072022654954201469",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072021546697417105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 你要干啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 127,
+          "like_count": 903,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 2171
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T15:46:51.000Z",
+        "description": "",
+        "id": "1932826801279275008",
+        "name": "TJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933072155710996480/-3-zTadM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 297,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "Tanjieyang_",
+        "verified": false
+      }
+    ]
+  }
+}

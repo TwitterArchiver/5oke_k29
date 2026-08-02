@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2075484975298949402",
+    "created_at": "2026-07-10T11:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075544183444774915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971306941931753472",
+          "start": 0,
+          "username": "hulixunlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075544183444774915",
+    "in_reply_to_user_id": "1971306941931753472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075541992969560131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hulixunlei 这样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2075484975298949402",
+        "created_at": "2026-07-10T11:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075544183444774915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971306941931753472",
+              "start": 0,
+              "username": "hulixunlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075544183444774915",
+        "in_reply_to_user_id": "1971306941931753472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075541992969560131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hulixunlei 这样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971306941931753472",
+        "conversation_id": "2075484975298949402",
+        "created_at": "2026-07-10T11:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075541992969560131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075541992969560131",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075484975298949402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 用一张现金，垫着，然后现金上面用卡片。国际上除了用玻璃镜面还有人用瓦楞纸快递箱，那个磨的更碎，用现金垫着也是因为现金可以磨的更碎而且不会飞 粘在现金上的用手指头抹下来在另一个鼻孔或者牙龈上划一划就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4787,
+          "following_count": 148,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 316,
+          "tweet_count": 2596
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T20:13:08.000Z",
+        "description": "",
+        "id": "1971306941931753472",
+        "name": "活力迅雷",
+        "pinned_tweet_id": "2057508198836535733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971307001989955584/4ImWLrAM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 286,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "hulixunlei",
+        "verified": false
+      }
+    ]
+  }
+}

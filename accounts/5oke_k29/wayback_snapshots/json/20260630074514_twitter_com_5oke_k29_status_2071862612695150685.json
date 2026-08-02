@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2071583704133333126",
+    "created_at": "2026-06-30T07:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071862612695150685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1849315255379460096",
+          "start": 0,
+          "username": "ZhouCher2983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071862612695150685",
+    "in_reply_to_user_id": "1849315255379460096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071789144942997856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhouCher2983 不好才会想逃避"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2071583704133333126",
+        "created_at": "2026-06-30T07:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071862612695150685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1849315255379460096",
+              "start": 0,
+              "username": "ZhouCher2983"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071862612695150685",
+        "in_reply_to_user_id": "1849315255379460096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071789144942997856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhouCher2983 不好才会想逃避"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849315255379460096",
+        "conversation_id": "2071583704133333126",
+        "created_at": "2026-06-30T02:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071789144942997856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071789144942997856",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071583704133333126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 现实过得很好为什么要逃避"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 119,
+          "like_count": 897,
+          "listed_count": 4,
+          "media_count": 250,
+          "tweet_count": 2139
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T05:01:55.000Z",
+        "description": "恢复高冷人设😒\nmy nigga：@gnawizvj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "gnawizvj"
+              }
+            ]
+          }
+        },
+        "id": "1849315255379460096",
+        "location": "I hate all fags",
+        "name": "brofist",
+        "pinned_tweet_id": "1927962348699947383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065731966620893184/2qKrvtbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 11,
+          "like_count": 4175,
+          "listed_count": 2,
+          "media_count": 433,
+          "tweet_count": 2579
+        },
+        "url": "",
+        "username": "ZhouCher2983",
+        "verified": false
+      }
+    ]
+  }
+}

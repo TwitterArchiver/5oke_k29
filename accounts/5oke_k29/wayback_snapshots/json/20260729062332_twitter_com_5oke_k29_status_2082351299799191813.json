@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2081793904568078557",
+    "created_at": "2026-07-29T06:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082351299799191813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1651908094912499712",
+          "start": 0,
+          "username": "ZgNq0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082351299799191813",
+    "in_reply_to_user_id": "1651908094912499712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082172284702216381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZgNq0 这个是pcpy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2081793904568078557",
+        "created_at": "2026-07-29T06:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082351299799191813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1651908094912499712",
+              "start": 0,
+              "username": "ZgNq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082351299799191813",
+        "in_reply_to_user_id": "1651908094912499712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082172284702216381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZgNq0 这个是pcpy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651908094912499712",
+        "conversation_id": "2081793904568078557",
+        "created_at": "2026-07-28T18:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082172284702216381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082172284702216381",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081793904568078557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 求问这是啥 win1611？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5475,
+          "following_count": 162,
+          "like_count": 986,
+          "listed_count": 11,
+          "media_count": 349,
+          "tweet_count": 2966
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T11:16:07.000Z",
+        "description": "你家猫出门散步被我捡走了\n健康生活 远离滥用",
+        "id": "1651908094912499712",
+        "name": "ククも",
+        "pinned_tweet_id": "2038901700875133267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004242629450780672/RIrIXKTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 382,
+          "like_count": 6414,
+          "listed_count": 2,
+          "media_count": 634,
+          "tweet_count": 6536
+        },
+        "url": "",
+        "username": "ZgNq0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074410884206891008"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2074246663951274277",
+    "created_at": "2026-07-07T08:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074410892129927550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025216486760157184",
+          "start": 0,
+          "username": "Cosmo2267651"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qbJorpzJTN",
+          "end": 47,
+          "expanded_url": "https://x.com/5oke_k29/status/2074410892129927550/photo/1",
+          "media_key": "3_2074410884206891008",
+          "start": 24,
+          "url": "https://t.co/qbJorpzJTN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074410892129927550",
+    "in_reply_to_user_id": "2025216486760157184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074246663951274277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cosmo2267651 只有一次到脂肪层过 https://t.co/qbJorpzJTN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074410884206891008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnJtV9bEAA9nWx.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 2266,
+        "height": 1920,
+        "media_key": "13_2074246599841370112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074246599841370112/img/KXnziGuw59a1VgxU.jpg",
+        "public_metrics": {
+          "view_count": 225
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074246599841370112/vid/avc1/480x852/c6H6L-lVkQ9Ejh30.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074246599841370112/vid/avc1/720x1280/uRDpUc7A4rWyuKk6.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074246599841370112/vid/avc1/320x568/JrlPO_N8pgoTcSUO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074246599841370112/pl/7px6HN4zTQjg38AV.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074246599841370112/vid/avc1/1080x1920/DmtwvhXPZpkaaHJG.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074410884206891008"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2074246663951274277",
+        "created_at": "2026-07-07T08:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074410892129927550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025216486760157184",
+              "start": 0,
+              "username": "Cosmo2267651"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbJorpzJTN",
+              "end": 47,
+              "expanded_url": "https://x.com/5oke_k29/status/2074410892129927550/photo/1",
+              "media_key": "3_2074410884206891008",
+              "start": 24,
+              "url": "https://t.co/qbJorpzJTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074410892129927550",
+        "in_reply_to_user_id": "2025216486760157184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074246663951274277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cosmo2267651 只有一次到脂肪层过 https://t.co/qbJorpzJTN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074246599841370112"
+          ]
+        },
+        "author_id": "2025216486760157184",
+        "conversation_id": "2074246663951274277",
+        "created_at": "2026-07-06T21:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T22:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074246663951274277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJhP0xbueS",
+              "end": 42,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2074246663951274277/video/1",
+              "media_key": "13_2074246599841370112",
+              "start": 19,
+              "url": "https://t.co/gJhP0xbueS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074246663951274277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 645,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们手上的疤会疤痕增生吗、看起来好丑 https://t.co/gJhP0xbueS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4238,
+          "following_count": 142,
+          "like_count": 949,
+          "listed_count": 7,
+          "media_count": 294,
+          "tweet_count": 2417
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "同类欢迎互fo /oder/自殘\n➕lx互关、喜欢的随便、低能量频道不喜欢划走 infp 穷逼党、可以找我画oc呀🥹🥹无偿呀 https://t.co/f4RFWLyiPR 欢迎找我。男的！！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cosmo%E2%80%86…",
+                "end": 86,
+                "expanded_url": "https://ngl.link/cosmo%E2%80%86112266",
+                "start": 63,
+                "url": "https://t.co/f4RFWLyiPR"
+              }
+            ]
+          }
+        },
+        "id": "2025216486760157184",
+        "location": "✝️天堂✝️",
+        "name": "なえ",
+        "pinned_tweet_id": "2069954956183167476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073431206893654018/IZuy6a4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 399,
+          "like_count": 1776,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "Cosmo2267651",
+        "verified": false
+      }
+    ]
+  }
+}

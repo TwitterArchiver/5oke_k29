@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2059594427178639773",
+    "created_at": "2026-05-28T08:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059908682071310683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918822040666329089",
+          "start": 0,
+          "username": "Jiajia220391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059908682071310683",
+    "in_reply_to_user_id": "1918822040666329089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059768350519996791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiajia220391 跟你有几把关系都啥年代了你能找着一个就跟几个女的做过的男的？什么爱男发言还有你说的孕妇松度说你婊子妈呢😂这么了解是不是跟你婊子妈做过啊 有没有点常识九年义务上完没还觉得女的睡得多=松 说出来不嫌丢人现眼 你婊子妈被多少人轮了生出你这么个杂碎 这么关注你爹？发没发动态都知道😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2059594427178639773",
+        "created_at": "2026-05-28T08:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059908682071310683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918822040666329089",
+              "start": 0,
+              "username": "Jiajia220391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059908682071310683",
+        "in_reply_to_user_id": "1918822040666329089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059768350519996791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiajia220391 跟你有几把关系都啥年代了你能找着一个就跟几个女的做过的男的？什么爱男发言还有你说的孕妇松度说你婊子妈呢😂这么了解是不是跟你婊子妈做过啊 有没有点常识九年义务上完没还觉得女的睡得多=松 说出来不嫌丢人现眼 你婊子妈被多少人轮了生出你这么个杂碎 这么关注你爹？发没发动态都知道😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918822040666329089",
+        "conversation_id": "2059594427178639773",
+        "created_at": "2026-05-27T22:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059768350519996791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059768350519996791",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059594427178639773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 你很可笑，想要男人又抗拒男人，你都和大把男人做爱了。你还想遇到好的嘛？像孕妇般的松度\n这么长时间不发动态，怎么？还不是意识到自己言论过于愚蠢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 96,
+          "like_count": 642,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 1886
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:16:56.000Z",
+        "description": "",
+        "id": "1918822040666329089",
+        "name": "er",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045114137605230592/y4tkQj8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 184,
+          "like_count": 1350,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 228
+        },
+        "username": "Jiajia220391",
+        "verified": false
+      }
+    ]
+  }
+}

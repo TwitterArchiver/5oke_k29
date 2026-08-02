@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073055099509944687",
+    "created_at": "2026-07-04T06:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073288075921498550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1359562467420999681",
+          "start": 0,
+          "username": "wanjia6688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073288075921498550",
+    "in_reply_to_user_id": "1359562467420999681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073119922373402698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanjia6688 我慢慢戒吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073055099509944687",
+        "created_at": "2026-07-04T06:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073288075921498550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359562467420999681",
+              "start": 0,
+              "username": "wanjia6688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073288075921498550",
+        "in_reply_to_user_id": "1359562467420999681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073119922373402698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanjia6688 我慢慢戒吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359562467420999681",
+        "conversation_id": "2073055099509944687",
+        "created_at": "2026-07-03T19:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073119922373402698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073119922373402698",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073055099509944687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 又有颜值又有身材还有才艺（弹钢琴）家里条件好像还不差，就因为原生父母隔阂 或者还有情感上的问题 不尝试自己改变或逃离 自己就是把自己往死处整 你想想那些股票破产 赌球破产 创业破产的人 出生缺胳膊断腿残疾人 哪个人像你这样 这个世界还发展个几把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 129,
+          "like_count": 930,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 2289
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-10T17:58:54.000Z",
+        "description": "VVS颅内高潮",
+        "id": "1359562467420999681",
+        "location": "武汉汉阳",
+        "name": "奶叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732723480968544256/xJcAfWbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 1526,
+          "like_count": 470,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "wanjia6688",
+        "verified": false
+      }
+    ]
+  }
+}

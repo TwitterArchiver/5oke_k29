@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2069591213670531204",
+    "created_at": "2026-06-24T01:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069591213670531204"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069591213670531204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "造黄谣的男的脑子里全是精液。。一群性压抑几把塞脑子里了 就该给脑子砍下来塞他妈子宫里重造去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2069591213670531204",
+        "created_at": "2026-06-24T01:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069591213670531204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069591213670531204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "造黄谣的男的脑子里全是精液。。一群性压抑几把塞脑子里了 就该给脑子砍下来塞他妈子宫里重造去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 104,
+          "like_count": 880,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 2062
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

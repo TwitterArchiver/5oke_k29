@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2080932956588450103",
+    "created_at": "2026-07-25T15:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081039574109970632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2070863228771696640",
+          "start": 0,
+          "username": "lg4ev"
+        },
+        {
+          "end": 19,
+          "id": "1804226767672250368",
+          "start": 7,
+          "username": "linyue07060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081039574109970632",
+    "in_reply_to_user_id": "2070863228771696640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081018310142152986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lg4ev @linyue07060 死鸡巴公狗叫你妈了臭逼呢厌女仇女的你给你妈一刀劈死让你有个双亲家庭呗傻卵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2080932956588450103",
+        "created_at": "2026-07-25T15:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081039574109970632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2070863228771696640",
+              "start": 0,
+              "username": "lg4ev"
+            },
+            {
+              "end": 19,
+              "id": "1804226767672250368",
+              "start": 7,
+              "username": "linyue07060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081039574109970632",
+        "in_reply_to_user_id": "2070863228771696640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081018310142152986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lg4ev @linyue07060 死鸡巴公狗叫你妈了臭逼呢厌女仇女的你给你妈一刀劈死让你有个双亲家庭呗傻卵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070863228771696640",
+        "conversation_id": "2080932956588450103",
+        "created_at": "2026-07-25T14:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081018310142152986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804226767672250368",
+              "start": 0,
+              "username": "linyue07060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081018310142152986",
+        "in_reply_to_user_id": "1804226767672250368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080932956588450103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyue07060 姐妹怎么不截你冤枉我是皮下男的事情，能不能就这个好好给我道歉呀，还是说姐妹你平时犯错不认账惯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5453,
+          "following_count": 164,
+          "like_count": 973,
+          "listed_count": 9,
+          "media_count": 338,
+          "tweet_count": 2899
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-27T13:35:01.000Z",
+        "description": "女性主义/仇女厌女/时不时会喷人",
+        "id": "2070863228771696640",
+        "name": "豆豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074299558558089216/8uJZkBj7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 68,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "lg4ev",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T18:56:07.000Z",
+        "description": "(ˊo̴̶̷̤ ̫ o̴̶̷̤ˋ)",
+        "id": "1804226767672250368",
+        "name": "琳悦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041638957490765824/phKY4UHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 36,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "linyue07060",
+        "verified": false
+      }
+    ]
+  }
+}

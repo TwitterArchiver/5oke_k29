@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073654374782689463",
+    "created_at": "2026-07-05T06:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073660900125659645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900552683486134272",
+          "start": 0,
+          "username": "kurumi610tt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073660900125659645",
+    "in_reply_to_user_id": "1900552683486134272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073657952133841293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurumi610tt 我擦了花露水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073654374782689463",
+        "created_at": "2026-07-05T06:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073660900125659645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900552683486134272",
+              "start": 0,
+              "username": "kurumi610tt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073660900125659645",
+        "in_reply_to_user_id": "1900552683486134272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073657952133841293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurumi610tt 我擦了花露水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900552683486134272",
+        "conversation_id": "2073654374782689463",
+        "created_at": "2026-07-05T06:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073657952133841293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073657952133841293",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073654374782689463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 好鸡儿烦 我的手胳膊一直被咬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2944,
+          "following_count": 131,
+          "like_count": 939,
+          "listed_count": 5,
+          "media_count": 283,
+          "tweet_count": 2339
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T14:20:51.000Z",
+        "description": "不扩列不加任何",
+        "id": "1900552683486134272",
+        "name": "kanae",
+        "pinned_tweet_id": "1920327077859037246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901975443571662848/c9Ur7-t1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 12,
+          "like_count": 237,
+          "listed_count": 4,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "kurumi610tt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2080913180298187205",
+    "created_at": "2026-07-25T08:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080932937076469802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804226767672250368",
+          "start": 0,
+          "username": "linyue07060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080932937076469802",
+    "in_reply_to_user_id": "1804226767672250368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080930485858140515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyue07060 我去看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2080913180298187205",
+        "created_at": "2026-07-25T08:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080932937076469802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804226767672250368",
+              "start": 0,
+              "username": "linyue07060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080932937076469802",
+        "in_reply_to_user_id": "1804226767672250368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080930485858140515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyue07060 我去看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804226767672250368",
+        "conversation_id": "2080913180298187205",
+        "created_at": "2026-07-25T08:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080930485858140515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080930485858140515",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080921549394399671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 是这样的 我正和主页这个傻逼骂着呢 就他这皮下男还能不能再明显一点。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5336,
+          "following_count": 164,
+          "like_count": 972,
+          "listed_count": 8,
+          "media_count": 339,
+          "tweet_count": 2886
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T18:56:07.000Z",
+        "description": "(ˊo̴̶̷̤ ̫ o̴̶̷̤ˋ)",
+        "id": "1804226767672250368",
+        "name": "琳悦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041638957490765824/phKY4UHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 36,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "linyue07060",
+        "verified": false
+      }
+    ]
+  }
+}

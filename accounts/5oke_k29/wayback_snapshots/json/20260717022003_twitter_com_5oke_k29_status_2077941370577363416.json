@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2075520353351463266",
+    "created_at": "2026-07-17T02:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077941370577363416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2076507759839940609",
+          "start": 0,
+          "username": "Relylh"
+        },
+        {
+          "end": 19,
+          "id": "1382368172628643845",
+          "start": 8,
+          "username": "Nozomi0891"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077941370577363416",
+    "in_reply_to_user_id": "2076507759839940609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076596367225725436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Relylh @Nozomi0891 禁你妈了个逼了还禁完了给你狗脑塞你妈逼里重造去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2075520353351463266",
+        "created_at": "2026-07-17T02:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077941370577363416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2076507759839940609",
+              "start": 0,
+              "username": "Relylh"
+            },
+            {
+              "end": 19,
+              "id": "1382368172628643845",
+              "start": 8,
+              "username": "Nozomi0891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077941370577363416",
+        "in_reply_to_user_id": "2076507759839940609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076596367225725436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Relylh @Nozomi0891 禁你妈了个逼了还禁完了给你狗脑塞你妈逼里重造去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076507759839940609",
+        "conversation_id": "2075520353351463266",
+        "created_at": "2026-07-13T09:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076596367225725436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1382368172628643845",
+              "start": 0,
+              "username": "Nozomi0891"
+            },
+            {
+              "end": 21,
+              "id": "1317689258052710400",
+              "start": 12,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076596367225725436",
+        "in_reply_to_user_id": "1382368172628643845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075715221403189658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nozomi0891 @5oke_k29 这个药都要被禁完了 我发个文案咋了 我草泥马看我不顺眼来墙内说啊😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5164,
+          "following_count": 148,
+          "like_count": 963,
+          "listed_count": 9,
+          "media_count": 301,
+          "tweet_count": 2648
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T03:24:39.000Z",
+        "description": "",
+        "id": "2076507759839940609",
+        "name": "Rely",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076614008300535808/0JyjcVqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Relylh",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T16:20:42.000Z",
+        "description": "",
+        "id": "1382368172628643845",
+        "name": "小望",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047863762124967936/uixQS6xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 105,
+          "like_count": 2490,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1127
+        },
+        "url": "",
+        "username": "Nozomi0891",
+        "verified": false
+      }
+    ]
+  }
+}

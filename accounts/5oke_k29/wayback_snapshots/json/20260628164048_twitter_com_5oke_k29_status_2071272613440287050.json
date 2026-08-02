@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2071267896312078522",
+    "created_at": "2026-06-28T16:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071272613440287050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1759455392734773248",
+          "start": 0,
+          "username": "kkbb_t17776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071272613440287050",
+    "in_reply_to_user_id": "1759455392734773248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071268547972722798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkbb_t17776 对呀 我一脸懵 我以为我又上头了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2071267896312078522",
+        "created_at": "2026-06-28T16:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071272613440287050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1759455392734773248",
+              "start": 0,
+              "username": "kkbb_t17776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071272613440287050",
+        "in_reply_to_user_id": "1759455392734773248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071268547972722798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkbb_t17776 对呀 我一脸懵 我以为我又上头了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759455392734773248",
+        "conversation_id": "2071267896312078522",
+        "created_at": "2026-06-28T16:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071268547972722798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071268547972722798",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071267896312078522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 真的震感好明显...人都晃麻了要，心跳好快我现在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 108,
+          "like_count": 897,
+          "listed_count": 4,
+          "media_count": 265,
+          "tweet_count": 2104
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T05:50:46.000Z",
+        "description": "在白日追寻星光，在午夜凝视阴影。",
+        "id": "1759455392734773248",
+        "location": "成都",
+        "name": "無糖可樂貓貓頭",
+        "pinned_tweet_id": "1972856910987808891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948224558420656128/2Sey0Y0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 133,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "kkbb_t17776",
+        "verified": true
+      }
+    ]
+  }
+}

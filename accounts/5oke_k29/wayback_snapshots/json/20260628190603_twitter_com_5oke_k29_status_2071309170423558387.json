@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2071184192273371413",
+    "created_at": "2026-06-28T19:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071309170423558387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2056605500339351552",
+          "start": 0,
+          "username": "Wqkqkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071309170423558387",
+    "in_reply_to_user_id": "2056605500339351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071308438366289938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wqkqkk 关你屁事傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2071184192273371413",
+        "created_at": "2026-06-28T19:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071309170423558387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2056605500339351552",
+              "start": 0,
+              "username": "Wqkqkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071309170423558387",
+        "in_reply_to_user_id": "2056605500339351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071308438366289938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wqkqkk 关你屁事傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056605500339351552",
+        "conversation_id": "2071184192273371413",
+        "created_at": "2026-06-28T19:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071308438366289938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071308438366289938",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071184192273371413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 天天自残正事不干一个，租个小房家里待着不出去，吸个小毒发病就自残，游戏打不过心情不好也自残，坏事全占了废人一个，就算有班也是随便找个收银员工资够还账就行，没钱就赊工资发了就赌，谈个对象给你上个药就神了一样，一根棉签用半天有他那么用的吗，两个人连生活都生活不了，每天吃个外卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 110,
+          "like_count": 897,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 2123
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T05:19:14.000Z",
+        "description": "一个真正的man",
+        "id": "2056605500339351552",
+        "name": "哎哟你干嘛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056606339992793088/2jCjqFUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 618,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Wqkqkk",
+        "verified": false
+      }
+    ]
+  }
+}

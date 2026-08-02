@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2074079489450197186",
+    "created_at": "2026-07-07T17:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074543493071208740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1779983896479948800",
+          "start": 0,
+          "username": "a_sinfan88803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074543493071208740",
+    "in_reply_to_user_id": "1779983896479948800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074535906682257747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_sinfan88803 心瘾而已 我昨天就一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2074079489450197186",
+        "created_at": "2026-07-07T17:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074543493071208740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1779983896479948800",
+              "start": 0,
+              "username": "a_sinfan88803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074543493071208740",
+        "in_reply_to_user_id": "1779983896479948800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074535906682257747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_sinfan88803 心瘾而已 我昨天就一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779983896479948800",
+        "conversation_id": "2074079489450197186",
+        "created_at": "2026-07-07T16:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074535906682257747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074535906682257747",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074079489450197186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 这个也能有瘾吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4351,
+          "following_count": 143,
+          "like_count": 956,
+          "listed_count": 9,
+          "media_count": 298,
+          "tweet_count": 2452
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T21:23:39.000Z",
+        "description": "",
+        "id": "1779983896479948800",
+        "name": "sinFan A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779984725731610624/sY7uOynF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 330,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "a_sinfan88803",
+        "verified": false
+      }
+    ]
+  }
+}

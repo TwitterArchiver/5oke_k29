@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2068576174729752743",
+    "created_at": "2026-06-21T06:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068576174729752743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1583617371629129734",
+          "start": 3,
+          "username": "juliaminegirl0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068576174729752743",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068208914999492882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @juliaminegirl0: Suicídio é auto defesa pq vc matou a pessoa que qria te matar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2068576174729752743",
+        "created_at": "2026-06-21T06:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068576174729752743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1583617371629129734",
+              "start": 3,
+              "username": "juliaminegirl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068576174729752743",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068208914999492882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @juliaminegirl0: Suicídio é auto defesa pq vc matou a pessoa que qria te matar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583617371629129734",
+        "conversation_id": "2068208914999492882",
+        "created_at": "2026-06-20T05:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068208914999492882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068208914999492882",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 308,
+          "impression_count": 116695,
+          "like_count": 11707,
+          "quote_count": 36,
+          "reply_count": 16,
+          "retweet_count": 2235
+        },
+        "reply_settings": "everyone",
+        "text": "Suicídio é auto defesa pq vc matou a pessoa que qria te matar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 102,
+          "like_count": 857,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 2000
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T00:33:11.000Z",
+        "description": "",
+        "id": "1583617371629129734",
+        "name": "jorge",
+        "pinned_tweet_id": "1688609238497603584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066958575096774656/KIhlAyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35754,
+          "following_count": 714,
+          "like_count": 96157,
+          "listed_count": 18,
+          "media_count": 16133,
+          "tweet_count": 63498
+        },
+        "url": "",
+        "username": "juliaminegirl0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "1636710279810793472",
+    "created_at": "2026-07-18T02:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078313575429661020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905299964332544000",
+          "start": 0,
+          "username": "LixuL83526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078313575429661020",
+    "in_reply_to_user_id": "1905299964332544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078310814956794154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LixuL83526 不是 心瘾 完全是心瘾 还有不高兴的时候 我很依赖这个 平时不想清醒着 我打算找工作不让自己闲着了已经 不过昨天清醒了一天感觉也还行 没有难受的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "1636710279810793472",
+        "created_at": "2026-07-18T02:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078313575429661020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905299964332544000",
+              "start": 0,
+              "username": "LixuL83526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078313575429661020",
+        "in_reply_to_user_id": "1905299964332544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078310814956794154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LixuL83526 不是 心瘾 完全是心瘾 还有不高兴的时候 我很依赖这个 平时不想清醒着 我打算找工作不让自己闲着了已经 不过昨天清醒了一天感觉也还行 没有难受的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905299964332544000",
+        "conversation_id": "1636710279810793472",
+        "created_at": "2026-07-18T02:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078310814956794154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078310814956794154",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1636710279810793472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 博主你是因为有颜有钱 生活太无聊，实在没啥意思所以接触这个的嘛 ，感觉没追求了就开始给生活找点乐趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5183,
+          "following_count": 161,
+          "like_count": 967,
+          "listed_count": 9,
+          "media_count": 321,
+          "tweet_count": 2775
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T16:45:08.000Z",
+        "description": "",
+        "id": "1905299964332544000",
+        "name": "皮特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058901431319736320/lux5TMnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 49,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "LixuL83526",
+        "verified": false
+      }
+    ]
+  }
+}

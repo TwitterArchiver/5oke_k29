@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2078034590074388745",
+    "created_at": "2026-07-18T13:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078479857202454981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937073350750466048",
+          "start": 0,
+          "username": "karo269640607"
+        },
+        {
+          "end": 29,
+          "id": "1520181001997062144",
+          "start": 15,
+          "username": "libai89786787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078479857202454981",
+    "in_reply_to_user_id": "1937073350750466048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078455521661882582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karo269640607 @libai89786787 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2078455507556438017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgoRaFbEAE1PQ3.jpg",
+        "width": 889
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2078034590074388745",
+        "created_at": "2026-07-18T13:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078479857202454981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            },
+            {
+              "end": 29,
+              "id": "1520181001997062144",
+              "start": 15,
+              "username": "libai89786787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078479857202454981",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078455521661882582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 @libai89786787 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078455507556438017"
+          ]
+        },
+        "author_id": "1937073350750466048",
+        "conversation_id": "2078034590074388745",
+        "created_at": "2026-07-18T12:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078455521661882582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            },
+            {
+              "end": 24,
+              "id": "1520181001997062144",
+              "start": 10,
+              "username": "libai89786787"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ti7EThmkn7",
+              "end": 63,
+              "expanded_url": "https://x.com/karo269640607/status/2078455521661882582/photo/1",
+              "media_key": "3_2078455507556438017",
+              "start": 40,
+              "url": "https://t.co/Ti7EThmkn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078455521661882582",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078447656406561166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 @libai89786787 恁似乎被幽灵ban了😰，，， https://t.co/Ti7EThmkn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5186,
+          "following_count": 161,
+          "like_count": 965,
+          "listed_count": 9,
+          "media_count": 322,
+          "tweet_count": 2795
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混邪同人女 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女 言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 746,
+          "like_count": 40460,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 8216
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T23:20:34.000Z",
+        "description": "",
+        "id": "1520181001997062144",
+        "name": "111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803948982538055681/VTPXe8yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 186,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "libai89786787",
+        "verified": false
+      }
+    ]
+  }
+}

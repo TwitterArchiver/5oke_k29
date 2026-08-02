@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2072566719105888692",
+    "created_at": "2026-07-06T11:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074095226667590026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053403963027034112",
+          "start": 0,
+          "username": "YurmiTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074095226667590026",
+    "in_reply_to_user_id": "2053403963027034112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074094089851851174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YurmiTvT 是的真的很离谱.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2072566719105888692",
+        "created_at": "2026-07-06T11:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074095226667590026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053403963027034112",
+              "start": 0,
+              "username": "YurmiTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074095226667590026",
+        "in_reply_to_user_id": "2053403963027034112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074094089851851174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YurmiTvT 是的真的很离谱.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053403963027034112",
+        "conversation_id": "2072566719105888692",
+        "created_at": "2026-07-06T11:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074094089851851174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074094089851851174",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072566719105888692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 搞黄还不去黄游搞 整个死妈猪脸在那拱逼顶屌😂 没钱约线下就只能弄个傻逼游戏建模 一群穷逼们买黄游的钱都没有么😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3946,
+          "following_count": 136,
+          "like_count": 943,
+          "listed_count": 7,
+          "media_count": 287,
+          "tweet_count": 2370
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T09:17:55.000Z",
+        "description": "偏向虎山行。\n分享欲很强 所以发的比较频繁",
+        "id": "2053403963027034112",
+        "location": "中国香港",
+        "name": "Yurmi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060841420261564416/CQvhtaxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 41,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "YurmiTvT",
+        "verified": false
+      }
+    ]
+  }
+}

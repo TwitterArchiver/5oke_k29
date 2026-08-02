@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073736452744282354",
+    "created_at": "2026-07-07T07:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074395856015626729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1989564653559558144",
+          "start": 0,
+          "username": "Bbbhgccghhb"
+        },
+        {
+          "end": 27,
+          "id": "1707432463101005824",
+          "start": 13,
+          "username": "meng_lei79846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074395856015626729",
+    "in_reply_to_user_id": "1989564653559558144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074354741048746082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bbbhgccghhb @meng_lei79846 给慰安妇生下来的贱逼来的😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-07T07:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074395856015626729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989564653559558144",
+              "start": 0,
+              "username": "Bbbhgccghhb"
+            },
+            {
+              "end": 27,
+              "id": "1707432463101005824",
+              "start": 13,
+              "username": "meng_lei79846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074395856015626729",
+        "in_reply_to_user_id": "1989564653559558144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074354741048746082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bbbhgccghhb @meng_lei79846 给慰安妇生下来的贱逼来的😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989564653559558144",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-07T04:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074354741048746082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            },
+            {
+              "end": 24,
+              "id": "1707432463101005824",
+              "start": 10,
+              "username": "meng_lei79846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074354741048746082",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074265245758144865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 @meng_lei79846 你他妈搁这狗叫什么呢？傻逼玩意儿，赶紧他妈死去，操你妈的傻逼，赶紧你妈个逼车撞死你个狗东西，傻狗玩意贱你你来气傻孙狗东西去他妈死去吧，去厕所里当人质去吧，狗东西，你那个被他妈狗全都轮奸完，最后你按一个定时炸弹去狗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4235,
+          "following_count": 138,
+          "like_count": 946,
+          "listed_count": 7,
+          "media_count": 288,
+          "tweet_count": 2390
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T05:22:54.000Z",
+        "description": "jjsjsjdj",
+        "id": "1989564653559558144",
+        "name": "Bbbh",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "Bbbhgccghhb",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T16:30:10.000Z",
+        "description": "",
+        "id": "1707432463101005824",
+        "location": "乌鲁木齐中路",
+        "name": "ココ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969452157926850560/qZvFI7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 63,
+          "like_count": 2019,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "meng_lei79846",
+        "verified": false
+      }
+    ]
+  }
+}

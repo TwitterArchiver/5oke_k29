@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070862062256074752"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2070862125317361961",
+    "created_at": "2026-06-27T13:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070862125317361961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YZHFg5CtrB",
+          "end": 31,
+          "expanded_url": "https://x.com/5oke_k29/status/2070862125317361961/video/1",
+          "media_key": "13_2070862062256074752",
+          "start": 8,
+          "url": "https://t.co/YZHFg5CtrB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070862125317361961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "疯狂吸入！！q https://t.co/YZHFg5CtrB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3600,
+        "height": 1280,
+        "media_key": "13_2070862062256074752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070862062256074752/img/cT6vNbPnpD9Hul6v.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070862062256074752/vid/avc1/320x568/O3MVNbY1pAU83cof.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070862062256074752/vid/avc1/480x852/2o8Y1giCYeztS5sh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070862062256074752/vid/avc1/720x1280/p0niMTrO6YGkOjZc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070862062256074752/pl/FSlSPRqcGda1SYMI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070862062256074752"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2070862125317361961",
+        "created_at": "2026-06-27T13:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070862125317361961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZHFg5CtrB",
+              "end": 31,
+              "expanded_url": "https://x.com/5oke_k29/status/2070862125317361961/video/1",
+              "media_key": "13_2070862062256074752",
+              "start": 8,
+              "url": "https://t.co/YZHFg5CtrB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070862125317361961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疯狂吸入！！q https://t.co/YZHFg5CtrB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 108,
+          "like_count": 896,
+          "listed_count": 3,
+          "media_count": 262,
+          "tweet_count": 2085
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

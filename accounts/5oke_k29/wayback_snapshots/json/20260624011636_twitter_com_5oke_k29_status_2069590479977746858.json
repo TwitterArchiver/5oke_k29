@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2069590479977746858",
+    "created_at": "2026-06-24T01:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069590479977746858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fw_andyyy/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/fw_andyyy/status/2069405623297413373",
+          "start": 2,
+          "url": "https://t.co/wAVX2VQFS6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069590479977746858",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069405623297413373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/wAVX2VQFS6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1521,
+        "media_key": "3_2069405615240486912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgBcWCboAA3-IP.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2069590479977746858",
+        "created_at": "2026-06-24T01:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069590479977746858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fw_andyyy/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/fw_andyyy/status/2069405623297413373",
+              "start": 2,
+              "url": "https://t.co/wAVX2VQFS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069590479977746858",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069405623297413373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/wAVX2VQFS6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069405615240486912"
+          ]
+        },
+        "author_id": "1690815500173836288",
+        "conversation_id": "2069405623297413373",
+        "created_at": "2026-06-23T13:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069405623297413373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKEO9FipmR",
+              "end": 146,
+              "expanded_url": "https://x.com/fw_andyyy/status/2069405623297413373/photo/1",
+              "media_key": "3_2069405615240486912",
+              "start": 123,
+              "url": "https://t.co/oKEO9FipmR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069405623297413373",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 467,
+          "impression_count": 725218,
+          "like_count": 3942,
+          "quote_count": 151,
+          "reply_count": 554,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "Yall doing too much ! Who tf shooting THC(weed) in the veins? Please don’t try this and start dying from being dumb 🤦🏾‍♀️￼ https://t.co/oKEO9FipmR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 104,
+          "like_count": 879,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 2061
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T20:01:04.000Z",
+        "description": "𝓢𝓶𝓸𝓴𝓮. 𝓛𝓪𝓾𝓰𝓱. 𝓡𝓮𝓹𝓮𝓪𝓽. w/@Ogsdontfold ,@Iam_randy07,@popup_tddy 🫆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "Ogsdontfold"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "Iam_randy07"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "popup_tddy"
+              }
+            ]
+          }
+        },
+        "id": "1690815500173836288",
+        "name": "Andyy",
+        "pinned_tweet_id": "2069501682635923601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048173271666106368/z91aqMNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 447,
+          "like_count": 50266,
+          "listed_count": 12,
+          "media_count": 182,
+          "tweet_count": 12978
+        },
+        "url": "",
+        "username": "fw_andyyy",
+        "verified": true
+      }
+    ]
+  }
+}

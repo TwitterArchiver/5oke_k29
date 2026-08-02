@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2078007611652489550",
+    "created_at": "2026-07-17T07:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078017653843841311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356844559121088514",
+          "start": 0,
+          "username": "CAVOK30250135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078017653843841311",
+    "in_reply_to_user_id": "1356844559121088514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078009122818318359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CAVOK30250135 哈哈哈哈哈哈哈哈哈哈哈 我潲几乎都是ph 雪怪 不过nono潲水是真的多 我好多好多视频 你肯定也看过的 在台上就口了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2078007611652489550",
+        "created_at": "2026-07-17T07:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078017653843841311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356844559121088514",
+              "start": 0,
+              "username": "CAVOK30250135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078017653843841311",
+        "in_reply_to_user_id": "1356844559121088514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078009122818318359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAVOK30250135 哈哈哈哈哈哈哈哈哈哈哈 我潲几乎都是ph 雪怪 不过nono潲水是真的多 我好多好多视频 你肯定也看过的 在台上就口了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356844559121088514",
+        "conversation_id": "2078007611652489550",
+        "created_at": "2026-07-17T06:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078009122818318359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078009122818318359",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078008559628058814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 nono。说的好怀念 我一次潲就是在nono。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5166,
+          "following_count": 155,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 319,
+          "tweet_count": 2742
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T05:59:01.000Z",
+        "description": "空蕩的外衣披在這幸福里",
+        "id": "1356844559121088514",
+        "location": "xi’an",
+        "name": "Island",
+        "pinned_tweet_id": "1889158682128314475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645682826355048451/giUZtkuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 359,
+          "like_count": 8028,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "CAVOK30250135",
+        "verified": false
+      }
+    ]
+  }
+}

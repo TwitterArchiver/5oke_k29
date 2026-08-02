@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2075230582217609240",
+    "created_at": "2026-07-10T06:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075470058546208992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2073265396686475265",
+          "start": 0,
+          "username": "Cmu357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075470058546208992",
+    "in_reply_to_user_id": "2073265396686475265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075282294580097311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cmu357 是的 不会碰那些点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2075230582217609240",
+        "created_at": "2026-07-10T06:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075470058546208992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2073265396686475265",
+              "start": 0,
+              "username": "Cmu357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075470058546208992",
+        "in_reply_to_user_id": "2073265396686475265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075282294580097311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cmu357 是的 不会碰那些点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073265396686475265",
+        "conversation_id": "2075230582217609240",
+        "created_at": "2026-07-09T18:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075282294580097311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075282294580097311",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075230582217609240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 不是硬性的 K的话控制不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4767,
+          "following_count": 147,
+          "like_count": 962,
+          "listed_count": 9,
+          "media_count": 312,
+          "tweet_count": 2574
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-04T04:40:14.000Z",
+        "description": "",
+        "id": "2073265396686475265",
+        "name": "C 区",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073265827013689345/g3GaIQIF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "Cmu357",
+        "verified": false
+      }
+    ]
+  }
+}

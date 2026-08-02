@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073823042149794054",
+    "created_at": "2026-07-05T17:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073823042149794054"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073823042149794054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说我拿吸当流量是没脑子吗 我也想戒呀 控制不住呀 再说了 这流量给我有啥用 我又没钱可赚。。我也只是记录生活 瞎几把发的 每个人眼中的记录生活也不一样啊 不看滑走不就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073823042149794054",
+        "created_at": "2026-07-05T17:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073823042149794054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073823042149794054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说我拿吸当流量是没脑子吗 我也想戒呀 控制不住呀 再说了 这流量给我有啥用 我又没钱可赚。。我也只是记录生活 瞎几把发的 每个人眼中的记录生活也不一样啊 不看滑走不就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3261,
+          "following_count": 134,
+          "like_count": 940,
+          "listed_count": 5,
+          "media_count": 284,
+          "tweet_count": 2346
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

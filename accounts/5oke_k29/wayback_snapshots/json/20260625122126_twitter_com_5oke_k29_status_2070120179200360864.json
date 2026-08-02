@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070120096371236864"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2070120179200360864",
+    "created_at": "2026-06-25T12:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070120179200360864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ycbnnVNwQi",
+          "end": 23,
+          "expanded_url": "https://x.com/5oke_k29/status/2070120179200360864/video/1",
+          "media_key": "13_2070120096371236864",
+          "start": 0,
+          "url": "https://t.co/ycbnnVNwQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070120179200360864",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ycbnnVNwQi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12033,
+        "height": 1280,
+        "media_key": "13_2070120096371236864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070120096371236864/img/zBKvv8i2HtK2IrkH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070120096371236864/vid/avc1/320x568/yFCHEP0L6aTtxGI7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070120096371236864/vid/avc1/480x852/zaP4EsnHuG9skHKK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070120096371236864/vid/avc1/720x1280/aunfEOjXomaqrs7a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070120096371236864/pl/UOmh6bN7kRDWYm-9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070120096371236864"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2070120179200360864",
+        "created_at": "2026-06-25T12:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070120179200360864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycbnnVNwQi",
+              "end": 23,
+              "expanded_url": "https://x.com/5oke_k29/status/2070120179200360864/video/1",
+              "media_key": "13_2070120096371236864",
+              "start": 0,
+              "url": "https://t.co/ycbnnVNwQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070120179200360864",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ycbnnVNwQi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 107,
+          "like_count": 893,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 2078
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

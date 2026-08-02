@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2055649736250794412",
+    "created_at": "2026-06-15T09:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066450473385934994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1559555342119600133",
+          "start": 0,
+          "username": "Tsukiii_1021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066450473385934994",
+    "in_reply_to_user_id": "1559555342119600133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055711016013685243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsukiii_1021 不是 几年前玩的了 忘记是什么了 幻觉是从未有过的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2055649736250794412",
+        "created_at": "2026-06-15T09:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066450473385934994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559555342119600133",
+              "start": 0,
+              "username": "Tsukiii_1021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066450473385934994",
+        "in_reply_to_user_id": "1559555342119600133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055711016013685243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsukiii_1021 不是 几年前玩的了 忘记是什么了 幻觉是从未有过的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559555342119600133",
+        "conversation_id": "2055649736250794412",
+        "created_at": "2026-05-16T18:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055711016013685243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055711016013685243",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055649736250794412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 上头烟是电子烟加依托咪酯吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 99,
+          "like_count": 824,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 1932
+        },
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T14:59:25.000Z",
+        "description": "🚪88(单好友位)\n上推就是为了发泄情绪\n不要和精神病讲道理",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hoshiii_1021?u…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hoshiii_1021?utm_source=qr&igsh=YzU1NGVlODEzOA%3D%3D",
+                "start": 0,
+                "url": "https://t.co/SDPuGOw9Nu"
+              }
+            ]
+          }
+        },
+        "id": "1559555342119600133",
+        "location": "不要相信手掌的纹路 要相信手攥成拳的力量",
+        "name": "我只是你划掉的某一段歌词",
+        "pinned_tweet_id": "1966186076126728636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966183807578669056/9kp_bzWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 144,
+          "like_count": 66,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 1580
+        },
+        "url": "https://t.co/SDPuGOw9Nu",
+        "username": "Tsukiii_1021",
+        "verified": false
+      }
+    ]
+  }
+}

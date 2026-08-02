@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076927267431968768"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2076927325850173857",
+    "created_at": "2026-07-14T07:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076927325850173857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2gRjVGxHce",
+          "end": 40,
+          "expanded_url": "https://x.com/5oke_k29/status/2076927325850173857/video/1",
+          "media_key": "13_2076927267431968768",
+          "start": 17,
+          "url": "https://t.co/2gRjVGxHce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076927325850173857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的好朋友送我的🥹女孩子 巨可爱 https://t.co/2gRjVGxHce"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2972,
+        "height": 960,
+        "media_key": "13_2076927267431968768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076927267431968768/img/omwBFsn4skA1yubb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076927267431968768/vid/avc1/320x426/ryqbInXMApxzVpFG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076927267431968768/vid/avc1/480x640/Tkcc90JIMgq3uGfE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076927267431968768/vid/avc1/720x960/D--aBPYtYUsV4-k4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076927267431968768/pl/90AnbCF1OLgFHXvQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076927267431968768"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2076927325850173857",
+        "created_at": "2026-07-14T07:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076927325850173857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gRjVGxHce",
+              "end": 40,
+              "expanded_url": "https://x.com/5oke_k29/status/2076927325850173857/video/1",
+              "media_key": "13_2076927267431968768",
+              "start": 17,
+              "url": "https://t.co/2gRjVGxHce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076927325850173857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的好朋友送我的🥹女孩子 巨可爱 https://t.co/2gRjVGxHce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5156,
+          "following_count": 149,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 319,
+          "tweet_count": 2636
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

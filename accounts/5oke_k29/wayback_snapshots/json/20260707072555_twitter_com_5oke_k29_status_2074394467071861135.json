@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2073736452744282354",
+    "created_at": "2026-07-07T07:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074394467071861135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1455391053473738756",
+          "start": 0,
+          "username": "gugehaha1"
+        },
+        {
+          "end": 21,
+          "id": "1882110522155524097",
+          "start": 11,
+          "username": "ISaia9304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074394467071861135",
+    "in_reply_to_user_id": "1455391053473738756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074373664167141779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugehaha1 @ISaia9304 只会复制的臭公狗😂你妈是出去卖逼卖的生出来的你这狗杂碎？看所有人都跟你婊子妈是同行😂还有你这公狗的言语对你爹我来说一点攻击力都没有😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-07T07:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074394467071861135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1455391053473738756",
+              "start": 0,
+              "username": "gugehaha1"
+            },
+            {
+              "end": 21,
+              "id": "1882110522155524097",
+              "start": 11,
+              "username": "ISaia9304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074394467071861135",
+        "in_reply_to_user_id": "1455391053473738756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074373664167141779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugehaha1 @ISaia9304 只会复制的臭公狗😂你妈是出去卖逼卖的生出来的你这狗杂碎？看所有人都跟你婊子妈是同行😂还有你这公狗的言语对你爹我来说一点攻击力都没有😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455391053473738756",
+        "conversation_id": "2073736452744282354",
+        "created_at": "2026-07-07T06:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074373664167141779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            },
+            {
+              "end": 20,
+              "id": "1882110522155524097",
+              "start": 10,
+              "username": "ISaia9304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074373664167141779",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074265978196959455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 @ISaia9304 等你这毒寡妇被抓一次，看你这个四川烂逼毒寡妇还吸不吸得成！看你还能不能拿生你的老母畜和那个野爹的钱去买毒！ 你个给四川丢脸的烂货，让你妈那个老母畜晓得你这个千人操万人日的毒寡妇天天在外面卖逼吸毒，看她这个老母畜是什么感受！看你还有没有脸继续拿你野爹的钱去吸！去卖逼啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4232,
+          "following_count": 138,
+          "like_count": 945,
+          "listed_count": 7,
+          "media_count": 288,
+          "tweet_count": 2385
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-02T04:27:36.000Z",
+        "description": "打王者 听音乐 看书籍",
+        "id": "1455391053473738756",
+        "location": "深圳",
+        "name": "你打我电话了没有？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027316546952212480/WIk13YlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 153,
+          "like_count": 2123,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "gugehaha1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T16:58:24.000Z",
+        "description": "",
+        "id": "1882110522155524097",
+        "name": "I saia h",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 62,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "ISaia9304",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2074484291845939508",
+    "created_at": "2026-07-07T19:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T20:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074583587660435779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1359562467420999681",
+          "start": 0,
+          "username": "wanjia6688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074583587660435779",
+    "in_reply_to_user_id": "1359562467420999681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074554259476013153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanjia6688 我其实啥都懂 在克制了 昨天就吸了1颗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2074484291845939508",
+        "created_at": "2026-07-07T19:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074583587660435779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359562467420999681",
+              "start": 0,
+              "username": "wanjia6688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074583587660435779",
+        "in_reply_to_user_id": "1359562467420999681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074554259476013153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanjia6688 我其实啥都懂 在克制了 昨天就吸了1颗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359562467420999681",
+        "conversation_id": "2074484291845939508",
+        "created_at": "2026-07-07T18:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074554259476013153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074554259476013153",
+        "in_reply_to_user_id": "1359562467420999681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074553374859559196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 网友只能打字好心劝劝，这件事的走向最终是你的意志决定的，真正能救赎的只能是你自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4380,
+          "following_count": 143,
+          "like_count": 956,
+          "listed_count": 9,
+          "media_count": 298,
+          "tweet_count": 2455
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-10T17:58:54.000Z",
+        "description": "男女要科学合理的发展性爱关系 保护好安全措施 男男（伪娘）要更加注重健康 带好安全套 提前测试纸 必要时吃阻断药 还未来的自己一个可靠放心的时间线",
+        "id": "1359562467420999681",
+        "location": "武汉汉阳",
+        "name": "爱吃扇贝的奶龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732723480968544256/xJcAfWbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 1544,
+          "like_count": 491,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "wanjia6688",
+        "verified": false
+      }
+    ]
+  }
+}

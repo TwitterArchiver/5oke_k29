@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2076848386863738991",
+    "created_at": "2026-07-17T01:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077933361948229633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2076507759839940609",
+          "start": 0,
+          "username": "Relylh"
+        },
+        {
+          "end": 22,
+          "id": "2016028559228469252",
+          "start": 8,
+          "username": "Alvvaysioffy1"
+        },
+        {
+          "end": 32,
+          "id": "2023258926880636928",
+          "start": 23,
+          "username": "plane294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077933361948229633",
+    "in_reply_to_user_id": "2076507759839940609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077229124163424499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Relylh @Alvvaysioffy1 @plane294 就他妈骂你这死妈臭婊子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2076848386863738991",
+        "created_at": "2026-07-17T01:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077933361948229633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2076507759839940609",
+              "start": 0,
+              "username": "Relylh"
+            },
+            {
+              "end": 22,
+              "id": "2016028559228469252",
+              "start": 8,
+              "username": "Alvvaysioffy1"
+            },
+            {
+              "end": 32,
+              "id": "2023258926880636928",
+              "start": 23,
+              "username": "plane294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077933361948229633",
+        "in_reply_to_user_id": "2076507759839940609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077229124163424499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Relylh @Alvvaysioffy1 @plane294 就他妈骂你这死妈臭婊子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076507759839940609",
+        "conversation_id": "2076848386863738991",
+        "created_at": "2026-07-15T03:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077229124163424499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            },
+            {
+              "end": 24,
+              "id": "2023258926880636928",
+              "start": 15,
+              "username": "plane294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077229124163424499",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077215149828747540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 @plane294 确实 我知道会挨骂 但看我不爽可以直接抖音告诉我 一个吸毒的在推特挂我 我就骂回去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5163,
+          "following_count": 147,
+          "like_count": 963,
+          "listed_count": 9,
+          "media_count": 297,
+          "tweet_count": 2628
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T03:24:39.000Z",
+        "description": "",
+        "id": "2076507759839940609",
+        "name": "Rely",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076614008300535808/0JyjcVqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Relylh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 237,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 970
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T04:51:43.000Z",
+        "description": "🚪114514 辞落的不健康账号\n此账号专门用来挂人，od，紫餐等相关。",
+        "id": "2023258926880636928",
+        "location": "距离你0.0001cm🩷❤️🧡💛💚🩵💙💜",
+        "name": "Chi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077009780384919552/Rdnnnw0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 10,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "plane294",
+        "verified": false
+      }
+    ]
+  }
+}
