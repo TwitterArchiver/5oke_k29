@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085254114242691072"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2085254122291536300",
+    "created_at": "2026-08-06T06:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085254122291536300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u7a5qBXOUw",
+          "end": 26,
+          "expanded_url": "https://x.com/5oke_k29/status/2085254122291536300/photo/1",
+          "media_key": "3_2085254114242691072",
+          "start": 3,
+          "url": "https://t.co/u7a5qBXOUw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085254122291536300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢 https://t.co/u7a5qBXOUw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085254114242691072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBPkZnbgAAoPyZ.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085254114242691072"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2085254122291536300",
+        "created_at": "2026-08-06T06:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085254122291536300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7a5qBXOUw",
+              "end": 26,
+              "expanded_url": "https://x.com/5oke_k29/status/2085254122291536300/photo/1",
+              "media_key": "3_2085254114242691072",
+              "start": 3,
+              "url": "https://t.co/u7a5qBXOUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085254122291536300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢 https://t.co/u7a5qBXOUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5736,
+          "following_count": 165,
+          "like_count": 992,
+          "listed_count": 11,
+          "media_count": 366,
+          "tweet_count": 3042
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}
