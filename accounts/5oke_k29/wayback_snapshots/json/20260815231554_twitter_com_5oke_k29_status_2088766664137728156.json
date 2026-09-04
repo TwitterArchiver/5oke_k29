@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2088764089959104910",
+    "created_at": "2026-08-15T23:15:54.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T00:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088766664137728156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886872793027035136",
+          "start": 0,
+          "username": "Fxbiepao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088766664137728156",
+    "in_reply_to_user_id": "886872793027035136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088766184791629975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fxbiepao 我早就不是我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2088764089959104910",
+        "created_at": "2026-08-15T23:15:54.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T00:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088766664137728156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886872793027035136",
+              "start": 0,
+              "username": "Fxbiepao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088766664137728156",
+        "in_reply_to_user_id": "886872793027035136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088766184791629975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fxbiepao 我早就不是我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886872793027035136",
+        "conversation_id": "2088764089959104910",
+        "created_at": "2026-08-15T23:14:00.000Z",
+        "display_text_range": [
+          10,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T00:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088766184791629975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088766184791629975",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088765133682262075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 别这么悲观了拉开窗帘看看外面 出门走两圈 看看广场舞大爷大妈 吃口早饭 这个世界并没有抛弃你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088766664137728156",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6092,
+          "following_count": 151,
+          "like_count": 991,
+          "listed_count": 12,
+          "media_count": 334,
+          "tweet_count": 3030
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-17T08:58:46.000Z",
+        "description": "191cm 90kg 然后没然后了",
+        "id": "886872793027035136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088766542712561836",
+        "name": "xiuxiuxiu",
+        "pinned_tweet_id": "2004193260626162170",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072113304483643392/pH5mHvp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 3708,
+          "like_count": 16546,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 3212
+        },
+        "url": "",
+        "username": "Fxbiepao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2085553624969855003",
+    "created_at": "2026-08-07T05:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085602283702915485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812852553648148480",
+          "start": 0,
+          "username": "3v3wzBE4gy5470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085602283702915485",
+    "in_reply_to_user_id": "1812852553648148480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085553624969855003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3v3wzBE4gy5470 为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2085553624969855003",
+        "created_at": "2026-08-07T05:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085602283702915485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812852553648148480",
+              "start": 0,
+              "username": "3v3wzBE4gy5470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085602283702915485",
+        "in_reply_to_user_id": "1812852553648148480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085553624969855003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3v3wzBE4gy5470 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812852553648148480",
+        "conversation_id": "2085553624969855003",
+        "created_at": "2026-08-07T02:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085553624969855003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085553624969855003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有精神病的女孩子真的特别加分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 165,
+          "like_count": 992,
+          "listed_count": 11,
+          "media_count": 332,
+          "tweet_count": 2991
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T14:11:54.000Z",
+        "description": "𓏲ָ♡ 18歳です/鬱病の治療中/日本語English中国語 𓈒⊹⋆",
+        "id": "1812852553648148480",
+        "name": "ʚ ♡ ɞ",
+        "pinned_tweet_id": "2079812183995937222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993163541101297665/PQdOiAIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 88,
+          "like_count": 1242,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "3v3wzBE4gy5470",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2091176080581521564",
+    "created_at": "2026-08-23T07:17:54.000Z",
+    "display_text_range": [
+      9,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T08:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091424678544089512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1982087657703591936",
+          "start": 0,
+          "username": "ugaoOVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091424678544089512",
+    "in_reply_to_user_id": "1982087657703591936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091383914682302725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugaoOVO 我靠我才知道你是pr80抽奖那个哈哈哈哈哈他特地叫我来转你的帖子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2091176080581521564",
+        "created_at": "2026-08-23T07:17:54.000Z",
+        "display_text_range": [
+          9,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091424678544089512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1982087657703591936",
+              "start": 0,
+              "username": "ugaoOVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091424678544089512",
+        "in_reply_to_user_id": "1982087657703591936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091383914682302725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugaoOVO 我靠我才知道你是pr80抽奖那个哈哈哈哈哈他特地叫我来转你的帖子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982087657703591936",
+        "conversation_id": "2091176080581521564",
+        "created_at": "2026-08-23T04:35:55.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T05:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091383914682302725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091383914682302725",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091371143068627217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 你也是大美女！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 62,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 39,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 91,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 68,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 127,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 104,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091424678544089512",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7174,
+          "following_count": 166,
+          "like_count": 1045,
+          "listed_count": 13,
+          "media_count": 387,
+          "tweet_count": 3521
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-25T14:11:52.000Z",
+        "description": "超绝美丽的废话大王🚪52/188，同类互fo，可以和我聊天，很爱聊天，intp ，日本語が話せる、気にせずコメントしてください。",
+        "id": "1982087657703591936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091383914682302725",
+        "name": "u糕",
+        "pinned_tweet_id": "2090141630187925697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982087657703591936/1773299547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982087774955053056/njuGsRcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 30,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "ugaoOVO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2085353883598238000",
+    "created_at": "2026-08-07T05:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085599566423068812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989897604055142403",
+          "start": 0,
+          "username": "essss61104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085599566423068812",
+    "in_reply_to_user_id": "1989897604055142403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085430146270740787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@essss61104 哪个是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2085353883598238000",
+        "created_at": "2026-08-07T05:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085599566423068812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989897604055142403",
+              "start": 0,
+              "username": "essss61104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085599566423068812",
+        "in_reply_to_user_id": "1989897604055142403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085430146270740787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@essss61104 哪个是你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989897604055142403",
+        "conversation_id": "2085353883598238000",
+        "created_at": "2026-08-06T18:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085430146270740787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085430146270740787",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085353883598238000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 已赞赏，莫辜负"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 165,
+          "like_count": 992,
+          "listed_count": 11,
+          "media_count": 330,
+          "tweet_count": 2986
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T03:25:44.000Z",
+        "description": "190/26/法律",
+        "id": "1989897604055142403",
+        "location": "United States",
+        "name": "essss_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989912463698190336/qcXhLbR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "essss61104",
+        "verified": false
+      }
+    ]
+  }
+}

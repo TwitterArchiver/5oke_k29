@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2088746738530267550",
+    "created_at": "2026-08-19T14:20:44.000Z",
+    "display_text_range": [
+      13,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090081533201940756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2075940831606038528",
+          "start": 0,
+          "username": "AvaSmitnhvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090081533201940756",
+    "in_reply_to_user_id": "2075940831606038528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089035844757684539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AvaSmitnhvu 谢谢 我打了针的 医美🥹我好像刷到过你！你的照片很眼熟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2088746738530267550",
+        "created_at": "2026-08-19T14:20:44.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090081533201940756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2075940831606038528",
+              "start": 0,
+              "username": "AvaSmitnhvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090081533201940756",
+        "in_reply_to_user_id": "2075940831606038528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089035844757684539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AvaSmitnhvu 谢谢 我打了针的 医美🥹我好像刷到过你！你的照片很眼熟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075940831606038528",
+        "conversation_id": "2088746738530267550",
+        "created_at": "2026-08-16T17:05:32.000Z",
+        "display_text_range": [
+          10,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089035844757684539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089035844757684539",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088746738530267550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 I love your face shape 😭💕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 62,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 39,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 91,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 68,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 127,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 104,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090081533201940756",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7060,
+          "following_count": 163,
+          "like_count": 1024,
+          "listed_count": 13,
+          "media_count": 367,
+          "tweet_count": 3377
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-11T13:59:06.000Z",
+        "description": "༺♡༻ fb!\n#shedtwt Edtwt\nrip my old acc 😭\ntrying new substances, same bad decisions on repeat.\n♡ dms open!\nhttps://t.co/TsTc4LV45n\n\nplease block, don't report! ♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 8,
+                "tag": "shedtwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/primehart",
+                "end": 128,
+                "expanded_url": "https://t.me/primehart",
+                "start": 105,
+                "url": "https://t.co/TsTc4LV45n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/primehart",
+                "end": 23,
+                "expanded_url": "https://t.me/primehart",
+                "start": 0,
+                "url": "https://t.co/TsTc4LV45n"
+              }
+            ]
+          }
+        },
+        "id": "2075940831606038528",
+        "is_identity_verified": false,
+        "location": "Virginia, USA",
+        "most_recent_tweet_id": "2089962443329990950",
+        "name": "ava ♡˚₊‧ shedtwt",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075940831606038528/1784377355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078455390514126849/An1Gkhr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 295,
+          "like_count": 596,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/TsTc4LV45n",
+        "username": "AvaSmitnhvu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

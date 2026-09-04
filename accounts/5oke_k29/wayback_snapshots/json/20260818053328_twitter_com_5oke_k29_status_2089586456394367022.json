@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2088746738530267550",
+    "created_at": "2026-08-18T05:33:28.000Z",
+    "display_text_range": [
+      9,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089586456394367022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1561362416977317895",
+          "start": 0,
+          "username": "D3fkist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089586456394367022",
+    "in_reply_to_user_id": "1561362416977317895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089570638382211513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3fkist 关你屁事傻逼就吸老子就吸 就有钱买 滚 穷逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2088746738530267550",
+        "created_at": "2026-08-18T05:33:28.000Z",
+        "display_text_range": [
+          9,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089586456394367022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561362416977317895",
+              "start": 0,
+              "username": "D3fkist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089586456394367022",
+        "in_reply_to_user_id": "1561362416977317895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089570638382211513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3fkist 关你屁事傻逼就吸老子就吸 就有钱买 滚 穷逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561362416977317895",
+        "conversation_id": "2088746738530267550",
+        "created_at": "2026-08-18T04:30:37.000Z",
+        "display_text_range": [
+          10,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089570638382211513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089570638382211513",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088746738530267550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 其实我希望你们这些人能快一点死亡 感觉活着没有太大意义 也没人在乎管你们 为什么不去自杀啊 去地府耍起"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 44,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 21,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 73,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 50,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 109,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 86,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089586456394367022",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7029,
+          "following_count": 159,
+          "like_count": 1017,
+          "listed_count": 13,
+          "media_count": 358,
+          "tweet_count": 3284
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-21T14:39:52.000Z",
+        "description": "",
+        "id": "1561362416977317895",
+        "is_identity_verified": false,
+        "location": "ᅠ",
+        "most_recent_tweet_id": "2089570638382211513",
+        "name": "n",
+        "pinned_tweet_id": "1985322478248603997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561362416977317895/1741711767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063954996040011776/DJHcal7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "D3fkist",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

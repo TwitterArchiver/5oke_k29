@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087115916714864640"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2087115951745663181",
+    "created_at": "2026-08-11T09:56:34.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087115951745663181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C3HU7EeGm0",
+          "end": 41,
+          "expanded_url": "https://x.com/5oke_k29/status/2087115951745663181/video/1",
+          "media_key": "13_2087115916714864640",
+          "start": 18,
+          "url": "https://t.co/C3HU7EeGm0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087115951745663181",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087115916714864640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等快递到了我就回家吧 想家想家.. https://t.co/C3HU7EeGm0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19100,
+        "height": 720,
+        "media_key": "13_2087115916714864640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087115916714864640/img/vQuIlTXGvovSgWNH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087115916714864640/vid/avc1/480x270/a-ETl7e9xiWTEbn2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087115916714864640/vid/avc1/640x360/IVvW7I1pdFzSZ7c2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087115916714864640/vid/avc1/1280x720/3HBX8EudmFImNZHP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087115916714864640/pl/YLDib6XqilSRFRgd.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087115916714864640"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2087115951745663181",
+        "created_at": "2026-08-11T09:56:34.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087115951745663181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C3HU7EeGm0",
+              "end": 41,
+              "expanded_url": "https://x.com/5oke_k29/status/2087115951745663181/video/1",
+              "media_key": "13_2087115916714864640",
+              "start": 18,
+              "url": "https://t.co/C3HU7EeGm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087115951745663181",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087115916714864640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等快递到了我就回家吧 想家想家.. https://t.co/C3HU7EeGm0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087115951745663181",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 150,
+          "like_count": 995,
+          "listed_count": 11,
+          "media_count": 331,
+          "tweet_count": 3011
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

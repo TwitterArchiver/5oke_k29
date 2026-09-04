@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2089333149998448680",
+    "created_at": "2026-08-17T17:48:15.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T18:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089408982960235008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1670550400712298496",
+          "start": 0,
+          "username": "IBsmxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089408982960235008",
+    "in_reply_to_user_id": "1670550400712298496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089344437432537247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IBsmxx 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2089333149998448680",
+        "created_at": "2026-08-17T17:48:15.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089408982960235008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1670550400712298496",
+              "start": 0,
+              "username": "IBsmxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089408982960235008",
+        "in_reply_to_user_id": "1670550400712298496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089344437432537247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IBsmxx 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670550400712298496",
+        "conversation_id": "2089333149998448680",
+        "created_at": "2026-08-17T13:31:46.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089344437432537247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089344437432537247",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089333149998448680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 太可爱了猫猫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 44,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 21,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 73,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 50,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 109,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 86,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089408982960235008",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6877,
+          "following_count": 157,
+          "like_count": 996,
+          "listed_count": 13,
+          "media_count": 350,
+          "tweet_count": 3185
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-18T21:54:01.000Z",
+        "description": "师从 INTOXICATE 原在日进修捆绑 男摄 现坐标 0371 私房写真 绳缚体验 SM调教 。",
+        "id": "1670550400712298496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089344437432537247",
+        "name": "T7K_ Private shooting",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670550400712298496/1766836420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061028428170825728/BxnByHtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1102,
+          "like_count": 6147,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 503
+        },
+        "url": "",
+        "username": "IBsmxx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

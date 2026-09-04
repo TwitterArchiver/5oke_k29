@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089451869261426688"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2089416068314075350",
+    "created_at": "2026-08-17T20:38:42.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T21:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089451876177883337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NU7TRj2Cgs",
+          "end": 30,
+          "expanded_url": "https://x.com/5oke_k29/status/2089451876177883337/photo/1",
+          "media_key": "3_2089451869261426688",
+          "start": 7,
+          "url": "https://t.co/NU7TRj2Cgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089451876177883337",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089451869261426688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089416068314075350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她号也被封了 https://t.co/NU7TRj2Cgs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089451869261426688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP85Z5qacAA7c0P.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089416058574917632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8Y1cda0AAoS1M.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089451869261426688"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2089416068314075350",
+        "created_at": "2026-08-17T20:38:42.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T21:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089451876177883337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NU7TRj2Cgs",
+              "end": 30,
+              "expanded_url": "https://x.com/5oke_k29/status/2089451876177883337/photo/1",
+              "media_key": "3_2089451869261426688",
+              "start": 7,
+              "url": "https://t.co/NU7TRj2Cgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089451876177883337",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089451869261426688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089416068314075350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她号也被封了 https://t.co/NU7TRj2Cgs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089416058574917632"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2089416068314075350",
+        "created_at": "2026-08-17T18:16:24.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089416068314075350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6PzNQBU1z",
+              "end": 25,
+              "expanded_url": "https://x.com/5oke_k29/status/2089416068314075350/photo/1",
+              "media_key": "3_2089416058574917632",
+              "start": 2,
+              "url": "https://t.co/Z6PzNQBU1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089416068314075350",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089416058574917632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9842,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/Z6PzNQBU1z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 44,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 21,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 73,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 50,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 109,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 86,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089451876177883337",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6928,
+          "following_count": 159,
+          "like_count": 1019,
+          "listed_count": 13,
+          "media_count": 356,
+          "tweet_count": 3264
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

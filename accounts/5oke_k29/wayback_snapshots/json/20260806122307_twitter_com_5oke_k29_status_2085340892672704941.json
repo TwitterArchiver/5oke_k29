@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2085077831609151853",
+    "created_at": "2026-08-06T12:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085340892672704941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898513855174828032",
+          "start": 0,
+          "username": "momo1562263"
+        },
+        {
+          "end": 25,
+          "id": "2030442973876637696",
+          "start": 13,
+          "username": "xiaowan8866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085340892672704941",
+    "in_reply_to_user_id": "1898513855174828032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085333400861462956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo1562263 @xiaowan8866 什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2085077831609151853",
+        "created_at": "2026-08-06T12:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085340892672704941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898513855174828032",
+              "start": 0,
+              "username": "momo1562263"
+            },
+            {
+              "end": 25,
+              "id": "2030442973876637696",
+              "start": 13,
+              "username": "xiaowan8866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085340892672704941",
+        "in_reply_to_user_id": "1898513855174828032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085333400861462956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo1562263 @xiaowan8866 什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898513855174828032",
+        "conversation_id": "2085077831609151853",
+        "created_at": "2026-08-06T11:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085333400861462956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030442973876637696",
+              "start": 0,
+              "username": "xiaowan8866"
+            },
+            {
+              "end": 22,
+              "id": "1317689258052710400",
+              "start": 13,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085333400861462956",
+        "in_reply_to_user_id": "2030442973876637696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085311191090614561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowan8866 @5oke_k29 她为什么不回骂你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5826,
+          "following_count": 165,
+          "like_count": 992,
+          "listed_count": 11,
+          "media_count": 329,
+          "tweet_count": 2977
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T23:19:20.000Z",
+        "description": "",
+        "id": "1898513855174828032",
+        "location": "Th",
+        "name": "重庆市的雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085175871179268096/3TmEwJHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "momo1562263",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T00:38:39.000Z",
+        "description": "",
+        "id": "2030442973876637696",
+        "name": "防城的船",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085180182961569792/fYg0JX86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "xiaowan8866",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2086880193122324867",
+    "created_at": "2026-08-11T08:31:42.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087094593326391765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1812852553648148480",
+          "start": 0,
+          "username": "junmiyuki_chann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087094593326391765",
+    "in_reply_to_user_id": "1812852553648148480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087002280432431269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@junmiyuki_chann 老婆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2086880193122324867",
+        "created_at": "2026-08-11T08:31:42.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087094593326391765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1812852553648148480",
+              "start": 0,
+              "username": "junmiyuki_chann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087094593326391765",
+        "in_reply_to_user_id": "1812852553648148480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087002280432431269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@junmiyuki_chann 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812852553648148480",
+        "conversation_id": "2086880193122324867",
+        "created_at": "2026-08-11T02:24:52.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087002280432431269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087002280432431269",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086880193122324867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 抱抱你..心疼你，我爱你呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087094593326391765",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5959,
+          "following_count": 150,
+          "like_count": 994,
+          "listed_count": 11,
+          "media_count": 330,
+          "tweet_count": 3007
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-15T14:11:54.000Z",
+        "description": "𓏲ָ♡ 18歳です/鬱病の治療中/日本語English中国語 𓈒⊹⋆",
+        "id": "1812852553648148480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087002604471800148",
+        "name": "ʚ ♡ ɞ",
+        "pinned_tweet_id": "2079812183995937222",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812852553648148480/1728120734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993163541101297665/PQdOiAIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 88,
+          "like_count": 1258,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "junmiyuki_chann",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

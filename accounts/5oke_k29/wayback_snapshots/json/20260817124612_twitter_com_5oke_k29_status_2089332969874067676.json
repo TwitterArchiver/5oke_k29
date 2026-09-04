@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2089317349052829934",
+    "created_at": "2026-08-17T12:46:12.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089332969874067676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1971792208497201155",
+          "start": 0,
+          "username": "Daosenpai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089332969874067676",
+    "in_reply_to_user_id": "1971792208497201155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089317349052829934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daosenpai 居然叫这个 我的就叫福福"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3001,
+        "height": 1280,
+        "media_key": "13_2089317330295861248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089317330295861248/img/2aCy3Mca1qmmKpux.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089317330295861248/vid/avc1/320x568/dnBFkCZo7u7Txx0o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089317330295861248/vid/avc1/480x852/2RIDa0PvHGOSsPNO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089317330295861248/vid/avc1/720x1280/eFA30zFIBIiiQ9pG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089317330295861248/pl/G7vRzWbSFWkozgQx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2089317349052829934",
+        "created_at": "2026-08-17T12:46:12.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089332969874067676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1971792208497201155",
+              "start": 0,
+              "username": "Daosenpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089332969874067676",
+        "in_reply_to_user_id": "1971792208497201155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089317349052829934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daosenpai 居然叫这个 我的就叫福福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089317330295861248"
+          ]
+        },
+        "author_id": "1971792208497201155",
+        "conversation_id": "2089317349052829934",
+        "created_at": "2026-08-17T11:44:08.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089317349052829934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMSYsl8OKQ",
+              "end": 31,
+              "expanded_url": "https://x.com/Daosenpai/status/2089317349052829934/video/1",
+              "media_key": "13_2089317330295861248",
+              "start": 8,
+              "url": "https://t.co/dMSYsl8OKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089317349052829934",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089317330295861248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "格温这个萌.. https://t.co/dMSYsl8OKQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 44,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 21,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 73,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 50,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 109,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 86,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089332969874067676",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6815,
+          "following_count": 157,
+          "like_count": 995,
+          "listed_count": 13,
+          "media_count": 344,
+          "tweet_count": 3166
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T04:21:24.000Z",
+        "description": "原来我本身就是一堆破烂",
+        "id": "1971792208497201155",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089325334302962031",
+        "name": "真心话就是大冒险",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971792820945240064/Chbvst7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 53,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "Daosenpai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2092582168468041882",
+    "created_at": "2026-08-26T11:57:21.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092582168468041882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artists/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/drug_artists/status/2092520602976530607",
+          "start": 5,
+          "url": "https://t.co/RIjSyWmWkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092582168468041882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092520602976530607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又复活了 https://t.co/RIjSyWmWkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2092520585696043008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQogYtOa4AAbtDi.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2092520594567016448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQogZORbMAAs2hG.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2092582168468041882",
+        "created_at": "2026-08-26T11:57:21.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092582168468041882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artists/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/drug_artists/status/2092520602976530607",
+              "start": 5,
+              "url": "https://t.co/RIjSyWmWkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092582168468041882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092520602976530607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又复活了 https://t.co/RIjSyWmWkh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092520585696043008",
+            "3_2092520594567016448"
+          ]
+        },
+        "author_id": "2092515995982405632",
+        "conversation_id": "2092520602976530607",
+        "created_at": "2026-08-26T07:52:43.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092520602976530607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SR1IH1ukLC",
+              "end": 85,
+              "expanded_url": "https://x.com/drug_artists/status/2092520602976530607/photo/1",
+              "media_key": "3_2092520585696043008",
+              "start": 62,
+              "url": "https://t.co/SR1IH1ukLC"
+            },
+            {
+              "display_url": "pic.x.com/SR1IH1ukLC",
+              "end": 85,
+              "expanded_url": "https://x.com/drug_artists/status/2092520602976530607/photo/1",
+              "media_key": "3_2092520594567016448",
+              "start": 62,
+              "url": "https://t.co/SR1IH1ukLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092520602976530607",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092520585696043008"
+          },
+          {
+            "media_key": "3_2092520594567016448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "复活第七世 老梗新发\n你药物百科wiki主沐雨是视觉系，地雷系，长发男娘，药师，药圈英雄，4i皇帝，udg听众还有谁不知道 https://t.co/SR1IH1ukLC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 62,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 39,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 91,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 68,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 127,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 104,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092582168468041882",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7209,
+          "following_count": 167,
+          "like_count": 1043,
+          "listed_count": 13,
+          "media_count": 395,
+          "tweet_count": 3553
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T07:35:54.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|4i男娘INFPI|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy! 年号雨玄二年 名人堂梦工厂RC-沐雨零售策划药产品联系我的tg：@drug_artist 我的双子星：@qiyueqiye11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 99,
+                "username": "drug_artist"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "qiyueqiye11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/rAo7LDWd5e"
+              }
+            ]
+          }
+        },
+        "id": "2092515995982405632",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2092524856709673040",
+        "name": "沐雨七世",
+        "pinned_tweet_id": "2092520602976530607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092515995982405632/1787729965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092516771899289600/4hmL4VXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 24,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/rAo7LDWd5e",
+        "username": "drug_artists",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

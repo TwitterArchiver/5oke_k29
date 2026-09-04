@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2090535515066122460",
+    "created_at": "2026-08-21T03:57:10.000Z",
+    "display_text_range": [
+      11,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090649384979701787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840013744489017345",
+          "start": 0,
+          "username": "xnttkxTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090649384979701787",
+    "in_reply_to_user_id": "1840013744489017345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090535515066122460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnttkxTvT 笑死我了 我怎么没有啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15800,
+        "height": 1280,
+        "media_key": "13_2090535487337570304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090535487337570304/img/tyjiHd3TP_8o_sod.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090535487337570304/vid/avc1/320x694/55G9PY3UvC4z_6r-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090535487337570304/vid/avc1/480x1040/DLmWXk9-45h9Aoaw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090535487337570304/vid/avc1/590x1280/EHekA7vYG2LWXige.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090535487337570304/pl/UeGodqmEox_BRkV5.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2090535515066122460",
+        "created_at": "2026-08-21T03:57:10.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090649384979701787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840013744489017345",
+              "start": 0,
+              "username": "xnttkxTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090649384979701787",
+        "in_reply_to_user_id": "1840013744489017345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090535515066122460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnttkxTvT 笑死我了 我怎么没有啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090535487337570304"
+          ]
+        },
+        "author_id": "1840013744489017345",
+        "conversation_id": "2090535515066122460",
+        "created_at": "2026-08-20T20:24:41.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T21:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090535515066122460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5S0Tf0y7YA",
+              "end": 48,
+              "expanded_url": "https://x.com/xnttkxTvT/status/2090535515066122460/video/1",
+              "media_key": "13_2090535487337570304",
+              "start": 25,
+              "url": "https://t.co/5S0Tf0y7YA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090535515066122460",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090535487337570304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个抖音真是死了全家 直接保存视频还有一大串水印 https://t.co/5S0Tf0y7YA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 62,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 39,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 91,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 68,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 127,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 104,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090649384979701787",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7118,
+          "following_count": 164,
+          "like_count": 1036,
+          "listed_count": 13,
+          "media_count": 376,
+          "tweet_count": 3437
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-28T13:00:50.000Z",
+        "description": "叫我12吧 11年的 找我互fo呀 每天经营自己的小糖豆生活 比较喜欢玩手游 一起玩的私我呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/n%E2%80%86n%E2…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/n%E2%80%86n%E2%80%86n%E2%80%86n23979",
+                "start": 0,
+                "url": "https://t.co/HyTCiTshmW"
+              }
+            ]
+          }
+        },
+        "id": "1840013744489017345",
+        "is_identity_verified": false,
+        "location": "提问",
+        "most_recent_tweet_id": "2090535515066122460",
+        "name": "12",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840013744489017345/1784644989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084662227039289345/rxyE_XVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 86,
+          "like_count": 3685,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/HyTCiTshmW",
+        "username": "xnttkxTvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

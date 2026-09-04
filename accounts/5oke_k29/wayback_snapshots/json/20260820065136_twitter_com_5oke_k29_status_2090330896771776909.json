@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090330851385159681"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2090330896771776909",
+    "created_at": "2026-08-20T06:51:36.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090330896771776909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yfFp4AQeqc",
+          "end": 27,
+          "expanded_url": "https://x.com/5oke_k29/status/2090330896771776909/video/1",
+          "media_key": "13_2090330851385159681",
+          "start": 4,
+          "url": "https://t.co/yfFp4AQeqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090330896771776909",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2090330851385159681"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太夯了 https://t.co/yfFp4AQeqc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23933,
+        "height": 720,
+        "media_key": "13_2090330851385159681",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090330851385159681/img/_jmSeN6-bf4THX7x.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090330851385159681/vid/avc1/480x270/jDsXtNmNIXuac7Gd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090330851385159681/vid/avc1/640x360/XNUUK8W8yPVigNzw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090330851385159681/vid/avc1/1280x720/Pl2cy2AOoYutsHky.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090330851385159681/pl/296DVhwUWLYSKKaZ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090330851385159681"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2090330896771776909",
+        "created_at": "2026-08-20T06:51:36.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090330896771776909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfFp4AQeqc",
+              "end": 27,
+              "expanded_url": "https://x.com/5oke_k29/status/2090330896771776909/video/1",
+              "media_key": "13_2090330851385159681",
+              "start": 4,
+              "url": "https://t.co/yfFp4AQeqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090330896771776909",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090330851385159681"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太夯了 https://t.co/yfFp4AQeqc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 62,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 39,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 91,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 68,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 127,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 104,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090330901624619388",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7081,
+          "following_count": 164,
+          "like_count": 1028,
+          "listed_count": 13,
+          "media_count": 373,
+          "tweet_count": 3404
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

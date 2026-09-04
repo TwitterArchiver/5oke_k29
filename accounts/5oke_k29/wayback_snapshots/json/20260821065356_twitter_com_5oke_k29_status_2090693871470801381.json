@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090693850952314880"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090330896771776909",
+    "created_at": "2026-08-21T06:53:56.000Z",
+    "display_text_range": [
+      9,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T07:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090693871470801381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1642729669962203141",
+          "start": 0,
+          "username": "z662790"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iG2q8gxv9F",
+          "end": 83,
+          "expanded_url": "https://x.com/5oke_k29/status/2090693871470801381/photo/1",
+          "media_key": "3_2090693850952314880",
+          "start": 60,
+          "url": "https://t.co/iG2q8gxv9F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090693871470801381",
+    "in_reply_to_user_id": "1642729669962203141",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090693850952314880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090682640093565409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z662790 买了！有点轻 飘飘的 但是点头击杀反馈又特别爽 别的枪击杀反馈也很爽 刀很好用 还有彩蛋 我觉得很值 https://t.co/iG2q8gxv9F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2090693850952314880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOi-wAbMAAn3aJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090693850952314880"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090330896771776909",
+        "created_at": "2026-08-21T06:53:56.000Z",
+        "display_text_range": [
+          9,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090693871470801381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1642729669962203141",
+              "start": 0,
+              "username": "z662790"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iG2q8gxv9F",
+              "end": 83,
+              "expanded_url": "https://x.com/5oke_k29/status/2090693871470801381/photo/1",
+              "media_key": "3_2090693850952314880",
+              "start": 60,
+              "url": "https://t.co/iG2q8gxv9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090693871470801381",
+        "in_reply_to_user_id": "1642729669962203141",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090693850952314880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090682640093565409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z662790 买了！有点轻 飘飘的 但是点头击杀反馈又特别爽 别的枪击杀反馈也很爽 刀很好用 还有彩蛋 我觉得很值 https://t.co/iG2q8gxv9F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642729669962203141",
+        "conversation_id": "2090330896771776909",
+        "created_at": "2026-08-21T06:09:19.000Z",
+        "display_text_range": [
+          10,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090682640093565409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090682640093565409",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090330896771776909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 你买了全套嘛老婆 手感怎么样啊 我一直在纠结"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 62,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 39,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 91,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 68,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 127,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 104,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090693871470801381",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7117,
+          "following_count": 164,
+          "like_count": 1042,
+          "listed_count": 13,
+          "media_count": 379,
+          "tweet_count": 3454
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-03T03:24:21.000Z",
+        "description": "07年 /178 /125 /entj-a /北京必吃榜top1",
+        "id": "1642729669962203141",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090687730653245569",
+        "name": "电子小猫",
+        "pinned_tweet_id": "2086237343032524937",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872925101261217792/jdYxS5Ag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8938,
+          "following_count": 14,
+          "like_count": 99,
+          "listed_count": 27,
+          "media_count": 46,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "z662790",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

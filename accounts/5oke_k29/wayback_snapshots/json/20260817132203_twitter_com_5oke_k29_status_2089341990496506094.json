@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2085077831609151853",
+    "created_at": "2026-08-17T13:22:03.000Z",
+    "display_text_range": [
+      30,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089341990496506094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1649730831215370242",
+          "start": 0,
+          "username": "cccpgoodman"
+        },
+        {
+          "end": 29,
+          "id": "2001748725384011776",
+          "start": 13,
+          "username": "dd3784666720403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089341990496506094",
+    "in_reply_to_user_id": "1649730831215370242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089337388636266553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cccpgoodman @dd3784666720403 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2085077831609151853",
+        "created_at": "2026-08-17T13:22:03.000Z",
+        "display_text_range": [
+          30,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089341990496506094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649730831215370242",
+              "start": 0,
+              "username": "cccpgoodman"
+            },
+            {
+              "end": 29,
+              "id": "2001748725384011776",
+              "start": 13,
+              "username": "dd3784666720403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089341990496506094",
+        "in_reply_to_user_id": "1649730831215370242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089337388636266553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cccpgoodman @dd3784666720403 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649730831215370242",
+        "conversation_id": "2085077831609151853",
+        "created_at": "2026-08-17T13:03:46.000Z",
+        "display_text_range": [
+          27,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089337388636266553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001748725384011776",
+              "start": 0,
+              "username": "dd3784666720403"
+            },
+            {
+              "end": 26,
+              "id": "1317689258052710400",
+              "start": 17,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089337388636266553",
+        "in_reply_to_user_id": "2001748725384011776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085103913548521547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd3784666720403 @5oke_k29 这是普瑞巴林吧？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 44,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 21,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 73,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 50,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 109,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 86,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089341990496506094",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6818,
+          "following_count": 157,
+          "like_count": 995,
+          "listed_count": 13,
+          "media_count": 346,
+          "tweet_count": 3173
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-22T11:04:28.000Z",
+        "description": "",
+        "id": "1649730831215370242",
+        "is_identity_verified": false,
+        "location": "Auckland, New Zealand",
+        "most_recent_tweet_id": "2089341222829871294",
+        "name": "Lovecraft Goodman",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649730831215370242/1683823387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723527226472439808/DlawHUPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 133,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "cccpgoodman",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-18T20:17:58.000Z",
+        "description": "",
+        "id": "2001748725384011776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2085103913548521547",
+        "name": "迪迪",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001758936873967616/-C7r0A_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "dd3784666720403",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

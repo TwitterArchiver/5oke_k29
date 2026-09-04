@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2091157487739396328",
+    "created_at": "2026-08-22T13:45:15.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091159767318396967"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091159767318396967",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091157487739396328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "味道太大了 必须去厕所"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86630,
+        "height": 720,
+        "media_key": "13_2091157388867108865",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091157388867108865/img/lWGutg-LOpaBPft8.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091157388867108865/vid/avc1/480x270/6z24XAY3A9M7TYew.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091157388867108865/vid/avc1/640x360/iDKxkHGfQ4dTHBzE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091157388867108865/vid/avc1/1280x720/Gm3wB3aj9ML-aUOs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091157388867108865/pl/epLJW38-b9JdyjpR.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2091157487739396328",
+        "created_at": "2026-08-22T13:45:15.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091159767318396967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091159767318396967",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091157487739396328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "味道太大了 必须去厕所"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091157388867108865"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2091157487739396328",
+        "created_at": "2026-08-22T13:36:11.000Z",
+        "display_text_range": [
+          0,
+          214
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091157487739396328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWi29fE37I",
+              "end": 238,
+              "expanded_url": "https://x.com/5oke_k29/status/2091157487739396328/video/1",
+              "media_key": "13_2091157388867108865",
+              "start": 215,
+              "url": "https://t.co/gWi29fE37I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091157487739396328",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091157388867108865"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 68,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "艺术演绎视频，内容全部属于表演剧情，虚构情节，请勿模仿剧情行为，请勿过度解读观点。This is an artistic performance video. The content is entirely fictional and involves performance scenes. Please do not imitate the actions or interpretations of the scenes. https://t.co/gWi29fE37I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 62,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 39,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 91,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 68,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 127,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 104,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091159767318396967",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7159,
+          "following_count": 165,
+          "like_count": 1046,
+          "listed_count": 13,
+          "media_count": 384,
+          "tweet_count": 3497
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

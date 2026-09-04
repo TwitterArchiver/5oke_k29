@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2084409892371148800"
+      ],
+      "media_source_tweet_id": [
+        "2084410012684685534"
+      ]
+    },
+    "author_id": "1317689258052710400",
+    "conversation_id": "2085245774234005855",
+    "created_at": "2026-08-06T06:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085245774234005855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "412997648",
+          "start": 3,
+          "username": "hardestgifs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YBVoOZ2u4y",
+          "end": 40,
+          "expanded_url": "https://x.com/hardestgifs/status/2084410012684685534/photo/1",
+          "media_key": "16_2084409892371148800",
+          "start": 17,
+          "url": "https://t.co/YBVoOZ2u4y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085245774234005855",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1418
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084410012684685534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hardestgifs: https://t.co/YBVoOZ2u4y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "16_2084409892371148800",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HO1PwOEXsAAhjuw.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HO1PwOEXsAAhjuw.mp4"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084409892371148800"
+          ]
+        },
+        "author_id": "412997648",
+        "conversation_id": "2084410012684685534",
+        "created_at": "2026-08-03T22:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T23:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084410012684685534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBVoOZ2u4y",
+              "end": 23,
+              "expanded_url": "https://x.com/hardestgifs/status/2084410012684685534/photo/1",
+              "media_key": "16_2084409892371148800",
+              "start": 0,
+              "url": "https://t.co/YBVoOZ2u4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084410012684685534",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2579,
+          "impression_count": 468127,
+          "like_count": 14541,
+          "quote_count": 197,
+          "reply_count": 49,
+          "retweet_count": 1418
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YBVoOZ2u4y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084409892371148800"
+          ],
+          "media_source_tweet_id": [
+            "2084410012684685534"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2085245774234005855",
+        "created_at": "2026-08-06T06:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085245774234005855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "412997648",
+              "start": 3,
+              "username": "hardestgifs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBVoOZ2u4y",
+              "end": 40,
+              "expanded_url": "https://x.com/hardestgifs/status/2084410012684685534/photo/1",
+              "media_key": "16_2084409892371148800",
+              "start": 17,
+              "url": "https://t.co/YBVoOZ2u4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085245774234005855",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1418
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084410012684685534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hardestgifs: https://t.co/YBVoOZ2u4y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5735,
+          "following_count": 165,
+          "like_count": 991,
+          "listed_count": 11,
+          "media_count": 362,
+          "tweet_count": 3032
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-15T11:12:13.000Z",
+        "description": "just for fun",
+        "id": "412997648",
+        "location": "the world",
+        "name": "Hardest GIFs 🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640140330/breakdance_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9869,
+          "following_count": 43,
+          "like_count": 355,
+          "listed_count": 19,
+          "media_count": 233,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "hardestgifs",
+        "verified": false
+      }
+    ]
+  }
+}
