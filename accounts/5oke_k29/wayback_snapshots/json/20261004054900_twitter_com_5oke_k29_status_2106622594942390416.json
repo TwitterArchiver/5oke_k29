@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2102011783540302126",
+    "created_at": "2026-10-04T05:49:00.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T06:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106622594942390416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954467932442169344",
+          "start": 0,
+          "username": "lwi1895203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106622594942390416",
+    "in_reply_to_user_id": "1954467932442169344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106043215207965129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lwi1895203 今日最招"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2102011783540302126",
+        "created_at": "2026-10-04T05:49:00.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106622594942390416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954467932442169344",
+              "start": 0,
+              "username": "lwi1895203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106622594942390416",
+        "in_reply_to_user_id": "1954467932442169344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106043215207965129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lwi1895203 今日最招"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954467932442169344",
+        "conversation_id": "2102011783540302126",
+        "created_at": "2026-10-02T15:26:45.000Z",
+        "display_text_range": [
+          10,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106043215207965129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106043215207965129",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102011783540302126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 小妹妹后天你可以安心的在监狱里度过了，因为我马上就要知道你位置，并报警给警察叔叔哦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦不看滚 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jP5W\n反馈频道：https://t.co/HXYpyZkikA\n商品发布频道(本频道)：https://t.co/vlJyULXa5C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 65,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 42,
+                "url": "https://t.co/VgEHi6jP5W"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 94,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 71,
+                "url": "https://t.co/HXYpyZkikA"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 130,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 107,
+                "url": "https://t.co/vlJyULXa5C"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106622594942390416",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8786,
+          "following_count": 162,
+          "like_count": 1040,
+          "listed_count": 15,
+          "media_count": 384,
+          "tweet_count": 3552
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T09:00:55.000Z",
+        "description": "",
+        "id": "1954467932442169344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106328518934098398",
+        "name": ".",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955177201852125184/pN0gEvGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 82,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "lwi1895203",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

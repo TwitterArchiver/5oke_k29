@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2103035541755478246",
+    "created_at": "2026-09-25T06:55:03.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T07:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103377725016912348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2045450918338977792",
+          "start": 0,
+          "username": "hatemyfkschool"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103377725016912348",
+    "in_reply_to_user_id": "2045450918338977792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103099372313690253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatemyfkschool 对呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2103035541755478246",
+        "created_at": "2026-09-25T06:55:03.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103377725016912348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2045450918338977792",
+              "start": 0,
+              "username": "hatemyfkschool"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103377725016912348",
+        "in_reply_to_user_id": "2045450918338977792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103099372313690253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatemyfkschool 对呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045450918338977792",
+        "conversation_id": "2103035541755478246",
+        "created_at": "2026-09-24T12:28:58.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T13:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103099372313690253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103099372313690253",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103035541755478246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 我去宝宝你也打瓦！🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦不看滚 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jP5W\n反馈频道：https://t.co/HXYpyZkikA\n商品发布频道(本频道)：https://t.co/vlJyULXa5C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 65,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 42,
+                "url": "https://t.co/VgEHi6jP5W"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 94,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 71,
+                "url": "https://t.co/HXYpyZkikA"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 130,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 107,
+                "url": "https://t.co/vlJyULXa5C"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103377725016912348",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8330,
+          "following_count": 161,
+          "like_count": 1041,
+          "listed_count": 15,
+          "media_count": 383,
+          "tweet_count": 3546
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T10:34:50.000Z",
+        "description": "",
+        "id": "2045450918338977792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103100077543756226",
+        "name": "ue.",
+        "pinned_tweet_id": "2095532363090624999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045450918338977792/1778258001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095162203808870402/SPTGNr2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 107,
+          "like_count": 2320,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "hatemyfkschool",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

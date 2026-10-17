@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2102694570182181270",
+    "created_at": "2026-09-25T06:56:30.000Z",
+    "display_text_range": [
+      7,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T07:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103378093004222873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2001097624263516165",
+          "start": 0,
+          "username": "Et9Lh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103378093004222873",
+    "in_reply_to_user_id": "2001097624263516165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103276391420801090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Et9Lh 有拍婴 供奉的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2102694570182181270",
+        "created_at": "2026-09-25T06:56:30.000Z",
+        "display_text_range": [
+          7,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103378093004222873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2001097624263516165",
+              "start": 0,
+              "username": "Et9Lh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103378093004222873",
+        "in_reply_to_user_id": "2001097624263516165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103276391420801090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Et9Lh 有拍婴 供奉的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001097624263516165",
+        "conversation_id": "2102694570182181270",
+        "created_at": "2026-09-25T00:12:23.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T01:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103276391420801090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103276391420801090",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102694570182181270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 有没有老牌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦不看滚 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jP5W\n反馈频道：https://t.co/HXYpyZkikA\n商品发布频道(本频道)：https://t.co/vlJyULXa5C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 65,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 42,
+                "url": "https://t.co/VgEHi6jP5W"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 94,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 71,
+                "url": "https://t.co/HXYpyZkikA"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 130,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 107,
+                "url": "https://t.co/vlJyULXa5C"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103378093004222873",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8330,
+          "following_count": 161,
+          "like_count": 1041,
+          "listed_count": 15,
+          "media_count": 383,
+          "tweet_count": 3548
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-17T01:10:37.000Z",
+        "description": "",
+        "id": "2001097624263516165",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103276391420801090",
+        "name": "太阳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2001097624263516165/1784096804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103276599408050176/le4cSEog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 67,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "Et9Lh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1317689258052710400",
+    "conversation_id": "2102365246262505641",
+    "created_at": "2026-09-23T09:43:08.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T10:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102695250167025836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534344658033180672",
+          "start": 0,
+          "username": "_tom0e_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102695250167025836",
+    "in_reply_to_user_id": "1534344658033180672",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102378381577003141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_tom0e_x ovo"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2102378381577003141].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2102378381577003141",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2102378381577003141"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2102365246262505641",
+        "created_at": "2026-09-23T09:43:08.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102695250167025836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534344658033180672",
+              "start": 0,
+              "username": "_tom0e_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102695250167025836",
+        "in_reply_to_user_id": "1534344658033180672",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102378381577003141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_tom0e_x ovo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦不看滚 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jP5W\n反馈频道：https://t.co/HXYpyZkikA\n商品发布频道(本频道)：https://t.co/vlJyULXa5C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 65,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 42,
+                "url": "https://t.co/VgEHi6jP5W"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 94,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 71,
+                "url": "https://t.co/HXYpyZkikA"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 130,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 107,
+                "url": "https://t.co/vlJyULXa5C"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102695250167025836",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8090,
+          "following_count": 163,
+          "like_count": 1040,
+          "listed_count": 15,
+          "media_count": 379,
+          "tweet_count": 3534
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ 統合失調効果障害| SH | BPD | 🚬✨EN / JP / CN / A 🟦 地雷",
+        "id": "1534344658033180672",
+        "is_identity_verified": false,
+        "location": "Somewhere In Nyc",
+        "most_recent_tweet_id": "2102061842017267905",
+        "name": "Sara 🖤/ともえ🩵",
+        "pinned_tweet_id": "2082287037265146250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534344658033180672/1783093476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084323330220253184/0V21pyMp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 238,
+          "like_count": 83903,
+          "listed_count": 4,
+          "media_count": 460,
+          "tweet_count": 3359
+        },
+        "url": "",
+        "username": "_tom0e_x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
