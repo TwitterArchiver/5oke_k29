@@ -1,7 +1,7 @@
 {
   "name": "穹",
   "username": "@5oke_k29",
-  "bio": "傻逼别烦 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.me/+TBySRMOZqn4wM2Vk\n反馈频道：https://t.me/LemonRCFeedBack\n商品发布频道(本频道)：https://t.me/SparrowLemonade",
+  "bio": "傻逼别烦不看滚 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.me/+TBySRMOZqn4wM2Vk\n反馈频道：https://t.me/LemonRCFeedBack\n商品发布频道(本频道)：https://t.me/SparrowLemonade",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -11,32 +11,32 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 34,
-        "start": 23,
+        "end": 37,
+        "start": 26,
         "username": "5koPainful"
       }
     ],
     "urls": [
       {
         "display_url": "t.me/+TBySRMOZqn4wM…",
-        "end": 62,
+        "end": 65,
         "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
-        "start": 39,
-        "url": "https://t.co/VgEHi6jhgo"
+        "start": 42,
+        "url": "https://t.co/VgEHi6jP5W"
       },
       {
         "display_url": "t.me/LemonRCFeedBack",
-        "end": 91,
+        "end": 94,
         "expanded_url": "https://t.me/LemonRCFeedBack",
-        "start": 68,
-        "url": "https://t.co/HXYpyZjKv2"
+        "start": 71,
+        "url": "https://t.co/HXYpyZkikA"
       },
       {
         "display_url": "t.me/SparrowLemonade",
-        "end": 127,
+        "end": 130,
         "expanded_url": "https://t.me/SparrowLemonade",
-        "start": 104,
-        "url": "https://t.co/vlJyULWCg4"
+        "start": 107,
+        "url": "https://t.co/vlJyULXa5C"
       }
     ]
   }
